@@ -1,0 +1,40 @@
+{
+  "titulo_doc": "O Jardim Entre o Agora e o Depois — V2",
+  "nota": "manuscrito/nota.txt",
+  "prologo": {"titulo": "PRÓLOGO — A CASA ACESA", "arquivo": "manuscrito/prologo.txt"},
+  "partes": [
+    {"numero": "I", "titulo": "PARTE I — QUANDO O SONHO VIRA ROTINA", "capitulos": [
+      {"n": 1, "titulo": "O PRESENTE", "arquivo": "manuscrito/parte1/cap01.txt"},
+      {"n": 2, "titulo": "OKINAWA", "arquivo": "manuscrito/parte1/cap02.txt"},
+      {"n": 3, "titulo": "MATEO", "arquivo": "manuscrito/parte1/cap03.txt"},
+      {"n": 4, "titulo": "A FRASE QUE NÃO CABIA NA PLANILHA", "arquivo": "manuscrito/parte1/cap04.txt"},
+      {"n": 5, "titulo": "O LADO DE QUEM ESPERA", "arquivo": "manuscrito/parte1/cap05.txt"}]},
+    {"numero": "II", "titulo": "PARTE II — A CAPINA", "capitulos": [
+      {"n": 6, "titulo": "A CASA DO SENHOR MORI", "arquivo": "manuscrito/parte2/cap06.txt"},
+      {"n": 7, "titulo": "O DESERTO", "arquivo": "manuscrito/parte2/cap07.txt"},
+      {"n": 8, "titulo": "A PRIMEIRA ORAÇÃO", "arquivo": "manuscrito/parte2/cap08.txt"}]},
+    {"numero": "III", "titulo": "PARTE III — RECUPERAR O ORDINÁRIO", "capitulos": [
+      {"n": 9, "titulo": "UMA PRAIA SEM NADA", "arquivo": "manuscrito/parte3/cap09.txt"},
+      {"n": 10, "titulo": "QUATRO PERGUNTAS", "arquivo": "manuscrito/parte3/cap10.txt"},
+      {"n": 11, "titulo": "O BATISMO", "arquivo": "manuscrito/parte3/cap11.txt"}]},
+    {"numero": "IV", "titulo": "PARTE IV — O PRÓXIMO NÍVEL", "capitulos": [
+      {"n": 12, "titulo": "A CADEIRA VAZIA", "arquivo": "manuscrito/parte4/cap12.txt"},
+      {"n": 13, "titulo": "A VELHA FOME", "arquivo": "manuscrito/parte4/cap13.txt"},
+      {"n": 14, "titulo": "A RÉGUA DOS OUTROS", "arquivo": "manuscrito/parte4/cap14.txt"},
+      {"n": 15, "titulo": "A MUDA", "arquivo": "manuscrito/parte4/cap15.txt"}]},
+    {"numero": "V", "titulo": "PARTE V — O PREÇO DO PRÓXIMO NÍVEL", "capitulos": [
+      {"n": 16, "titulo": "SETENTA E DUAS HORAS", "arquivo": "manuscrito/parte5/cap16.txt"},
+      {"n": 17, "titulo": "POR CAUSA DE ORDEM", "arquivo": "manuscrito/parte5/cap17.txt"},
+      {"n": 18, "titulo": "O PAI E A PASTA", "arquivo": "manuscrito/parte5/cap18.txt"},
+      {"n": 19, "titulo": "QUANDO A VIRTUDE NÃO PAGA BOLETO", "arquivo": "manuscrito/parte5/cap19.txt"},
+      {"n": 20, "titulo": "PODEMOS REVER", "arquivo": "manuscrito/parte5/cap20.txt"},
+      {"n": 21, "titulo": "COMPRAR OU SER COMPRADO", "arquivo": "manuscrito/parte5/cap21.txt"}]},
+    {"numero": "VI", "titulo": "PARTE VI — A COLHEITA", "capitulos": [
+      {"n": 22, "titulo": "KURODA NÃO ERA O VILÃO", "arquivo": "manuscrito/parte6/cap22.txt"},
+      {"n": 23, "titulo": "O NOME", "arquivo": "manuscrito/parte6/cap23.txt"},
+      {"n": 24, "titulo": "O JARDIM NOVO", "arquivo": "manuscrito/parte6/cap24.txt"},
+      {"n": 25, "titulo": "A CARTA", "arquivo": "manuscrito/parte6/cap25.txt"},
+      {"n": 26, "titulo": "A CASA ACESA", "arquivo": "manuscrito/parte6/cap26.txt"}]}
+  ],
+  "epilogo": {"titulo": "EPÍLOGO — O JARDIM NÃO TERMINA", "arquivo": "manuscrito/epilogo.txt"}
+}
