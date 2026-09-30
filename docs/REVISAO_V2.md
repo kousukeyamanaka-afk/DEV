@@ -162,7 +162,8 @@ O tema central ("contentamento é aprender a estar onde se está sem parar de ir
    | "pela primeira vez" | 11 | 8 |
 
    "Dobrar em quatro" ficou só nos usos de motivo: o guardanapo e a pauta do Kuroda, a carta da construtora, o guardanapo da Naomi e a carta do Mori.
-5. **Opcional, ainda pendente:**
-   - dar mais espaço ao café com o Kuroda no cap. 22;
-   - transformar em cena um parágrafo expositivo do cap. 19;
-   - fazer a Clara querer alguma coisa própria na Parte VI.
+5. ✅ **Feito (aprovado pelo autor): opcionais.**
+   - **Cap. 22:** o café com o Kuroda ganhou mais espaço. Ele tenta comprar para a Next Level Home a relação com o banco de Gifu ("Eu precisava perguntar. O comitê ia perguntar se eu perguntei."), e aparece a pergunta sobre a contraproposta ("Provavelmente não. Mas eu teria lido com mais atenção.").
+   - **Cap. 19:** o senhor Hayashi em cena. O banco pede, sem pôr no papel, que a Mirai mande menos casos de quem não tem visto permanente, e o Miguel recusa.
+   - **Cap. 24:** a Clara quer passar a primavera brasileira com o pai ("Eu não estava pedindo." / "Eu sei.").
+   - **Cap. 25:** o pedido se cumpre em duas primaveras seguidas no interior.
