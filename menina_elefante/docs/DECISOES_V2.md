@@ -43,6 +43,21 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~33.800 palav
 - **Cap. 29**: **o batismo num batistério de igreja no Brasil, com a mãe na primeira fila** (data, lugar e presentes: a confirmar); Josué 1:9 na versão NVI; Paris em 2026; o Legendários (maio de 2026); **a casa entregue no Banco de Nagoya, com uma menina de franja no colo do pai**.
 - **Epílogo**: setembro de 2026; a Mity lendo; **a Ayumi no teclado** (qual filha toca: a confirmar); o mural; a tigela e a tesoura; "Encolhe quando seca".
 
+## Revisão editorial (ver `docs/REVISAO_EDITORIAL.md`): invenções novas
+- **Cap. 18**: o anúncio de vagas de empreiteira no rádio do carro, anotado no cupom do supermercado.
+- **Cap. 20**: ela conta à mãe só a segunda notícia; a mãe "não perguntou nada". Isso planta o cap. 28.
+- **Cap. 25**: o Kousuke lê o post dos 10 anos de manhã: "Bonito."
+- **Cap. 26**: **o motivo da terapia é a Ayumi na porta da cozinha** e a frase "não chama a mamãe, ela está trabalhando".
+- **Cap. 27**: no carro, a caminho do salto, a ideia da empresa nova e o "Acho que você já decidiu".
+- **Cap. 28 (reescrito)**:
+  - **a sala comercial alugada sem avisar** e o contrato achado no porta-luvas;
+  - **"Eu cansei de andar dez passos atrás de você"** (o limite do Kousuke) e o travesseiro no sofá;
+  - **a visita ao pai**: o apartamento térreo, a caneca de asa colada, o vídeo do bungee, "Puxou a minha mãe", "Eu passei trinta dias num monte. Lá ninguém dizia que estava tudo ótimo", "deixa ela falar";
+  - **"Mãe sabe"**: a mãe ouviu o médico falando japonês com a enfermeira no quarto e sempre soube da mentira do "Foi tudo ótimo". **Proposta forte: se não for verdade, cortar os parágrafos do "Lembra do hospital?" até "Mãe sabe"; o capítulo continua de pé**;
+  - **no desembarque, o Kousuke também diz "Eu também… achei que ficar quieto era ficar"**, e os dois saem juntos pela porta automática.
+- **Cap. 29**: no Legendários, o Kousuke atravessa o salão até ela e diz "Vem pra frente".
+- **Epílogo**: a Luciana senta ao lado da Ayumi no banco do teclado, sem dizer nada; conta à Mity a história da franja; depois corta a franja da Tiemi.
+
 ## Precisão para o autor conferir
 - A UTI e a semi-intensiva no Brasil em 2004; as regras de visita para menores.
 - Japão, 2009: conta de banco para estrangeiros (hanko × assinatura; registro de estrangeiro da época).
