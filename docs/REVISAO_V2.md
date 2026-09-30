@@ -145,13 +145,24 @@ O tema central ("contentamento é aprender a estar onde se está sem parar de ir
 ## 7. Próximos passos (por prioridade)
 
 1. ✅ **Feito:** as quatro correções de continuidade da seção 2.
-2. **Recomendado:** fechar o fio Maya/sexto degrau no cap. 26 e dramatizar a conversa (o cap. 26 ganha ~400–500 palavras).
-3. **Recomendado:** uma aparição do Mateo e do Gabriel na Parte VI e uma linha do Renato ou da fé.
-4. **Recomendado:** a passada de limpeza das muletas da seção 6, no livro inteiro.
-5. **Opcional:**
+2. ✅ **Feito (aprovado pelo autor):** o fio Maya/sexto degrau foi fechado no cap. 26.
+   - A conversa pai–filha agora está em cena, com a professora do centro comunitário e a planilha da Maya ("Quem te ensinou isso?" / "Você. Sem querer.").
+   - A Maya diz "Eu estava no sexto degrau", e o Miguel responde "Eu ouvi o degrau", sem explicação.
+3. ✅ **Feito (aprovado pelo autor):** aparições na Parte VI.
+   - A Satomi se aposenta e entrega o carimbo à Naomi (cap. 22).
+   - O Renato aparece com o café depois do velório (cap. 24).
+   - O Mateo e o Gabriel, com onze anos e um tênis sem luz, vêm buscar mudas de hortelã e ficam para o primeiro tomate (cap. 24).
+4. ✅ **Feito (aprovado pelo autor):** limpeza das muletas.
+
+   | Expressão | Antes | Depois |
+   |---|---|---|
+   | "devagar" | 27 | 12 |
+   | "ficou olhando" | 18 | 8 |
+   | "como quem" | 17 | 11 |
+   | "pela primeira vez" | 11 | 8 |
+
+   "Dobrar em quatro" ficou só nos usos de motivo: o guardanapo e a pauta do Kuroda, a carta da construtora, o guardanapo da Naomi e a carta do Mori.
+5. **Opcional, ainda pendente:**
    - dar mais espaço ao café com o Kuroda no cap. 22;
    - transformar em cena um parágrafo expositivo do cap. 19;
-   - fazer a Clara querer alguma coisa própria na Parte VI;
-   - a despedida da Satomi.
-
-Os itens 2 a 5 mudam o texto aprovado e ficam para o autor decidir.
+   - fazer a Clara querer alguma coisa própria na Parte VI.
