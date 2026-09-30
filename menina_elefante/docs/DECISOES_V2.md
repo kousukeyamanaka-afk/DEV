@@ -1,4 +1,4 @@
-# Decisões da V2 que a Luciana precisa conferir
+# Decisões da V2 e da V3 que a Luciana precisa conferir
 
 O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palavras). Os posts e textos da Luciana serviram de **base de personalidade, pensamento e histórias**, não de conteúdo a transcrever: cada capítulo usa uma ou duas histórias escolhidas. Tudo o que está abaixo foi **inventado ou deduzido** para dar corpo às cenas e pode ser trocado sem desmontar o livro.
 
@@ -80,3 +80,29 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - **Cap. 18**: cortado o comentário "Eu não estava me abandonando só a mim mesma…".
 - **Cap. 21 (novo)**: na noite do primeiro vídeo, o Kousuke pergunta "E se não der certo? A ideia foi sua. A cara é minha." — "Então a gente divide." Planta a rachadura de 2025. *Invenção, a conferir.*
 - **Cap. 23 (novo)**: na viagem ao Brasil de 2021–22, o pai aparece uma vez, num domingo, com bolacha de água e sal para as meninas, conta a baleia e vai embora antes do almoço porque a mãe está na cozinha. Dá lastro à visita do cap. 28. *Invenção, a conferir.*
+
+## V3: jornada da heroína e "Para você" (30/09/2026), a conferir
+**Estrutura**
+- **Sete partes com os anos no título, e cada capítulo com o ano**: 1994–2003, 2004–2007, 2007–2010, 2011–2020, 2020–2023, 2023–2025, 2025–2026. Os anos de cada capítulo foram deduzidos da cronologia da Bíblia (nascimento em setembro de 1988); conferir os dos caps. 2, 3, 9–11, 16–20.
+- **O prólogo saiu**: a primeira sessão e a foto viraram o cap. 26 (2024). O livro abre com "Antes de começar".
+- **"O ônibus das onze" (o Kousuke) passou para antes de "A ligação"**; no cap. 10, ela tem "dezoito anos" (antes: "dezessete, quase dezoito").
+- **Subtítulo proposto**: "Uma história real sobre descobrir quem você é". Arquivo final: `saidas/A_Menina_Elefante_V3.docx`.
+- **"Para você" no fim de cada capítulo** (e no fim do epílogo): reflexões escritas na voz da Luciana a partir dos posts dela; conferir se ela assina cada uma. O do cap. 11 (a tentativa de suicídio do pai) cita o **CVV, 188**, e o livro termina com uma **página de apoio**; para o Japão, o texto é genérico ("procure um serviço de saúde da sua cidade"): a autora pode acrescentar um contato em português que conheça.
+
+**Cap. 31 (Mulheres Experience, começo de 2026)**, cena inventada a partir dos posts IG 24 e 26:
+- o lugar do evento não é dito; ela senta entre **uma senhora com uma Bíblia** e **uma moça de tênis branco** (as duas, inventadas);
+- **a Camila Vieira e o Paulo Vieira aparecem pelo nome**, falando de identidade de forma genérica, **sem nenhuma fala atribuída a eles**; conferir se a autora está confortável com isso;
+- **a página de duas colunas na agenda**: as oito frases riscadas e as verdades ao lado são uma invenção a partir do post "Identidade" e do "vivi uma identidade baseada em mentiras" (IG 8, 9, 13);
+- **a resposta do Kousuke**: "Essa da direita eu conheço desde a primeira flanela."
+- **Paris** foi posta "semanas depois" do evento (os dois são do começo de 2026; a ordem real, a confirmar).
+
+**Cap. 32**: a **carta ao Kousuke** na noite da volta do Legendários usa as palavras do post dela (IG 10); **a folha dobrada no bolso da camisa** é invenção.
+
+**Cap. 33**:
+- **a corrida de Minokamo (IG 14)**: as meninas na prova infantil de manhã, o senhor de sandália, a medalha da Mity encostada na dela (inventados);
+- **os 38 anos**: o Kousuke coando o café num **coador de pano encomendado do Brasil**, a bandeja com uma xícara só, o **bilhete da Mity**, o **áudio do pai cantando a música japonesa** (inventados);
+- **a carta à menina da franja** (inventada, com ideias do post dos 38 anos, IG 6).
+
+**Epílogo**: o fim novo ("não existe final… a sua história também continua") é da V3.
+
+**Datas que continuam em aberto**: o batismo (o cap. 30 o põe depois do Natal de 2025, sem data); o Mulheres Experience e Paris (começo de 2026).

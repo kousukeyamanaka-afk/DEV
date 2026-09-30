@@ -1,10 +1,26 @@
-# Guia de estilo da V2
+# Guia de estilo (V3)
+
+## V3 (30/09/2026): o que mudou, por decisão da autora
+A autora pediu um livro com linha cronológica clara, estrutura de jornada de heroína (luta, sofre, acha que perdeu, se levanta, descobre quem é, vence, e a história continua) e, no espírito do *Plenitude*, de Camila Vieira, uma conversa com quem lê no fim de cada capítulo. Esta seção vale por cima das regras da V2 abaixo sempre que houver conflito.
+
+- **Duas vozes em cada capítulo.** A **cena** (as regras da V2 abaixo continuam valendo para ela) e o **"Para você"**, depois da marca `§`: a Luciana de 2026 falando com quem lê. O "Para você" segue o espírito do *Plenitude* (testemunho, reflexão, pergunta), sem copiar nenhuma frase do livro da Camila Vieira.
+- **Forma do "Para você"**: 130–220 palavras (o do fim do livro pode chegar a ~240). Começa por um objeto ou uma fala da cena; nomeia a mentira que a menina aprendeu ali e a verdade que a mulher sabe hoje; termina numa pergunta ao leitor, marcada com `? ` (sai em itálico). Pode usar "você", Deus, fé e o vocabulário dela ("consciência", "identidade", "nova versão", "vida extraordinária"), e frases dos posts dela. Sem listas verticais, sem emoji, sem repetir a mesma frase de efeito em dois capítulos.
+- **O fio das mentiras**: cada "Para você" dos caps. 1–26 nomeia uma frase que a menina passou a acreditar sobre si ("Essa não dá trabalho", "Tanto faz", "O meu não é nada", "Eu nunca mais te peço nada", "Você tem sorte", "Eu dou conta", "Foi tudo ótimo", "Minha vida é comum"). No cap. 31, ela as escreve numa coluna, risca uma por uma e escreve a verdade ao lado (tabela no livro). A lista completa está em `docs/ROTEIRO.md`.
+- **"Menina elefante"**: nasce no cap. 27. Antes disso, não aparece em lugar nenhum, nem na abertura (que só diz "uma menina que era grande e achava que era pequena"). Depois, pode voltar.
+- **A narradora adulta** continua rara dentro da cena; o comentário tem lugar próprio, o "Para você".
+- **Moldura**: não há mais prólogo. O livro abre com "Antes de começar" (a Luciana de hoje, ~300 palavras) e segue em ordem cronológica, de 1994 a 2026. A primeira sessão de terapia está no cap. 26, em 2024.
+- **Fé**: Josué 1:9 continua sendo o versículo do livro, dito em cena no batismo (cap. 30). Os "Para você" falam de Deus como ela fala nos posts, sem pregar e sem empilhar versículos.
+- **Marcações nos .txt**: `§` abre o "Para você"; `? ` pergunta ao leitor; `[carta]` e `[/carta]` para a carta do cap. 33; `~` linha alinhada à direita (assinatura); `^` linha centralizada e maior; linhas começando com `|` formam a tabela de duas colunas (a esquerda sai riscada).
+
+---
+
+# Guia de estilo da V2 (continua valendo para as cenas)
 
 ## Por que a V2 existe
 Ver `docs/PARECER.md`. Resumo: a V1 (66 capítulos de ~90 palavras) conta a vida inteira em frases soltas, com 84% dos parágrafos de até 6 palavras, 257 reticências, um "hoje eu sei" atrás do outro e uma lição no fim de cada capítulo. A história é forte; a forma é de post. A V2 transforma resumo em cena sem perder a voz da Luciana.
 
 ## Voz
-1. **Primeira pessoa, Luciana, olhando de 2024 para trás.** Tempo verbal: passado. O presente só na moldura (prólogo, cap. 26 e epílogo) e em comentários curtos da narradora adulta.
+1. **Primeira pessoa, Luciana, olhando de 2026 para trás.** Tempo verbal: passado. O presente fica na abertura, nos "Para você" e no fim do epílogo.
 2. **A criança em cena, a adulta quase calada.** O comentário retrospectivo ("hoje eu sei", "hoje eu entendo", "sem perceber", "olhando pra trás") aparece no máximo **uma vez por parte**. A cena diz; a narradora não traduz.
 3. **Oralidade com medida.** "A gente" pode, na fala e na narração. "Pra", "tá", "né" só no diálogo. A narração usa "para".
 4. **Humor.** A V1 quase não tem, mas a vida tem: o vestido bufante, a franjinha de cuia, a família de doze, o pai de 1,65 que se achava galã, as filhas. Em toda parte, pelo menos uma cena em que o leitor ri.
