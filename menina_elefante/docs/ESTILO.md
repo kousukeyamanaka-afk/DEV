@@ -21,6 +21,12 @@ Ver `docs/PARECER.md`. Resumo: a V1 (66 capítulos de ~90 palavras) conta a vida
 9. **Os dois países pelos sentidos.** Brasil: o calor da escola, a Kombi do transporte, o feijão de domingo, a novena, o ônibus intermunicipal da faculdade. Japão: fábrica, bentō, zangyō, konbini às cinco da manhã, inverno de aquecedor a querosene, tsuyu, cigarras. Termos japoneses sem itálico; na primeira vez, uma aposição curta explica (ex.: "o zangyō, as horas extras").
 10. **Precisão**: o autor trabalha com financiamento imobiliário para estrangeiros no Japão. Vistos, seguro de saúde, bancos, empréstimos, contratos de fábrica (empreiteira), regras da pandemia e procedimentos médicos precisam estar certos. Na dúvida, genérico e sinalizado no PR.
 
+## A voz pública da Luciana (Instagram)
+- Os textos dela (`referencia/instagram_luciana.md`) são a melhor fonte de **ideias, fatos e fé**, e têm a mesma cadência da V1 (linhas soltas, listas, lição no fim, "E você?"). O livro usa as ideias, não a forma.
+- Uma frase dela pode entrar uma vez, em cena, como fala ou pensamento, nunca como fecho de capítulo nem como definição. A lista das candidatas está em `docs/LEITURA_INSTAGRAM.md`.
+- Manter dela: a autocorreção ("ou melhor"), o humor autodepreciativo, as imagens práticas (a habilitação, a caixinha, a porta automática, o mural).
+- Fé: acontecimento e relação, sem sermão. No máximo um versículo no livro, dito por alguém, em cena.
+
 ## Pessoas reais
 - O pai não é vilão; a mãe não é santa; o marido não é salvador; as filhas não são adereço. A traição do pai e a tentativa de suicídio são contadas sem julgamento, sem descrição gráfica, sem cena de tribunal.
 - As pessoas que diminuíram a Luciana ("Você tem sorte de ter seu esposo") não são caricaturas. Elas acreditam que estão ajudando, ou nem pensam no que dizem.

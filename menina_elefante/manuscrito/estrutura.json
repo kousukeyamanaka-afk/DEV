@@ -174,8 +174,13 @@
         },
         {
           "n": 27,
-          "titulo": "A FOTO",
+          "titulo": "O SALTO",
           "arquivo": "manuscrito/parte6/cap27.txt"
+        },
+        {
+          "n": 28,
+          "titulo": "AS ÁGUAS",
+          "arquivo": "manuscrito/parte6/cap28.txt"
         }
       ]
     }
