@@ -1,6 +1,6 @@
 # Decisões da V2 que a Luciana precisa conferir
 
-O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~35.200 palavras). Os posts e textos da Luciana serviram de **base de personalidade, pensamento e histórias**, não de conteúdo a transcrever: cada capítulo usa uma ou duas histórias escolhidas. Tudo o que está abaixo foi **inventado ou deduzido** para dar corpo às cenas e pode ser trocado sem desmontar o livro.
+O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palavras). Os posts e textos da Luciana serviram de **base de personalidade, pensamento e histórias**, não de conteúdo a transcrever: cada capítulo usa uma ou duas histórias escolhidas. Tudo o que está abaixo foi **inventado ou deduzido** para dar corpo às cenas e pode ser trocado sem desmontar o livro.
 
 ## Parte I (1994–2003)
 - A franja cortada com a tesoura de frango e a tigela amarela; "igualzinha à Mônica"; o vestido da costureira; a tia Márcia, o fotógrafo.
@@ -39,8 +39,8 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~35.200 palav
 - **Cap. 25**: o jantar de 10 anos falando do "cliente de Toyota"; o post bonito publicado com ele dormindo; o sky coaster; o bungee de 200 m ("Sugoi. Mada sakende iru"); a Ayumi na porta da cozinha às 2h.
 - **Cap. 26**: o amuleto do dragão; a parábola do elefante contada pela terapeuta; **"Uma menina elefante"** (única ocorrência); "Eu posso ser forte e existir também?".
 - **Cap. 27**: o contêiner, o instrutor, o Kousuke de jaqueta prateada com a Tiemi; "Grita dessa vez também"; o Fuji e Tóquio pela janela; o pontinho rosa correndo.
-- **Cap. 28**: o cubo mágico: **a Luciana aprende e monta às 3h (confirmado pela autora)**, deixa o cubo no lugar da Mity; o Kousuke compra o curso para ela; a viagem ao Brasil em novembro de 2025 (mês a confirmar); a cozinha da mãe, o nishime, o Marcos: "Você também erra"; a mãe: "Você é orgulhosa… só está se escondendo"; **o "Eu errei, Momo" no desembarque de Chūbu no Natal**.
-- **Cap. 29**: **o batismo num batistério de igreja no Brasil, com a mãe na primeira fila** (data, lugar e presentes: a confirmar); Josué 1:9 na versão NVI; Paris em 2026; o Legendários (maio de 2026); **a casa entregue no Banco de Nagoya, com uma menina de franja no colo do pai**.
+- **Cap. 28**: a viagem ao Brasil em novembro de 2025 (mês a confirmar); a cozinha da mãe, o nishime, o Marcos: "Você também erra"; a mãe: "Você é orgulhosa… só está se escondendo"; **o "Eu errei, Momo" no desembarque de Chūbu no Natal**.
+- **Cap. 29**: abre com **o cubo mágico** (movido do cap. 28 a pedido da autora): a Mity tenta três semanas **enquanto a mãe está no Brasil**; na semana da volta, a Luciana aprende e monta às 3h (confirmado pela autora); **o Kousuke deixa um copo d'água do lado dela à uma da manhã**; o cubo no lugar da Mity; o curso comprado pelo Kousuke. No cap. 28, o ensaio no avião agora compara com "o Kousuke com a última linha da planilha". Depois, **o batismo num batistério de igreja no Brasil, com a mãe na primeira fila** (data, lugar e presentes: a confirmar); Josué 1:9 na versão NVI; Paris em 2026; o Legendários (maio de 2026); **a casa entregue no Banco de Nagoya, com uma menina de franja no colo do pai**.
 - **Epílogo**: setembro de 2026; a Mity lendo; **a Ayumi no teclado** (qual filha toca: a confirmar); o mural; a tigela e a tesoura; "Encolhe quando seca".
 
 ## Revisão editorial (ver `docs/REVISAO_EDITORIAL.md`): invenções novas
@@ -68,3 +68,15 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~35.200 palav
 - COVID em 2021 (jitaku ryōyō, hokenjo, oxímetro, caixa de comida); a entrada da mãe no Japão no fim de 2021 (visto válido, quarentena em hotel); a regra de teste para voltar ao Japão em março de 2022 (cap. 23).
 - A captação e os bancos (cap. 24); a expressão japonesa do instrutor do bungee (cap. 25).
 - **Sugestão**: incluir no fim do livro um contato de apoio emocional (CVV, 188, no Brasil; no Japão, linhas de atendimento em português).
+
+## Páginas de destaque (pedido da autora)
+23 frases do próprio texto ganham página inteira (lista e âncoras em `manuscrito/destaques.json`): prólogo; caps. 1, 3, 5, 6, 7, 8, 9, 11, 14, 15, 17, 18, 19, 20, 21, 22, 23, 26, 27, 28 (duas) e 29. Nenhuma no epílogo, nenhuma com "menina elefante". Atribuições: "minha mãe", "Kousuke", "a terapeuta", "Carla" (pseudônimo), "a Mity"; frases da narradora vão sem assinatura. A autora pode trocar, cortar ou acrescentar frases editando o arquivo.
+
+## Revisão de ritmo e diagramação (30/09/2026; relatório em `wiki/dev-edit-reports/2026-09-30-07-10.md`)
+- **Enxugamento leve** (−3%) nas Partes I–III: resumos e frases em que a narradora explica a cena. A autora pediu depois para manter ~200 páginas e não enxugar mais.
+- **Cap. 7**: tirado o "Mais tarde eu soube" (regra de um comentário adulto por parte). **Cap. 10**: "Até hoje não sei" virou "Nunca perguntei".
+- **Cap. 12**: cortada a visita da mãe do Kousuke à ótica "na segunda-feira", que vinha antes da cena de domingo (cronologia invertida).
+- **Cap. 17**: corrigido "as duas dormiam" (a Ayumi ainda não tinha nascido).
+- **Cap. 18**: cortado o comentário "Eu não estava me abandonando só a mim mesma…".
+- **Cap. 21 (novo)**: na noite do primeiro vídeo, o Kousuke pergunta "E se não der certo? A ideia foi sua. A cara é minha." — "Então a gente divide." Planta a rachadura de 2025. *Invenção, a conferir.*
+- **Cap. 23 (novo)**: na viagem ao Brasil de 2021–22, o pai aparece uma vez, num domingo, com bolacha de água e sal para as meninas, conta a baleia e vai embora antes do almoço porque a mãe está na cozinha. Dá lastro à visita do cap. 28. *Invenção, a conferir.*
