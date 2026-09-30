@@ -893,7 +893,7 @@ Comentário do **@alan_kousuke_easyhouse**:
 > E sigo me surpreendendo com o quanto ainda aprendo com elas.
 > E com o quanto elas me fazem ser melhor todos os dias. 💜
 
-*(Nota: o texto mistura as vozes: "eu disse que faria também… consegui montar o cubo" e logo depois "Ela viu o pai fazendo". Quem ficou acordado até as 3h com o cubo: a Luciana ou o Kousuke? Confirmar.)*
+*(Nota: o texto mistura as vozes: "eu disse que faria também… consegui montar o cubo" e logo depois "Ela viu o pai fazendo". Quem ficou acordado até as 3h com o cubo: a Luciana ou o Kousuke? **Resposta do Kousuke (30/09/2026): foi a Luciana, a mãe.**)*
 
 ## 30. Formatura da primogênita no 5º ano — 2025 (sobre 2024)
 > Ano passado foi o ano de formar a minha primogênita no 5º ano.
