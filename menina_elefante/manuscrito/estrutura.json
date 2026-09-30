@@ -1,0 +1,197 @@
+{
+  "titulo_livro": "A MENINA ELEFANTE",
+  "autora": "LUCIANA LUMI WATANABE YAMANAKA",
+  "titulo_doc": "A Menina Elefante — V2",
+  "nota": "manuscrito/nota.txt",
+  "prologo": {
+    "titulo": "PRÓLOGO — A FOTO",
+    "arquivo": "manuscrito/prologo.txt"
+  },
+  "partes": [
+    {
+      "numero": "I",
+      "titulo": "PARTE I — O PERSONAGEM",
+      "capitulos": [
+        {
+          "n": 1,
+          "titulo": "A FRANJINHA",
+          "arquivo": "manuscrito/parte1/cap01.txt"
+        },
+        {
+          "n": 2,
+          "titulo": "O NAVIO E OS DOZE",
+          "arquivo": "manuscrito/parte1/cap02.txt"
+        },
+        {
+          "n": 3,
+          "titulo": "O CAMALEÃO",
+          "arquivo": "manuscrito/parte1/cap03.txt"
+        },
+        {
+          "n": 4,
+          "titulo": "O PREÇO DE PERTENCER",
+          "arquivo": "manuscrito/parte1/cap04.txt"
+        },
+        {
+          "n": 5,
+          "titulo": "O LADO DE DENTRO DA PORTA",
+          "arquivo": "manuscrito/parte1/cap05.txt"
+        }
+      ]
+    },
+    {
+      "numero": "II",
+      "titulo": "PARTE II — TRINTA DIAS",
+      "capitulos": [
+        {
+          "n": 6,
+          "titulo": "A SALA",
+          "arquivo": "manuscrito/parte2/cap06.txt"
+        },
+        {
+          "n": 7,
+          "titulo": "TRINTA DIAS",
+          "arquivo": "manuscrito/parte2/cap07.txt"
+        },
+        {
+          "n": 8,
+          "titulo": "O MONTE",
+          "arquivo": "manuscrito/parte2/cap08.txt"
+        },
+        {
+          "n": 9,
+          "titulo": "MEIA-NOITE",
+          "arquivo": "manuscrito/parte2/cap09.txt"
+        },
+        {
+          "n": 10,
+          "titulo": "A LIGAÇÃO",
+          "arquivo": "manuscrito/parte2/cap10.txt"
+        }
+      ]
+    },
+    {
+      "numero": "III",
+      "titulo": "PARTE III — ELE FICOU",
+      "capitulos": [
+        {
+          "n": 11,
+          "titulo": "O ÔNIBUS DAS ONZE",
+          "arquivo": "manuscrito/parte3/cap11.txt"
+        },
+        {
+          "n": 12,
+          "titulo": "TESTES",
+          "arquivo": "manuscrito/parte3/cap12.txt"
+        },
+        {
+          "n": 13,
+          "titulo": "O ALMOÇO DE DESPEDIDA",
+          "arquivo": "manuscrito/parte3/cap13.txt"
+        },
+        {
+          "n": 14,
+          "titulo": "CATORZE HORAS",
+          "arquivo": "manuscrito/parte3/cap14.txt"
+        },
+        {
+          "n": 15,
+          "titulo": "NEVE",
+          "arquivo": "manuscrito/parte3/cap15.txt"
+        }
+      ]
+    },
+    {
+      "numero": "IV",
+      "titulo": "PARTE IV — A RÉGUA DOS OUTROS",
+      "capitulos": [
+        {
+          "n": 16,
+          "titulo": "TUDO DO MEU JEITO",
+          "arquivo": "manuscrito/parte4/cap16.txt"
+        },
+        {
+          "n": 17,
+          "titulo": "TODO MUNDO SABIA",
+          "arquivo": "manuscrito/parte4/cap17.txt"
+        },
+        {
+          "n": 18,
+          "titulo": "LONGE DAS VOZES",
+          "arquivo": "manuscrito/parte4/cap18.txt"
+        },
+        {
+          "n": 19,
+          "titulo": "FOI TUDO ÓTIMO",
+          "arquivo": "manuscrito/parte4/cap19.txt"
+        },
+        {
+          "n": 20,
+          "titulo": "O OLHAR DELA",
+          "arquivo": "manuscrito/parte4/cap20.txt"
+        }
+      ]
+    },
+    {
+      "numero": "V",
+      "titulo": "PARTE V — MAIS DE UM MILHÃO",
+      "capitulos": [
+        {
+          "n": 21,
+          "titulo": "OITO MIL REAIS",
+          "arquivo": "manuscrito/parte5/cap21.txt"
+        },
+        {
+          "n": 22,
+          "titulo": "OKINAWA",
+          "arquivo": "manuscrito/parte5/cap22.txt"
+        },
+        {
+          "n": 23,
+          "titulo": "ARUBAITO",
+          "arquivo": "manuscrito/parte5/cap23.txt"
+        },
+        {
+          "n": 24,
+          "titulo": "CAPTAÇÃO",
+          "arquivo": "manuscrito/parte5/cap24.txt"
+        }
+      ]
+    },
+    {
+      "numero": "VI",
+      "titulo": "PARTE VI — A MENINA ELEFANTE",
+      "capitulos": [
+        {
+          "n": 25,
+          "titulo": "O AUGE",
+          "arquivo": "manuscrito/parte6/cap25.txt"
+        },
+        {
+          "n": 26,
+          "titulo": "A HISTÓRIA DO ELEFANTE",
+          "arquivo": "manuscrito/parte6/cap26.txt"
+        },
+        {
+          "n": 27,
+          "titulo": "O SALTO",
+          "arquivo": "manuscrito/parte6/cap27.txt"
+        },
+        {
+          "n": 28,
+          "titulo": "RECOMEÇO",
+          "arquivo": "manuscrito/parte6/cap28.txt"
+        },
+        {
+          "n": 29,
+          "titulo": "AS ÁGUAS",
+          "arquivo": "manuscrito/parte6/cap29.txt"
+        }
+      ]
+    }
+  ],
+  "epilogo": {
+    "titulo": "EPÍLOGO",
+    "arquivo": "manuscrito/epilogo.txt"
+  }
+}

@@ -10,3 +10,6 @@ Como continuar no Claude Code (nuvem):
 3. Revise o PR (o .docx fica em `saidas/`). Depois repita com a Parte V, a Parte VI e o epílogo.
 
 Arquivos: `manuscrito/` (texto da V2 por capítulo), `docs/` (estilo, bíblia de continuidade, roteiro), `tools/` (montagem do .docx e métricas), `referencia/` (V1 original), `saidas/` (.docx gerados).
+
+## Outro livro neste repositório
+`menina_elefante/` — *A Menina Elefante*, de Luciana Lumi Watanabe Yamanaka, reescrito no mesmo modelo. Instruções em `menina_elefante/CLAUDE.md`.
