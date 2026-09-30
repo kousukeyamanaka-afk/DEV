@@ -629,3 +629,472 @@ Comentário do **@alan_kousuke_easyhouse**:
 > Se move.
 > Porque tem porta que já está pronta pra abrir…
 > só está esperando você chegar. 🚪✨
+
+---
+
+# Terceiro envio (30/09/2026)
+
+## 21. "Viver custa caro" — 18 de janeiro de 2026 (áudio original)
+**Foto/vídeo:** uma ponte de embarque de aeroporto, corredor de vidro azul com tapete vermelho; gente correndo com malas; uma criança de casaco vinho na frente da câmera. Na tela: "A real cena de que os últimos serão os primeiros!" e "Não se iludam, viver custa caro na maior parte do tempo..". Nos comentários (@kellysato): "O corredor que amamos 😂".
+
+> O bastidor quase nunca tem espaço no palco.
+>
+> Que viagem de perrengue... voo cancelado, voo quase perdido.
+>
+> Mas o que sustenta não é a foto bonita — é a resiliência.
+> É tentar até o fim.
+> É não desistir quando ninguém está olhando.
+>
+> O que ninguém vê é que, por trás da imagem, muitas vezes existe sufoco.
+> Existe cansaço.
+> Existe luta diária.
+>
+> Nada cai do céu.
+> O mérito chega pra quem permanece, pra quem insiste, pra quem aguenta.
+>
+> Não se iludam...
+> Viver custa caro na maior parte do tempo.
+
+## 22. O Fuji na volta do trabalho — 2 de fevereiro de 2026
+**Foto:** fim de tarde de inverno, o Fuji nevado ao fundo, lanternas vermelhas penduradas e luzes de Natal numa área comercial com uma vinícola ("WINERY"). A Luciana de óculos, blazer claro e saia preta, fazendo "paz e amor".
+
+> A verdade é a seguinte:
+> se a gente não aprende a aproveitar a caminhada, ela não vale nada.
+>
+> Ela vira só difícil...
+> só pesada...
+>
+> Domingo tivemos que trabalhar por Saitama.
+> E na volta, a gente aproveitou pra apreciar a vista.
+>
+> Enquanto alguns reclamaram de trabalhar no domingo,
+> eu tento ver beleza no caminho... na trajetória.
+>
+> Deixar mais leve começa a ser natural quando a gente escolhe enxergar assim.
+>
+> A vida não é só sobre chegar.
+> É sobre como a gente atravessa.
+>
+> ✨ Levar leve também é uma escolha.
+>
+> Você tem conseguido enxergar beleza no caminho?
+
+## 23. "As pessoas te dão o que elas são" — 17 de fevereiro de 2026 (música: Snow Patrol, "Open Your Eyes")
+**Foto/vídeo:** uma calçada de bairro japonês num dia de sol de inverno, canteiros com arbustos secos. Na tela: "As pessoas te dão o que elas são, não o que você merece. O que vc merece é você que se dá, quando se acolhe e cuida de si, por dentro e por fora..."
+
+> É exatamente isso:
+> as pessoas entregam a partir do nível de consciência, amor e cura que elas têm.
+> Quem está vazio, oferece vazio.
+> Quem está confuso, oferece confusão.
+> Quem está ferido, muitas vezes fere.
+>
+> Mas o que você merece não pode ficar na mão do outro.
+>
+> Você se dá quando:
+>
+> – você para de aceitar migalha emocional
+> – você não negocia seus valores
+> – você escolhe ambientes que te respeitam
+> – você cuida do seu corpo como templo
+> – você se trata com a mesma gentileza que oferece pro mundo
+>
+> E isso não é egoísmo.
+> É maturidade emocional.
+> É amor próprio na prática
+>
+> Você não controla o que te oferecem.
+> Mas você controla o que aceita.
+>
+> E isso muda tudo.
+
+## 24. Mulheres Experience (Camila Vieira e Paulo Vieira) — início de 2026
+> Sabe aquele momento em que você sente…
+> que algo dentro de você mudou?
+>
+> Eu tô exatamente aí.
+>
+> Depois de tudo que vivi no Mulheres Experience…
+> é como se uma nova versão minha tivesse despertado.
+>
+> Mais consciente… mas ao mesmo tempo mais leve, mais viva.
+>
+> Com o coração aberto pra viver tudo aquilo que Deus tem pra mim.
+>
+> E é até difícil explicar…
+>
+> Mas eu sinto que esses dias foram um divisor de águas.
+>
+> Porque a consciência transforma tudo.
+>
+> Ela te faz enxergar sua história com mais clareza…
+> te conecta com seu propósito…
+> e te aproxima da mulher que você nasceu pra ser.
+>
+> Sem deixar de ser você.
+>
+> E hoje eu sinto isso com muita força…
+>
+> Eu sei quem eu sou.
+> Sei o que estou construindo.
+> E sei exatamente quem eu quero me tornar nos próximos anos.
+>
+> E isso muda tudo.
+>
+> O Mulheres Experience não foi só um evento…
+> foi um encontro comigo mesma.
+
+## 25. Paris, "nova identidade" — início de 2026 (#brasileirosnojapao #casanojapao #paris)
+> Sabe quando você se dá conta de que existe uma nova versão sua pronta pra nascer?
+>
+> Essa sou eu… dando início a uma nova identidade.
+>
+> Uma Luciana mais consciente, mas ainda mais viva. Pronta pra viver o extraordinário que Deus tem preparado pra minha vida.
+>
+> Me sinto quase como a Torre Eiffel… imponente, firme, cheia de presença.
+> Talvez essa ida até ela tenha marcado o começo dessa nova fase.
+>
+> Maior. Mais presente. Mais consciente.
+>
+> Porque no fim, é a consciência que muda tudo.
+> É ela que transforma a nossa história.
+> Que nos aproxima de quem queremos ser… ou de quem Deus nos chamou pra ser.
+>
+> Mas sem perder a essência.
+>
+> E hoje, eu me sinto 100% consciente.
+> De mim. Da minha jornada.
+> E principalmente… da mulher que eu estou me tornando para os próximos 5, 10, 15 anos.
+
+## 26. "Lugar certo" — início de 2026 (#mulheresexperience #lugarcerto)
+> Tem encontros que parecem coincidência…
+> mas no fundo a gente sente que não são.
+>
+> Estar no lugar certo, na hora certa, com as pessoas certas…
+> é uma dessas coisas que fazem a gente perceber que a vida tem um jeito curioso de alinhar caminhos.
+>
+> Às vezes foram decisões difíceis.
+> Mudanças que deram medo.
+> Momentos em que parecia que nada estava acontecendo.
+>
+> Mas de repente você olha ao redor…
+> e percebe que cada passo te trouxe exatamente até ali.
+>
+> Até aquele ambiente.
+> Aquela conversa.
+> Aquelas pessoas que despertam algo em você.
+>
+> E então tudo faz sentido.
+> Porque não é só sobre sorte…
+> é sobre estar disponível para viver o que Deus já tinha preparado no caminho. ✨
+>
+> Que a gente nunca perca a sensibilidade de reconhecer
+> quando a vida nos coloca exatamente onde deveríamos estar
+
+## 27. "Ser mulher" — 2026
+> Ser mulher…
+> é aprender a existir em várias versões ao mesmo tempo.
+>
+> É acordar mãe.
+> Resolver problema como empresária.
+> Organizar a casa como se fosse a coisa mais natural do mundo.
+> Ser colo no fim do dia.
+> Ser firme quando precisa.
+> Ser abrigo… mesmo cansada.
+>
+> E no meio disso tudo, ainda tentar lembrar quem a gente é.
+>
+> Às vezes eu paro e penso:
+> como é que eu consigo ser tantas?
+>
+> Tantas funções.
+> Tantas responsabilidades.
+> Tantos sentimentos diferentes no mesmo dia.
+>
+> Mas talvez o nosso superpoder não seja dar conta de tudo…
+> Seja conseguir amar em todas as versões.
+>
+> Ser mãe sem deixar de ser mulher.
+> Ser esposa sem deixar de ser sonho.
+> Ser empresária sem deixar de ser sensível.
+>
+> A gente se divide, sim.
+> Mas não se perde.
+>
+> E existe algo profundamente extraordinário nisso…
+> Ser tantas…
+> e ainda assim continuar sendo uma só. ✨
+
+## 28. "Eu posso ser forte… e existir também" — 2026
+> A vida às vezes fica ali… te falando.
+> Te alertando.
+> E você insiste em não enxergar.
+>
+> Às vezes a gente complica coisas tão simples…
+> Por medo.
+> Por não querer aceitar soluções que, no fundo, a gente sabe que existem.
+>
+> Até que somos empurrados.
+> Quase à força.
+> Como se algo maior dissesse: se move.
+>
+> Porque o final feliz não chega pra quem fica parado.
+>
+> Pode parecer simples.
+> Pode parecer fácil.
+> E na maioria das vezes… é mesmo.
+>
+> A vida é mais leve do que a gente imagina.
+> A gente é que insiste em carregar peso que não precisa.
+>
+> Mas faz parte…
+> É sobre se perder pra se encontrar.
+> É sobre aceitar o deserto pra depois reconhecer o paraíso.
+>
+> Deus é bom o tempo todo.
+> Inclusive nas tempestades.
+> Porque é nelas que Ele mostra o que é sim, o que é não… e o que é nunca.
+>
+> Ser forte sempre foi minha maior qualidade.
+> Daquelas que ninguém tira de mim, sabe?
+>
+> Mas houve um momento em que essa força começou a me derrubar.
+> Quando eu não me permitia sentir.
+> Quando eu não me escutava.
+> Quando eu não existia.
+>
+> Hoje eu sei:
+> Eu posso ser forte… e existir também.
+>
+> E como é bom existir
+
+## 29. O cubo mágico — 2025
+> "Somos movidos ao exemplo, não a conselhos vazios."
+> E essa frase nunca fez tanto sentido pra mim.
+>
+> As pessoas não se transformam apenas por discursos bonitos ou teorias bem explicadas. Elas se movem quando veem atitudes. Quando enxergam, na prática, que é possível. O exemplo tem um poder que nenhuma palavra sozinha alcança.
+>
+> A Mity começou a se interessar em aprender a fazer vendo o Kousuke aprender a fazer o cubo. Tentou por três semanas e não conseguia concluir. Um dia, eu disse que faria também — não pra ensinar, mas pra incentivá-la.
+> Passei a madrugada assistindo a um vídeo e, por volta das 3h da manhã, consegui montar o cubo. Ela já estava dormindo. No dia seguinte, quando acordou, viu que eu tinha conseguido.
+>
+> Ela não ouviu um discurso.
+> Ela viu o pai fazendo.
+>
+> O Kousuke já estava conseguindo antes dela, mas a Mity precisava de algo diferente: ver com os próprios olhos que aquilo era possível. Depois disso, o Kousuke comprou um curso de cubo pra ela. Ela passou a treinar e, em menos de uma semana, já montava em 1 minuto. Hoje, faz em menos de 1 minuto.
+>
+> Ao ver a Mity, a irmã se interessou também. Depois de muito esforço, conseguiu.
+> E então, vendo as duas, a Tiemi quis aprender. Ela ainda faz no nível super easy, mas a felicidade dela ao concluir o cubo… não tem preço.
+>
+> Isso só reforça uma coisa:
+> 👉 O exemplo vale mais do que qualquer conselho.
+> 👉 O ambiente transforma.
+> 👉 Quando estamos cercados de pessoas que querem aprender, crescer e conquistar, isso contagia todo mundo ao redor.
+>
+> Eu sou mãe.
+> E sigo me surpreendendo com o quanto ainda aprendo com elas.
+> E com o quanto elas me fazem ser melhor todos os dias. 💜
+
+*(Nota: o texto mistura as vozes: "eu disse que faria também… consegui montar o cubo" e logo depois "Ela viu o pai fazendo". Quem ficou acordado até as 3h com o cubo: a Luciana ou o Kousuke? Confirmar.)*
+
+## 30. Formatura da primogênita no 5º ano — 2025 (sobre 2024)
+> Ano passado foi o ano de formar a minha primogênita no 5º ano.
+>
+> E isso me fez lembrar de quando eu estava me formando na 5ª série.
+> Do quanto o tempo voa… e do quanto eu consigo me ver nela.
+>
+> Sinto um orgulho que não cabe no peito.
+> Mesmo sabendo — e sentindo na pele — o quão desafiador é lidar com uma pré-adolescente.
+>
+> É amor, é aprendizado, é crescer juntas. Todos is dias.
+>
+> Talvez hoje eu entenda a minha mãe.
+> O quanto ela também deve ter passado para me tornar quem eu sou hoje.
+>
+> Quando vi minha filha lá em cima, oradora da turma…
+> meu coração transbordou.
+> Transbordou de orgulho ao ver o quanto ela está crescendo
+> e se tornando uma menina incrível.
+>
+> Essa é só mais uma fase.
+> E eu quero estar presente em todas elas.
+>
+> Ver minhas filhas crescerem enche o meu coração.
+>
+> Mães… vocês também se veem revivendo a própria infância através dos filhos?
+
+## 31. Fim de 2025: "10 anos em um só"
+> 2025 foi um ano de olhar pra dentro.
+>
+> Sabe quando tudo lá fora para de fazer sentido
+> e a única forma de voltar a fazer sentido
+> é olhar pra dentro?
+>
+> Foi um ano de muita descoberta.
+>
+> Se em 2024 eu disse que vivi 5 anos em 1,
+> em 2025 eu posso dizer com certeza:
+> foram uns 10 anos em um só.
+>
+> 10 anos de crescimento pessoal,
+> profissional
+> e emocional.
+>
+> Foram exatamente 8 países, sem contar os repetidos.
+> Dias intensos de aprofundamento pessoal.
+> O início de uma empresa.
+> Metas tirando forma.
+> Sonhos ganhando corpo.
+>
+> E eu só sei de uma coisa:
+> eu termino 2025 realizada.
+>
+> Realizada e grata.
+>
+> Grata até pelos problemas que não foram vistos.
+> Porque é no bastidor que moram os infinitos problemas.
+> E mais grata ainda pela sabedoria
+> de atravessar cada um deles.
+>
+> Começo 2026 presente.
+> Presente para receber tudo o que vier.
+>
+> E eu sei…
+> eu posso mais.
+> Eu posso muuuuuito mais.
+>
+> A reta final do ano vem sem pressa, com muita presença.
+>
+> Eu escolho estar presente.
+> Me enxergar.
+> Sentir.
+>
+> Enxergar como foi meu ano:
+> o que fiz de certo,
+> o que fiz de errado,
+> o que precisei recalcular.
+>
+> Sentir o que me espera no próximo.
+>
+> 2025 foi um ano repleto de coisas boas.
+> Mas, além delas, também foi um ano de conflitos, provações e muitas rotas recalculadas.
+>
+> Sabe quando você sente que tudo está saindo melhor do que o esperado,
+> mas em meio a uma dificuldade extrema?
+>
+> Pois é… eu vejo Deus em tudo isso.
+>
+> Vejo Ele dizendo que quem pede o arco-íris precisa estar preparado para a chuva.
+> E vejo o quanto, quando falta fé, a gente desiste no meio da chuva
+> e esquece que o arco-íris vem depois.
+>
+> A palavra do ano foi conhecimento.
+>
+> Foi um ano de mergulho.
+> No conhecimento, no desconhecido.
+> Em novos lugares, novas culturas, novas pessoas.
+> Em novos estudos, novas versões de mim.
+>
+> E quando olho pra trás, tudo faz sentido.
+> O conhecimento veio para preparar o terreno.
+>
+> Porque a palavra do próximo ano é prosperidade.
+>
+> E sim… eu estou preparada.
+>
+> Prosperar como pessoa.
+> Ser alguém melhor.
+> Prosperar como mãe, esposa, filha, irmã, amiga.
+>
+> Prosperar nos negócios.
+> Na vida financeira.
+> Na saúde.
+> Na mentalidade.
+>
+> Com fé, presença e propósito.
+
+## 32. "Seja forte e corajoso" — 2025
+*(Ela cita "Josué 1:19"; o versículo "Seja forte e corajoso" é Josué 1:9.)*
+> Josué 1:19 "seja forte e corajoso" — A Bíblia diz: tudo tem seu tempo, tenha paciência, Deus sabe o que é melhor para você. Suporte o processo e viverá o propósito. Aguenta firme ai, e não abandone a sua fé, vai valer a pena, confie!
+>
+> "Seja forte e corajoso."
+> Esse versículo nunca fez tanto sentido pra mim como agora.
+>
+> A vida inteira eu achei que precisava ser forte…
+> Forte pra viver longe do meu país.
+> Forte pra empreender.
+> Forte pra ser mãe.
+> Forte pra ser esposa.
+> Forte pra não desmoronar no meio do caos.
+>
+> Mas faltava alguma coisa.
+> Eu era forte… mas eu não sabia por quê.
+>
+> E um dia eu entendi:
+> não era sobre ser forte sozinha.
+> Era sobre ser preparada.
+>
+> Preparada pra viver em abundância.
+> Preparada pra receber o que Deus já escreveu pra mim.
+> Preparada pra suportar o processo…
+> porque o propósito vale cada passo.
+>
+> Viver no Japão não é fácil.
+> Construir negócios não é fácil.
+> Casamento não é fácil.
+> Criar filhos não é fácil.
+>
+> Mas sabe?
+> Deus nunca pediu facilidade.
+> Ele pediu coragem.
+>
+> E quando Ele diz "seja forte e corajoso",
+> não é pra você carregar o mundo.
+> É pra você lembrar que Ele carrega você.
+>
+> Então, se hoje você também está lutando em silêncio…
+> se hoje o peito aperta,
+> se hoje você está cansada de ser forte…
+>
+> Respira.
+> O melhor ainda está por vir.
+> E você não está sozinha nesse caminho.
+
+## 33. Os parentes do Brasil — 2025
+> "Pessoas feridas ferem… e pessoas boas desejam o bem ao próximo.
+> Nunca algo tão simples fez tanto sentido pra mim.
+>
+> Eu entendi que não vim ao mundo pra curar ninguém. Cada pessoa precisa encontrar o próprio poder da autorresponsabilidade e parar de ferir os outros.
+> A vida seria muito mais leve se todo mundo tivesse empatia de verdade.
+>
+> Mas a vida não é um parque de diversões… e conversando com minha mãe e meu irmão antes de vir pra cá, percebi que eu também erro, que eu também sou orgulhosa às vezes, que eu também esqueço de me responsabilizar.
+>
+> E hoje, eu só quero agradecer.
+> Agradecer por me lembrarem quem eu sou.
+> Por me corrigirem com amor.
+> Por cuidarem de mim no lugar de carinho, e não no lugar da dor.
+>
+> Obrigada, mãe.
+> Obrigada, Marcos.
+> Obrigada, Simone.
+> Obrigada, Xavier.
+> O Brasil foi um respiro no meio do caos que muitas vezes vivi aqui.
+>
+> Obrigada, Lê, por cuidar das minhas meninas.
+> Obrigada por confiar, por estar.
+> Talvez o curso tivesse um propósito…
+> Talvez estar com vocês também fosse um propósito.
+>
+> Eu volto mais leve, com a certeza de que essa é a família que eu amo e que eu escolheria mil vezes, se pudesse.
+> Vocês são quem me levantam quando eu caio, quem não me julgam quando erro… mesmo com o coração de vocês tantas vezes ferido.
+>
+> Eu amo vocês
+
+## 34. "Recomeço!" — Natal de 2025, depois de se acertar com o Kousuke (na volta da viagem ao Brasil)
+> Recomeço!
+> Pra mim essa palavra sempre teve um ar conotativo ruim…
+> Como se quem recomeça está atestando que errou e precisa recomeçar…
+> Mas acho que consegui ressignificar isso dentro de mim, quando entendi que recomeçar é muito mais sobre vencer do que atestar que perdeu… e sobre vencer sobre mim mesma, sobre deixar meu orgulho de lado e enxergar que eu errei, quando no fim o que a gente quer mesmo é fingir que não errou, dar desculpas do porque errou, se esconder atrás de uma capa protetora que ou invés de nos proteger só nos esconde e nos impede de enxergar o quão grande é o mundo, o quão as pessoas são boas e o quanto vale a pena viver!
+> Essa foto vai ter esse significado pra mim, significado de recomeço, mas de um recomeço diferente, de um recomeço onde eu me enxergo antes de recomeçar, eu olho pros meus defeitos, me perdoo por todos eles e consigo seguir sendo diferente!
+> E que ironia do destino, em plena época de Natal, época essa que é mágica que os sonhos podem ser realizados, que as pessoas perdoam uns aos outros, que todos celebram a vida, que temos esperança, que fazemos planos.
+> Pois é, Deus não brinca em serviço!
+> Ele escolhe a dedo a data, a hora e o segundo para as coisas acontecerem, eu sinto que foi Deus, que me abriu os olhos, me fez olhar pra dentro..
+> Então sim! Esse é o recomeço da vida extraordinária que a gente merece! E Deus já preparou! Vai acontecer! Te amo para sempre!

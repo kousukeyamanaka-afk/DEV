@@ -22,7 +22,12 @@ Tudo o que está marcado **(V2)** foi criado na reescrita e precisa ser confirma
 - **~2023**: terceira gravidez (uma menina, a caçula) (IG); Alan corretor sozinho; captação ativa; de uma venda a cada dois ou três meses a duas ou três casas por mês. (Cap. 24.)
 - **~2023–2024**: o auge e o caos: "deixamos de ser marido e mulher para sermos apenas sócios" (IG); cursos de educação emocional, imersões, viagens. (Cap. 25.)
 - **2024**: terapia; o ano do dragão, o ano dela (toshi-onna). (Prólogo e cap. 26.)
-- **30 jan. 2025**: segundo salto de paraquedas, perto de Tóquio; o Fuji e Tóquio vistos da subida; o Alan e a caçula no banco (IG). (Cap. 27.)
+- **2024**: a primogênita se forma no 5º ano, oradora da turma (IG). Luciana: "em 2024 vivi 5 anos em 1".
+- **30 jan. 2025**: segundo salto de paraquedas, perto de Tóquio; o Fuji e Tóquio vistos da subida; o Kousuke e a caçula no banco (IG). (Cap. 27.)
+- **2025**: "10 anos em um só" (IG): 8 países; "o início de uma empresa" (de quem? **a confirmar**); cursos e "aprofundamento pessoal"; "conflitos, provações e muitas rotas recalculadas"; palavra do ano: conhecimento. Uma viagem ao Brasil por causa de um curso: a mãe e o irmão Marcos a corrigem "com amor"; a Lê cuida das meninas no Japão (IG 33). O cubo mágico das filhas (IG 29). (Cap. 28.)
+- **Natal de 2025**: "Recomeço!": ela se acerta com o Kousuke, na volta da viagem ao Brasil; deixa o orgulho de lado e admite que errou (IG 34). (Cap. 28.)
+- **início de 2026**: Mulheres Experience (Camila e Paulo Vieira), "divisor de águas"; **Paris de novo**, a Torre Eiffel, "uma nova identidade" (IG 24–26). Palavra do ano: prosperidade. (Cap. 29.)
+- **fev. 2026**: trabalho em Saitama num domingo; o Fuji na volta (IG 22).
 - **data a confirmar (2025–2026?)**: batismo nas águas, no Brasil (IG). (Cap. 28.)
 - **21–24 maio 2026**: o Alan no Legendários ("TOP #1405 — Track Fonte da Vida", Aichi); a recepção com as filhas e os cartazes, em 25/5 (IG).
 - **5 jun. 2026**: a Luciana entrega uma casa na mesma agência do Banco de Nagoya onde abriu a primeira conta (IG).
@@ -40,18 +45,18 @@ Tudo o que está marcado **(V2)** foi criado na reescrita e precisa ser confirma
 - **Nair (a mãe)**: descendente de japoneses (nissei? **a confirmar**), de uma família de 12 filhos: dois gêmeos morreram no parto, outros dois ainda pequenos. Trabalho: a Luciana trabalhava com ela de dia (o ramo: **a confirmar**; a V2 deixa genérico). Vem morar no Japão; câncer; o diagnóstico errado; imunoterapia; remissão; volta ao Brasil; volta ao Japão para cuidar da família na COVID.
 - **Avô paterno**: foi piloto de avião na guerra.
 - **Avó paterna**: morreu antes de a Luciana nascer; "linda, cheia de talentos, tocava instrumentos, algo raro para a época"; gostava de beber.
-- **Irmãos**: são três filhos contando a Luciana. Nomes, sexo e ordem: **a confirmar**. A V2 diz "meus irmãos" e não os põe em cena até lá.
+- **Irmãos**: são três filhos contando a Luciana. Um irmão é o **Marcos** (IG: "conversando com minha mãe e meu irmão… Obrigada, Marcos"). No mesmo agradecimento aparecem **Simone** e **Xavier** (irmã? cunhados? **a confirmar**). Ordem de nascimento: **a confirmar**. A V2 diz "meus irmãos" e não os põe em cena até lá. (Por causa da Simone real, a colega do cap. 4 passou a se chamar Cíntia.)
 - **O cachorro**: nome e raça **a confirmar**.
 - **Tios padrinhos**: estavam com a mãe na sala no dia do infarto. Nomes **a confirmar**.
-- **Alan**: namorado e depois marido. Escuta sem julgar; cuida mesmo quando ela não pede; fica. Estuda importação de calçados; entra no curso de investimentos "por ela", sem querer muito; vira corretor de imóveis. Não é salvador: tem cansaço, tem limite, tem família própria (que a Luciana pôs em situações difíceis). Nome real usado na V2 (**confirmar** se ele quer o nome no livro). Nome completo: Alan Kousuke Yamanaka; as filhas o chamam de **Kou** (IG). Participou do Legendários em maio de 2026 (IG).
-- **As filhas**: **três meninas** (IG). As duas mais velhas nasceram no Brasil; a caçula foi concebida depois da volta do Brasil (~2023), era bebê de colo em jan. 2025 e tem franja reta em 2026. Uma delas toca teclado; uma fez o cartaz "KOU — Bem-vindo!" (IG). Cada uma precisa de uma coisa diferente: palavra, silêncio, autonomia, colo (IG; qual é qual: **a confirmar**). Nomes e idades: **a confirmar** antes da Parte IV.
+- **Alan**: namorado e depois marido. Escuta sem julgar; cuida mesmo quando ela não pede; fica. Estuda importação de calçados; entra no curso de investimentos "por ela", sem querer muito; vira corretor de imóveis. Não é salvador: tem cansaço, tem limite, tem família própria (que a Luciana pôs em situações difíceis). Nome real usado na V2 (**confirmar** se ele quer o nome no livro). Nome completo: Alan Kousuke Yamanaka. **A Luciana o chama de Kousuke** nos textos dela, e as filhas o chamam de Kou (IG). Por isso a V2 usa **Kousuke** na voz dela (prólogo corrigido); "Alan" fica só nos documentos. **Confirmar.** Participou do Legendários em maio de 2026 (IG).
+- **As filhas**: **três meninas** (IG). Nomes que aparecem: **Mity** e **Tiemi**; a terceira ainda sem nome no material. No texto do cubo mágico (IG 29), a ordem sugere Mity → "a irmã" → Tiemi, mas quem é a primogênita (formada no 5º ano em 2024, oradora da turma, pré-adolescente; escola brasileira no Japão?) está **a confirmar**. As duas mais velhas nasceram no Brasil; a caçula foi concebida depois da volta do Brasil (~2023), era bebê de colo em jan. 2025 e tem franja reta em 2026. Uma delas toca teclado; uma fez o cartaz "KOU — Bem-vindo!" (IG). Cada uma precisa de uma coisa diferente: palavra, silêncio, autonomia, colo (IG; qual é qual: **a confirmar**). Nomes e idades: **a confirmar** antes da Parte IV.
 - **A terapeuta (V2)**: brasileira, atende por vídeo; sem nome na V2. Fala pouco e espera.
 - **Carla (V2, pseudônimo)**: melhor amiga desde a quinta série, vizinha a três quarteirões; toque de campainha: duas vezes rápidas e uma demorada; não é do grupo dos populares. Problemas sérios com a mãe (a V2 não especifica). Fica onze dias na casa da Luciana (colchonete, lençol de florzinha), depois vai morar com a madrinha.
-- **Simone (V2, pseudônimo)**: colega da primeira fileira; levanta a mão para tudo ("Professora, professora!"), voz fina, ri em soluços, camiseta para dentro da calça, elástico azul no cabelo. Depois da imitação, para de levantar a mão.
+- **Cíntia (V2, pseudônimo)**: colega da primeira fileira; levanta a mão para tudo ("Professora, professora!"), voz fina, ri em soluços, camiseta para dentro da calça, elástico azul no cabelo. Depois da imitação, para de levantar a mão.
 - **As tias (V2)**: irmãs da mãe; lavam a louça em fila no almoço de 1º de janeiro (cap. 2). Sem nome.
 - **Lucas (V2)**: primo mais velho que pergunta se o avô "matou gente" (cap. 2).
-- **Escola do pré e do primário (V2, pseudônimos)**: tia Márcia (professora do pré, batom no dente); Rodrigo (chorou no carro); Fabiana (sapato novo); Camila (casa com piscina, a turma da janela); Thiago (tabuada do nove de trás para frente, o vulcão); Marcão (repetente, "Ô, japonesa!"); Érica (fala baixo, desenha cavalos); dona Lourdes (professora da quarta série, feira de ciências).
-- **Débora (V2, pseudônimo)**: centro do grupo dos populares no ensino médio; chapinha, celular de flip; pede "Faz a Simone".
+- **Escola do pré e do primário (V2, pseudônimos)**: tia Márcia (professora do pré, batom no dente); Rodrigo (chorou no carro); Fabiana (sapato novo); Renata (casa com piscina, a turma da janela); Thiago (tabuada do nove de trás para frente, o vulcão); Marcão (repetente, "Ô, japonesa!"); Érica (fala baixo, desenha cavalos); dona Lourdes (professora da quarta série, feira de ciências).
+- **Débora (V2, pseudônimo)**: centro do grupo dos populares no ensino médio; chapinha, celular de flip; pede "Faz a Cíntia".
 
 ## Lugares
 - **Cidade da infância**: no Brasil, **a confirmar** (a V2 não nomeia). A escola, a casa com quintal e cachorro, a sala onde a mãe estava com os tios no dia do infarto.
@@ -74,6 +79,10 @@ Tudo o que está marcado **(V2)** foi criado na reescrita e precisa ser confirma
 - **"Comum"**: "Minha vida é simples. Comum." (prólogo) → "nenhum dia deveria ser tratado como algo comum" (IG, 38 anos).
 - **Do alto, pequeno** (IG): o Fuji e Tóquio vistos do avião no salto (cap. 27).
 - **A agência do Banco de Nagoya** (IG): a primeira conta (cap. 14) → a casa entregue no mesmo balcão (Parte VI ou epílogo).
+- **Paris** (IG): a neve e o voo cancelado aos 22 (cap. 15) → a Torre Eiffel em 2026, "imponente, firme, cheia de presença" (cap. 29). Ela se compara à torre: grande, sem pedir desculpa pelo tamanho. Não explicar o eco com o elefante.
+- **Carregar** (IG 28, 32): "A gente é que insiste em carregar peso que não precisa"; "não é pra você carregar o mundo. É pra você lembrar que Ele carrega você". É o núcleo da imagem do elefante. Usar uma vez, no cap. 26 ou 29.
+- **Forte × existir** (IG 28): "Eu posso ser forte… e existir também." Candidata a fala dela à terapeuta (cap. 26), nunca fecho de capítulo.
+- **A capa protetora** (IG 34): o orgulho como capa que "ao invés de nos proteger só nos esconde", o personagem da Parte I em versão adulta.
 
 ## Detalhes já fixados na Parte I (V2)
 - A franja cortada pela mãe na véspera da festa do pré, com a tesoura de destrinchar frango e a tigela amarela do arroz; o pai: "Ficou igualzinha à Mônica."

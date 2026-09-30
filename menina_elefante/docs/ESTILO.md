@@ -25,7 +25,8 @@ Ver `docs/PARECER.md`. Resumo: a V1 (66 capítulos de ~90 palavras) conta a vida
 - Os textos dela (`referencia/instagram_luciana.md`) são a melhor fonte de **ideias, fatos e fé**, e têm a mesma cadência da V1 (linhas soltas, listas, lição no fim, "E você?"). O livro usa as ideias, não a forma.
 - Uma frase dela pode entrar uma vez, em cena, como fala ou pensamento, nunca como fecho de capítulo nem como definição. A lista das candidatas está em `docs/LEITURA_INSTAGRAM.md`.
 - Manter dela: a autocorreção ("ou melhor"), o humor autodepreciativo, as imagens práticas (a habilitação, a caixinha, a porta automática, o mural).
-- Fé: acontecimento e relação, sem sermão. No máximo um versículo no livro, dito por alguém, em cena.
+- Fé: acontecimento e relação, sem sermão. No máximo um versículo no livro, dito por alguém, em cena (sugestão: Josué 1:9, o versículo dela).
+- O vocabulário de palestra dos textos dela ("consciência", "nova versão", "vida extraordinária", "prosperidade", "autorresponsabilidade") pode aparecer em fala, com a mesma leveza com que O Jardim trata o nome da palestra: nunca na narração e nunca como conclusão.
 
 ## Pessoas reais
 - O pai não é vilão; a mãe não é santa; o marido não é salvador; as filhas não são adereço. A traição do pai e a tentativa de suicídio são contadas sem julgamento, sem descrição gráfica, sem cena de tribunal.

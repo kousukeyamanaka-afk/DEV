@@ -20,7 +20,7 @@ Texto analisado: `referencia/A_Menina_Elefante_V1.txt` (66 capítulos, ~6 mil pa
 ## A proposta da V2
 - **Memória em primeira pessoa, com cenas.** A voz continua sendo da Luciana (primeira pessoa, "a gente", oralidade brasileira), mas cada capítulo é construído em uma a três cenas com lugar, hora, objeto e diálogo. O comentário da narradora adulta fica raro e curto.
 - **Moldura de 2024.** O prólogo é a primeira sessão de terapia, por vídeo, com a terapeuta no Brasil e doze horas de fuso. A moldura volta no fim (Parte VI) e é ali, uma única vez, que a imagem da menina elefante é explicada.
-- **28 capítulos, prólogo e epílogo, ~33 mil palavras**, em seis partes cronológicas. A virada da mãe no hospital passa para o fim da Parte IV; a crise do sucesso fica para a Parte VI.
+- **29 capítulos, prólogo e epílogo, ~34 mil palavras**, em seis partes cronológicas. A virada da mãe no hospital passa para o fim da Parte IV; a crise do sucesso fica para a Parte VI.
 - **Reescrever, não colar.** As falas da V1 que já são boas ("Seu pai teve um infarto"; "Foi tudo ótimo"; "Você tem sorte de ter seu esposo"; "Agora vai") entram nas cenas. As máximas de fim de capítulo, não.
 
 ## Riscos a administrar

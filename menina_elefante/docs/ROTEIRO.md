@@ -1,8 +1,8 @@
 # Roteiro da V2 (proposta — aguarda aprovação da Luciana)
 
-28 capítulos, prólogo e epílogo, ~33 mil palavras, em ordem cronológica, com moldura em 2024.
+29 capítulos, prólogo e epílogo, ~34 mil palavras, em ordem cronológica, com moldura em 2024.
 Atualizado com as postagens e textos da Luciana (ver `docs/LEITURA_INSTAGRAM.md`): marcados com **(IG)**.
-Marcos: o pai acorda no cap. 8 (~27%); o almoço do pedido no 13 (~46%); a mãe no hospital, primeira virada, no 20 (~72%); o auge que desmonta a casa no 25 (~90%); a imagem da menina elefante explicada uma única vez no 26.
+Marcos: o pai acorda no cap. 8 (~27%); o almoço do pedido no 13 (~45%); a mãe no hospital, primeira virada, no 20 (~69%); o auge que desmonta a casa no 25 (~86%); a imagem da menina elefante explicada uma única vez no 26; o recomeço do casal, clímax, no 28 (~96%).
 Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia/A_Menina_Elefante_V1.txt`, as falas e fatos da V1. Reescreva; não cole as frases de fim de capítulo da V1.
 
 ## Prólogo — A foto · ~900 · V1 cap. 1
@@ -32,8 +32,8 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 
 **4 — O preço de pertencer** · ~1.500 · V1 caps. 5–6
 - Ensino médio: é preciso escolher um grupo. Ela escolhe os populares e consegue, porque sabe se adaptar.
-- Uma cena de bullying contra uma colega (Simone, pseudônimo) em que ela ri e participa. Sem absolvição e sem autoflagelação.
-- Alguém quer algo diferente: a líder do grupo quer uma prova de lealdade; a Simone quer só passar.
+- Uma cena de bullying contra uma colega (Cíntia, pseudônimo) em que ela ri e participa. Sem absolvição e sem autoflagelação.
+- Alguém quer algo diferente: a líder do grupo quer uma prova de lealdade; a Cíntia quer só passar.
 - Final em gesto ou fala.
 
 **5 — O lado de dentro da porta** · ~1.500 · V1 caps. 7–9
@@ -155,6 +155,8 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 
 ## Parte VI — A menina elefante (2023–2026)
 
+Atenção à cronologia real (IG): a terapia (2024) **não** é o fim da crise. Em 2025 o casamento volta a se perder e só se acerta no Natal. O clímax passa para o cap. 28.
+
 **25 — O auge** · ~1.300 · V1 caps. 61–62 · IG 15, 7
 - O dinheiro que cega; as filhas rebeldes pedindo atenção; o casamento que quase não existe.
 - **(IG)** "Deixamos de ser marido e mulher para sermos apenas sócios." A cena é um jantar ou uma viagem de carro em que os dois só falam de trabalho, de metas e de clientes, e nenhum dos dois repara. A narradora não comenta.
@@ -163,24 +165,32 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 - Final em imagem ou fala.
 
 **26 — A história do elefante** · ~1.400 · V1 caps. 1, 63–65 · IG 1, 8, 9, 13, 16
+- **(IG)** "Ser forte sempre foi minha maior qualidade… mas houve um momento em que essa força começou a me derrubar": ela pode dizer à terapeuta, uma vez, "eu posso ser forte e existir também?", como pergunta, não como conclusão.
 - Os dois vão atrás de ajuda: cursos, imersões, conversas difíceis. 2024, **(IG)** o ano do dragão, o dela: a terapia (volta à moldura do prólogo). A foto do pré na tela.
 - **(IG)** A terapeuta faz uma pergunta, uma vez: se ela tirasse tudo o que faz, os papéis (mãe, esposa, sócia, filha), o que sobrava? Ela não responde na hora.
 - **Único lugar do livro** onde a imagem da menina elefante é nomeada e explicada. Proposta: a parábola do elefante acorrentado desde filhote, que cresce acreditando que a estaca o segura; a Luciana a completa com o que ela chama de "mentirinhas" que acreditou sobre si (IG 13). Origem real da imagem: **a confirmar com a Luciana**.
 - Final em fala.
 
 **27 — O salto** · ~1.200 · IG 1
-- 30 de janeiro de 2025, perto de Tóquio. O contêiner com as fotos de saltos; o equipamento afivelado; o Alan e a caçula no banco.
+- 30 de janeiro de 2025, perto de Tóquio. O contêiner com as fotos de saltos; o equipamento afivelado; o Kousuke e a caçula no banco.
 - No avião subindo, o frio na barriga, e a lembrança do primeiro salto, aos ~20, num dia frio (cap. 14).
 - Da janela: o Fuji, Tóquio, tudo pequeno lá embaixo. Ela não tira a lição; o leitor vê.
-- "Seguindo mesmo com o medo presente": ela salta com medo. Final em imagem (a queda, ou o pouso e a caçula correndo).
+- Ela salta com medo ("seguindo mesmo com o medo presente"). Final em imagem (a queda, ou o pouso e a caçula correndo).
 
-**28 — As águas** · ~1.300 · IG 9, 10, 3
-- O batismo nas águas, no Brasil (**data, cidade, igreja e presentes a confirmar**). Seguir Jesus como decisão, com bênçãos e renúncias (quais? **a confirmar**).
-- Quem está na beira da água: a mãe? o pai? (se o pai estiver, o capítulo reencontra o monte do cap. 8 sem dizer). Um versículo, uma vez, dito por quem batiza (sugestão: Jeremias 1:5).
-- **(IG)** Conforme as datas, a volta do Alan do Legendários (maio de 2026): as filhas com o cartaz "KOU — Bem-vindo!"; ela escolhendo ficar ("amar também é uma escolha"), a inversão do cap. 12.
+**28 — Recomeço** · ~1.400 · IG 29–34
+- 2025, "dez anos em um": viagens, cursos, "o início de uma empresa", metas. É o clímax verdadeiro: **a terapia não resolveu tudo**. O casal volta a se perder. "Conflitos, provações, rotas recalculadas."
+- Uma cena em casa antes da viagem, que mostra o que está bom (o cubo mágico: a Mity tentando três semanas; alguém acordado até as 3h para mostrar que dá; a Tiemi no nível "super easy") junto com o que está ruim (ela e o Kousuke que já não se falam direito).
+- A viagem ao Brasil, por causa de um curso; a Lê fica com as meninas. A mãe e o Marcos, na cozinha, dizem a ela o que ela não quer ouvir: que ela também erra, também é orgulhosa (IG 33). Pela primeira vez, a família corrige a Luciana, e não o contrário. Ninguém é vilão; "pessoas feridas ferem" vale para ela também.
+- Natal de 2025, na volta: ela se acerta com o Kousuke. A cena é o momento em que ela tira a "capa protetora" e diz "eu errei" sem desculpa (IG 34). Nada de discurso; uma fala curta dele ou dela, e um gesto. **O que foi dito de verdade: perguntar ao Kousuke e à Luciana.**
+- Final em gesto.
+
+**29 — As águas** · ~1.300 · IG 9, 10, 24–26, 32
+- O batismo nas águas, no Brasil (**data, cidade, igreja e presentes a confirmar**; foi na mesma viagem do cap. 28?). Seguir Jesus como decisão, com bênçãos e renúncias (quais? **a confirmar**).
+- Um versículo, uma vez, dito por quem batiza. Troca da sugestão: **Josué 1:9, "Seja forte e corajoso"**, o versículo dela (IG 32), porque o livro inteiro é sobre uma mulher forte demais. Não citar a leitura que ela faz dele ("não é pra você carregar o mundo…"); deixar o leitor ligar ao elefante.
+- 2026, conforme as datas: Paris outra vez, dezesseis anos depois da neve (cap. 15), diante da Torre Eiffel; o Mulheres Experience; a volta do Kousuke do Legendários, com as filhas e o cartaz "KOU — Bem-vindo!", e ela escolhendo ficar ("amar também é uma escolha"), a inversão do cap. 12.
 - Final em imagem.
 
-## Epílogo — ~500 · IG 2, 4, 7, 14
+## Epílogo — ~500 · IG 2, 4, 7, 14, 30
 - 2026. Uma cena pequena em casa, sem lição, sem definição, sem "hoje eu sei".
 - Três filhas, três gestos diferentes (uma precisa de palavra, outra de silêncio, a caçula de colo); a filha que toca teclado no quarto ao lado (a avó que "tocava qualquer instrumento"); o mural com os checks na parede.
-- A franja da caçula cortada na cozinha, com a tesoura errada; curta demais. A Luciana repete, sem perceber, a frase da mãe dela no cap. 1: "Encolhe quando seca." Termina aí, ou num gesto logo depois.
+- A franja da caçula cortada na cozinha, com a tesoura errada, curta demais. A Luciana repete, sem perceber, a frase da mãe dela no cap. 1: "Encolhe quando seca." Termina aí, ou num gesto logo depois.

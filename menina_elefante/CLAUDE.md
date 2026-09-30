@@ -3,7 +3,7 @@
 Memória de Luciana Lumi Watanabe Yamanaka, no mesmo modelo de trabalho de *O Jardim Entre o Agora e o Depois* (a pasta-mãe deste repositório). A V1 (66 capítulos curtíssimos, ~6 mil palavras) está em `referencia/`. A V2 reescreve o livro em cenas, em primeira pessoa, seguindo o parecer e o roteiro de `docs/`.
 
 **Já escrito (aguarda revisão):** nota ao leitor, prólogo e Parte I (capítulos 1–5, ~7.100 palavras).
-**Falta:** aprovação do roteiro; Parte II (6–10), Parte III (11–15), Parte IV (16–20), Parte V (21–24), Parte VI (25–28) e o epílogo.
+**Falta:** aprovação do roteiro; Parte II (6–10), Parte III (11–15), Parte IV (16–20), Parte V (21–24), Parte VI (25–29) e o epílogo.
 
 ## Antes de escrever qualquer coisa
 1. `docs/PARECER.md` — o diagnóstico da V1 e a proposta.
@@ -37,11 +37,11 @@ Memória de Luciana Lumi Watanabe Yamanaka, no mesmo modelo de trabalho de *O Ja
 
 ## Metas de tamanho
 - Partes I–V: 1.000–1.500 palavras por capítulo. Parte VI: 1.000–1.400. Prólogo ~900. Epílogo ~500.
-- Livro inteiro: ~33 mil palavras.
+- Livro inteiro: ~34 mil palavras.
 
 ## Pendências que só a autora decide (sinalize, não resolva sozinho)
 - Aprovar ou ajustar o roteiro (`docs/ROTEIRO.md`) e o tom da Parte I.
-- Nomes: irmãos (quantos, sexo, ordem), as três filhas, o cachorro, os tios padrinhos; se o Alan aparece com o nome real (e "Kou" em casa); se a empresa aparece como Easy House.
+- Nomes: irmãos (Marcos é irmão; Simone e Xavier?), a ordem e o nome da terceira filha (Mity e Tiemi já aparecem), o cachorro, os tios padrinhos; o marido aparece como **Kousuke** na voz dela (confirmar); se a empresa aparece como Easy House.
 - Batismo (data, lugar, presentes), primeiro salto (onde), Banco de Nagoya (cidade/ano), mural da vida extraordinária: perguntas em `docs/LEITURA_INSTAGRAM.md`.
 - Cidade da infância no Brasil; cidade(s) no Japão (provável: região de Minokamo/Gifu); ramo do trabalho da mãe.
 - O pai veio de navio criança ou adulto, e com quem.

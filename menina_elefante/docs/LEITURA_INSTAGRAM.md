@@ -1,6 +1,6 @@
 # Leitura das postagens e textos da Luciana (2025–2026)
 
-Fonte: `referencia/instagram_luciana.md`, com 20 itens: 11 postagens com foto e 9 textos, em dois envios. Este documento extrai **fatos**, **histórias**, **o modo de pensar** e **a voz** da Luciana, e diz onde cada coisa entra no livro. O que está marcado **(?)** precisa de confirmação.
+Fonte: `referencia/instagram_luciana.md`, com 34 itens (14 postagens com foto e 20 textos) em três envios. As seções 1 a 5 cobrem os dois primeiros; a **seção 6** cobre o terceiro e **corrige** algumas decisões das anteriores. Este documento extrai **fatos**, **histórias**, **o modo de pensar** e **a voz** da Luciana, e diz onde cada coisa entra no livro. O que está marcado **(?)** precisa de confirmação.
 
 ## 1. Fatos novos (já estão na Bíblia)
 | Fato | Fonte (nº) | Consequência para o livro |
@@ -77,3 +77,45 @@ Fonte: `referencia/instagram_luciana.md`, com 20 itens: 11 postagens com foto e 
 7. O que está escrito no "mural da vida extraordinária"? Onde ele fica?
 8. A empresa pode aparecer como Easy House? O Alan aparece como "Kou" em casa?
 9. Há postagens antigas (2018–2024) sobre a mãe, o food truck, a COVID e a terapia que ela aceite compartilhar? Principalmente a foto do pré, se já tiver sido postada.
+
+## 6. Terceiro envio: o que muda
+
+### Fatos novos
+| Fato | Fonte (nº) | Consequência |
+|---|---|---|
+| Ela chama o marido de **Kousuke** ("me acertar com o Kousuke"; "o Kousuke comprou um curso de cubo"). | 29, 34 | Na voz dela, o marido passa a ser **Kousuke** (o prólogo foi corrigido). "Alan" fica nos documentos. Confirmar. |
+| **Nomes das filhas: Mity e Tiemi**; a terceira aparece como "a irmã". | 29 | Resolve boa parte da pendência. Falta o terceiro nome e a ordem. |
+| A primogênita se formou no **5º ano em 2024, oradora da turma**; é pré-adolescente. Ela lembra da própria formatura "na 5ª série" e diz: "Talvez hoje eu entenda a minha mãe". | 30 | O 5º ano como etapa de formatura sugere **escola brasileira no Japão** (?). A cena da filha no palco faz eco com a menina que não levantava a voz (cap. 3). |
+| Irmão **Marcos**. Aparecem também **Simone** e **Xavier** (irmã? cunhados?). | 33 | A colega do bullying no cap. 4 passou de "Simone" para **Cíntia**, para não coincidir com alguém da família. A "Camila" rica do cap. 3 virou **Renata**, para não lembrar a Camila Vieira do evento. |
+| **2025, "10 anos em um"**: 8 países; "o início de uma empresa"; cursos; "conflitos, provações e muitas rotas recalculadas". | 31 | A crise não acabou com a terapia de 2024. |
+| **Viagem ao Brasil em 2025, por causa de um curso**; a mãe e o irmão "me corrigem com amor"; "eu também sou orgulhosa"; a **Lê** cuidou das meninas. | 33 | A primeira vez que a família cuida dela corrigindo, e não pedindo. |
+| **"Recomeço!"**: no Natal de 2025, na volta do Brasil, ela se acerta com o Kousuke. "Deixar meu orgulho de lado e enxergar que eu errei… uma capa protetora que ao invés de nos proteger só nos esconde." | 34 | **Clímax real do livro** → novo **cap. 28 — Recomeço**. |
+| Início de 2026: **Mulheres Experience** (Camila e Paulo Vieira), "divisor de águas"; **Paris de novo**, a Torre Eiffel, "uma nova identidade". | 24–26 | Eco direto do cap. 15 (Paris aos 22, com neve e voo cancelado). Vai para o cap. 29. |
+| O versículo dela é **Josué 1:9, "Seja forte e corajoso"** (ela escreveu "1:19"). | 32 | Passa a ser a sugestão de versículo único do livro, no lugar de Jeremias 1:5. |
+| Jan. 2026, voo cancelado e voo quase perdido; fev. 2026, trabalho em Saitama num domingo e o Fuji na volta. | 21, 22 | Cor para o cap. 29 ou para o epílogo. |
+
+### Eixos novos ou reforçados
+17. **Carregar.** "A gente é que insiste em carregar peso que não precisa" (28); "não é pra você carregar o mundo. É pra você lembrar que Ele carrega você" (32). É o centro da imagem do elefante: o animal que carrega tudo. O livro deixa o leitor juntar, no cap. 26 (o elefante) e no 29 (o versículo), sem explicar.
+18. **Forte × existir.** "Ser forte sempre foi minha maior qualidade… Mas houve um momento em que essa força começou a me derrubar… Quando eu não existia. Hoje eu sei: eu posso ser forte… e existir também" (28). A V1 dizia "fui deixando de existir pra mim mesma". No cap. 26, ela pode dizer isso à terapeuta **como pergunta**.
+19. **A capa protetora.** O orgulho que "ao invés de nos proteger só nos esconde" (34) é o personagem do cap. 1 em versão adulta. O recomeço do cap. 28 é ela tirando a capa, mostrado num gesto.
+20. **Várias versões, uma só.** "Ser mulher é aprender a existir em várias versões ao mesmo tempo… A gente se divide, sim. Mas não se perde" (27). É o camaleão do cap. 3, reconciliado: as versões continuam, mas agora há alguém por trás delas. Não dizer.
+21. **Pessoas feridas ferem**, e ela também. "Quem está ferido, muitas vezes fere" (23); "eu também erro, eu também sou orgulhosa" (33). Protege o livro de ter vilões. Vale para o pai (caps. 8–10), para as vozes que a diminuíam (cap. 17) e para ela mesma (caps. 12 e 28).
+22. **O exemplo, não o conselho.** O cubo mágico (29): a filha só acreditou quando viu alguém fazer. É o oposto da palestra, e um bom princípio para o próprio livro: mostrar, não aconselhar.
+23. **"Viver custa caro"** e **"levar leve também é uma escolha"** (21, 22): as duas coisas ao mesmo tempo. O epílogo não precisa escolher entre elas.
+
+### Decisões tomadas agora (já aplicadas)
+- **Prólogo**: "o Alan" virou "o Kousuke".
+- **Cap. 3**: Camila virou **Renata**.
+- **Caps. 4 e 5**: Simone virou **Cíntia**.
+- **Roteiro**:
+  - a Parte VI passa a ter **5 capítulos**: 25 O auge, 26 A história do elefante, 27 O salto, **28 Recomeço** (2025, o clímax), **29 As águas** (batismo + Paris 2026 + Legendários);
+  - o livro fica com 29 capítulos e ~34 mil palavras.
+
+### Perguntas novas
+10. Qual é a ordem das filhas (quem é a primogênita, oradora do 5º ano) e qual é o nome da terceira?
+11. Simone e Xavier: quem são? Quem é a Lê?
+12. Quem ficou acordado até as 3h montando o cubo: a Luciana ou o Kousuke? O texto mistura as duas vozes.
+13. A viagem ao Brasil de 2025: que curso era, quando foi, e o que aconteceu na volta ("recomeço")? É a mesma viagem do batismo?
+14. "O início de uma empresa" em 2025: de quem, e qual?
+15. A ida a Paris em 2026 foi com o Kousuke? Foi a mesma viagem do Mulheres Experience?
+16. O que exatamente foi dito no Natal de 2025? (É a cena mais importante do fim; se ela não quiser contar, o livro deixa a fala de fora e fica só no gesto.)
