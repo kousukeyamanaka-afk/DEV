@@ -109,8 +109,8 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 
 **17 — Todo mundo sabia** · ~1.500 · V1 caps. 21, 32–34
 - Opiniões sobre como criar, cuidar, ser mãe. Comparações: "Fulana fala japonês fluente", "Olha onde ele chegou". E a que fica: "Você tem sorte de ter seu esposo."
-- Segunda gravidez (a Ayumi, 2016). As brigas; os hormônios como desculpa.
-- **(IG)** Contraponto sem absolver ninguém: Dia dos Namorados de 2016, grávida de pernas inchadas, horas de carro, e o Kousuke monta uma cama no banco de trás para ela ir de pernas esticadas. Ela não lembra do presente; lembra da cama.
+- Segunda gravidez (a Ayumi, ~2015). As brigas; os hormônios como desculpa.
+- **(IG)** Contraponto sem absolver ninguém: numa das gestações, grávida de pernas inchadas, horas de carro, e o Kousuke monta uma cama no banco de trás para ela ir de pernas esticadas. Ela não lembra do presente; lembra da cama.
 - **(IG)** As "mentirinhas que foram contando ao seu respeito" viram identidade: mostrar pela repetição (ela mesma repetindo a frase dos outros sobre si), nunca explicar.
 - Final em fala.
 
