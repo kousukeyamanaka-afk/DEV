@@ -2,7 +2,7 @@
 
 Memória de Luciana Lumi Watanabe Yamanaka, no mesmo modelo de trabalho de *O Jardim Entre o Agora e o Depois* (a pasta-mãe deste repositório). A V1 (66 capítulos curtíssimos, ~6 mil palavras) está em `referencia/`. A V2 reescreve o livro em cenas, em primeira pessoa, seguindo o parecer e o roteiro de `docs/`.
 
-**Já escrito (primeira versão completa, aguarda revisão da Luciana):** nota ao leitor, prólogo, Partes I–VI (capítulos 1–29) e epílogo, ~33.800 palavras.
+**Já escrito (versão completa revisada; visita ao pai, "Mãe sabe" e o cubo montado pela Luciana aprovados pela autora):** nota ao leitor, prólogo, Partes I–VI (capítulos 1–29) e epílogo, ~35.200 palavras.
 **Falta:** a revisão da Luciana; as respostas às perguntas de `docs/LEITURA_INSTAGRAM.md`; ajustar o texto conforme `docs/DECISOES_V2.md` (tudo o que foi inventado ou deduzido, capítulo por capítulo).
 
 ## Antes de escrever qualquer coisa

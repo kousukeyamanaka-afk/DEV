@@ -1,6 +1,6 @@
 # Decisões da V2 que a Luciana precisa conferir
 
-O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~33.800 palavras). Os posts e textos da Luciana serviram de **base de personalidade, pensamento e histórias**, não de conteúdo a transcrever: cada capítulo usa uma ou duas histórias escolhidas. Tudo o que está abaixo foi **inventado ou deduzido** para dar corpo às cenas e pode ser trocado sem desmontar o livro.
+O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~35.200 palavras). Os posts e textos da Luciana serviram de **base de personalidade, pensamento e histórias**, não de conteúdo a transcrever: cada capítulo usa uma ou duas histórias escolhidas. Tudo o que está abaixo foi **inventado ou deduzido** para dar corpo às cenas e pode ser trocado sem desmontar o livro.
 
 ## Parte I (1994–2003)
 - A franja cortada com a tesoura de frango e a tigela amarela; "igualzinha à Mônica"; o vestido da costureira; a tia Márcia, o fotógrafo.
@@ -52,8 +52,8 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~33.800 palav
 - **Cap. 28 (reescrito)**:
   - **a sala comercial alugada sem avisar** e o contrato achado no porta-luvas;
   - **"Eu cansei de andar dez passos atrás de você"** (o limite do Kousuke) e o travesseiro no sofá;
-  - **a visita ao pai**: o apartamento térreo, a caneca de asa colada, o vídeo do bungee, "Puxou a minha mãe", "Eu passei trinta dias num monte. Lá ninguém dizia que estava tudo ótimo", "deixa ela falar";
-  - **"Mãe sabe"**: a mãe ouviu o médico falando japonês com a enfermeira no quarto e sempre soube da mentira do "Foi tudo ótimo". **Proposta forte: se não for verdade, cortar os parágrafos do "Lembra do hospital?" até "Mãe sabe"; o capítulo continua de pé**;
+  - **a visita ao pai** (aprovada pela autora em 30/09/2026): o apartamento térreo, a caneca de asa colada, o vídeo do bungee, "Puxou a minha mãe", "Eu passei trinta dias num monte. Lá ninguém dizia que estava tudo ótimo", "deixa ela falar";
+  - **"Mãe sabe"** (aprovado pela autora em 30/09/2026): a mãe ouviu o médico falando japonês com a enfermeira no quarto e sempre soube da mentira do "Foi tudo ótimo";
   - **no desembarque, o Kousuke também diz "Eu também… achei que ficar quieto era ficar"**, e os dois saem juntos pela porta automática.
 - **Cap. 29**: no Legendários, o Kousuke atravessa o salão até ela e diz "Vem pra frente".
 - **Epílogo**: a Luciana senta ao lado da Ayumi no banco do teclado, sem dizer nada; conta à Mity a história da franja; depois corta a franja da Tiemi.
