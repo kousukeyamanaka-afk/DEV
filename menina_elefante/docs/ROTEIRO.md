@@ -185,11 +185,12 @@ Arco: o sucesso quase desfaz a casa; a terapia não resolve tudo; ela para de ca
 
 **28 — Recomeço** · 2025 · ~1.500 · IG 29–34, 21
 - Ela quer: ter razão. A família quer ela de volta.
-- "Dez anos em um": oito países, cursos, "o início de uma empresa"; em casa, o cubo mágico (a Mity três semanas; a mãe acordada até as 3h; a Tiemi no "super easy"); o casal se desfazendo em silêncio. A viagem ao Brasil para um curso; a Lê fica com as meninas. Na cozinha da mãe, a mãe e o Marcos dizem o que ela não quer ouvir: que ela também erra, é orgulhosa.
+- "Dez anos em um": oito países, cursos, "o início de uma empresa"; o casal se desfazendo em silêncio. A viagem ao Brasil para um curso; a Lê fica com as meninas. Na cozinha da mãe, a mãe e o Marcos dizem o que ela não quer ouvir: que ela também erra, é orgulhosa.
 - Natal de 2025, na volta: o recomeço com o Kousuke. Ela tira a capa: "Eu errei." Sem desculpa.
 - **Final:** um gesto no Natal, as mãos (eco do "segurar a mão e nunca soltar").
 
 **29 — As águas** · 2026 · ~1.400 · IG 9, 10, 11, 12, 13, 24–26, 32
+- Abre com o cubo mágico, na volta do Brasil (movido do 28 a pedido da autora): a Mity três semanas; a mãe acordada até as 3h, o Kousuke deixa um copo d'água; a Tiemi no "super easy".
 - O batismo nas águas, no Brasil (data, lugar e presentes a confirmar). Josué 1:9, dito por quem batiza. A roupa que ela escolhe.
 - Paris de novo, a Torre Eiffel, dezesseis anos depois da neve. A volta do Kousuke da montanha do Legendários: as filhas com o cartaz "KOU — Bem-vindo!"; ela escolhendo ficar. A casa entregue no Banco de Nagoya, no mesmo balcão da primeira conta.
 - **Final:** ela saindo da água, ou atrás das filhas levantando o cartaz, sem precisar ser vista.
