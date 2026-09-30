@@ -1,213 +1,198 @@
-# Roteiro da V2 (proposta — aguarda aprovação da Luciana)
+# Roteiro definitivo da V2
 
+Consolidado depois da leitura da V1 e dos 77 posts e textos da Luciana (`referencia/instagram_luciana.md`, leitura em `docs/LEITURA_INSTAGRAM.md`). Substitui as versões anteriores (ver histórico do git).
 29 capítulos, prólogo e epílogo, ~34 mil palavras, em ordem cronológica, com moldura em 2024.
-Atualizado com as postagens e textos da Luciana (ver `docs/LEITURA_INSTAGRAM.md`): marcados com **(IG)**.
-Marcos: o pai acorda no cap. 8 (~27%); o almoço do pedido no 13 (~45%); a mãe no hospital, primeira virada, no 20 (~69%); o auge que desmonta a casa no 25 (~86%); a imagem da menina elefante explicada uma única vez no 26; o recomeço do casal, clímax, no 28 (~96%).
-Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia/A_Menina_Elefante_V1.txt`, as falas e fatos da V1. Reescreva; não cole as frases de fim de capítulo da V1.
+Legenda: **V1** = fato do livro original; **IG n** = item n dos posts; **(V2)** = invenção da reescrita, a confirmar; **(?)** = data ou fato incerto.
 
-## Prólogo — A foto · ~900 · V1 cap. 1
-- 2024. Primeira sessão de terapia, por vídeo: a terapeuta no Brasil, de manhã; a Luciana no Japão, de noite, na mesa da cozinha, com a casa dormindo.
-- "Minha vida é simples." A terapeuta não discute; pergunta outra coisa.
-- Tarefa: trazer uma foto dela pequena. Ela não tem nenhuma no Japão; pede à mãe pelo WhatsApp. A mãe, de manhã no Brasil, manda a foto do pré.
-- Final: a foto na tela do celular. Não dizer "menina elefante".
+## A espinha
+Uma menina aprende aos 6 anos que, se ela sorrir, a mãe relaxa. Passa trinta anos sendo o que cada lugar precisa: a que não dá trabalho, a que se adapta, a que cuida do pai, a que aguenta a fábrica, a que salva a mãe, a que faz a empresa dar certo. Estuda **optometria**, a ciência de medir como os outros enxergam, e não se enxerga. Aos 35, no ano do dragão, que é o ano dela, marca uma terapia dizendo que a vida dela é "comum". O livro é o caminho da menina que segurava a barra do vestido até a mulher que grita o bungee inteiro, que pede desculpa sem capa, que se batiza e que um dia corta a franja da filha e se ouve dizendo a frase da mãe.
 
-## Parte I — O personagem (1994–2003)
+**O que ela quer, parte a parte**: ser aceita (I) → segurar a família (II) → ser digna de ser amada (III) → provar que dá conta sozinha (IV) → dar certo (V) → existir (VI).
+**O que está contra ela**: nunca um vilão. É a régua dos outros, que ela mesma aprende a usar, e a força dela, que é a qualidade e o problema.
 
-**1 — A franjinha** · ~1.300 · V1 caps. 2–3
-- Fim do pré, 1994. A mãe corta a franja em casa na véspera (a tigela; o humor). O vestido bufante que a mãe escolheu.
-- A festa/fotografia: a menina que observa, os amiguinhos, a professora que quer todo mundo sorrindo. O medo do primeiro ano: "Será que eu vou dar conta?", pensado, não dito.
-- O primeiro personagem nasce num gesto: ela sorri porque a mãe quer, e percebe que funciona. Não nomear "personagem".
-- Final em imagem: o clique da foto (a mesma do prólogo, agora vista por dentro).
+## Mapa de ecos (plantar → colher; nunca explicar)
+| Motivo | Planta | Colhe |
+|---|---|---|
+| A foto do pré, as mãos na barra do vestido | Prólogo, cap. 1 | Cap. 26 (a foto na tela da terapia), epílogo |
+| A franja cortada em casa; "Encolhe quando seca" | Cap. 1 (a mãe) | Epílogo (a Luciana, com a Tiemi) |
+| Vestir / ser vestida | Cap. 1 ("braço, braço, cabeça") | Cap. 29 (ela escolhe a roupa do batismo) |
+| Falar baixinho | Cap. 3 (Érica) | Cap. 25 (grita o bungee inteiro) |
+| "O meu não é nada" | Cap. 5 | Cap. 19 ("Foi tudo ótimo"), prólogo ("Minha vida é simples") |
+| A mesa de 1º de janeiro, a conta que não fecha | Cap. 2 | Cap. 23 (1º de janeiro de 2022, a asa-delta), cap. 29 (a mesa da igreja) |
+| Comida levada para os outros | Cap. 5 (arroz com ovo), cap. 9 (a panela do pai) | Cap. 23 (a mãe cozinha para ela na COVID) |
+| Enxergar: óculos, a tabela de letras | Cap. 9 (a ótica, a optometria) | Cap. 26 (a terapeuta: "e você, enxerga quanto?"; não dizer), epílogo |
+| O mar e a travessia | Cap. 2 (o navio do pai) | Caps. 14, 22, 29 (as águas) |
+| O céu e os saltos | Cap. 14 (paraquedas aos 20) | Caps. 21 (bungee), 23 (asa-delta), 25 (bungee 200 m), 27 (paraquedas 2025) |
+| A neve | Cap. 15 (Paris) | Cap. 21 (Hokkaido, ela pega o volante), cap. 29 (Paris de novo) |
+| O Banco de Nagoya | Cap. 14 (a primeira conta) | Cap. 29 ou epílogo (a casa entregue no mesmo balcão) |
+| O mesmo prato | Cap. 16 | Epílogo (ela pede outra coisa) |
+| O monte | Cap. 8 (o pai viu Jesus num monte) | Cap. 29 (a volta do Kousuke da montanha do Legendários) |
+| Doze horas de fuso | Prólogo | Caps. 19–20, 28 |
+| "Comum" | Prólogo | Epílogo (sem dizer a palavra, um dia comum que não é) |
 
-**2 — O navio e os doze** · ~1.300 · V1 cap. 2
-- As duas famílias num domingo: a família da mãe, de doze irmãos, as perdas que ninguém comenta à mesa (os gêmeos, os dois pequenos) e que a menina descobre de lado; a regra da casa é seguir em frente.
-- O pai diferente de todos: 1,65, bonito, "descolado"; as histórias do navio, que ela ouve sem entender o peso; o avô piloto; a avó que tocava e bebia, que ela nunca conheceu. "Talvez eu tenha herdado um pouco disso dela" vira fala de alguém.
-- Alguém quer algo: o pai quer plateia; a mãe quer que ele pare de contar vantagem; a menina quer que a tarde não acabe.
-- Final em gesto.
+## Regras de sincronismo
+- Cada parte abre com uma data e um lugar concretos na primeira linha.
+- Cada capítulo tem pelo menos um objeto que volta depois (tabela acima).
+- A narradora adulta comenta no máximo uma vez por parte. Os saltos não são comentados nunca.
+- O humor vem das crianças, do pai (Parte I), dos japoneses que não entendem o português dela, do Kousuke complexo e dela mesma ("quando eu quero eu quero").
 
-**3 — O camaleão** · ~1.300 · V1 cap. 4
-- Primário. O rico, o inteligente, o bagunceiro, o tímido — e ela, que transita entre todos. Uma cena concreta: um trabalho em grupo ou um aniversário em que dois grupos a querem, e ela muda o jeito de falar em cada um.
-- Em casa, "essa não dá trabalho".
-- Final em imagem.
+---
 
-**4 — O preço de pertencer** · ~1.500 · V1 caps. 5–6
-- Ensino médio: é preciso escolher um grupo. Ela escolhe os populares e consegue, porque sabe se adaptar.
-- Uma cena de bullying contra uma colega (Cíntia, pseudônimo) em que ela ri e participa. Sem absolvição e sem autoflagelação.
-- Alguém quer algo diferente: a líder do grupo quer uma prova de lealdade; a Cíntia quer só passar.
-- Final em gesto ou fala.
+## Prólogo — A foto · 2024 · ~1.000 (escrito)
+Primeira sessão por vídeo, 21h no Japão e 9h no Brasil; "Minha vida é simples"; "Eu estou cansada"; "Você está com pressa?". A tarefa é trazer uma foto de criança; ela pede à mãe "pras crianças verem". **Final:** a foto ampliada até sobrarem as mãos na barra do vestido.
 
-**5 — O lado de dentro da porta** · ~1.500 · V1 caps. 7–9
-- A melhor amiga (Carla, pseudônimo) com problemas sérios com a mãe. Fica um tempo na casa da Luciana, depois vai para a casa da madrinha.
-- A Luciana quer resolver, ajudar, salvar; a Carla quer só dormir sem ninguém perguntar nada.
-- A mãe da Luciana pergunta como ela está: "O meu não é nada. Tem gente passando por coisa muito pior."
-- Final em imagem (o colchonete, a cama arrumada depois que a amiga vai embora).
+## Parte I — O personagem (1994–2003) (escrita)
+1. **A franjinha** (dez. 1994): a franja e a tigela; "igualzinha à Mônica"; o sorriso que faz a mãe relaxar; o flash. *Ajuste V2: os óculos escuros do pai saem da vitrine da ótica da família.*
+2. **O navio e os doze** (1º jan. ~1996): a mesa comprida; o pai e a baleia; "A mãe teve doze. Criou oito."; ela enxuga os pratos.
+3. **O camaleão** (1995–1998): uma em cada turma; "essa não dá trabalho"; "tanto faz"; fala baixinho.
+4. **O preço de pertencer** (2003): a Débora; imita a Cíntia; o braço que não sobe mais.
+5. **O lado de dentro da porta** (2003): a Carla; "O meu não é nada"; a letra mais bonita na cópia da amiga.
 
-## Parte II — Trinta dias (2003–~2008)
+## Parte II — Trinta dias (2003–2005)
+Arco: a menina que se adaptava vira a que sustenta. O pai, herói, cai do pedestal sem virar vilão.
 
-**6 — A sala** · ~1.300 · V1 cap. 10
-- Uma tarde comum. Ela chega em casa e sente antes de entender: a sala parece um velório; a mãe com os tios padrinhos; todo mundo chorando. "Seu pai teve um infarto." Socorrido, reanimado, na UTI, esperando acordar.
-- Final em fala ou gesto (o que ela faz com a mochila, com o tênis, com as mãos).
+**6 — A sala** · fim de 2003 ou 2004 (?) · ~1.300 · V1 10
+- Ela quer: que a tarde seja comum. A mãe quer: não contar ainda, e conta.
+- Cena: volta da escola, a casa em silêncio de velório, a mãe com os tios padrinhos. "Seu pai teve um infarto." Reanimado, UTI, "esperando acordar".
+- Objetos: a mochila, o tênis da Débora, a ótica fechada no meio da tarde (a placa virada).
+- **Final:** ela lava a louça que ninguém lavou, ou prepara a mochila do irmão para o dia seguinte. Um gesto de quem assume.
 
-**7 — Trinta dias** · ~1.400 · V1 cap. 11
-- O hospital como rotina: horário de visita, o cheiro, o corredor; gente recebendo alta, gente não voltando. Ela reza todos os dias. Tenta ser forte para a mãe e para os irmãos.
-- Sem descrição gráfica dos outros pacientes.
-- Final em imagem.
+**7 — Trinta dias** · ~1.300 · V1 11
+- Ela quer: acreditar. Os médicos querem preparar a família.
+- Cena: horário de visita, o avental, o cheiro, o bipe. Ela reza todos os dias (a oração concreta: "Deixa ele acordar e eu nunca mais peço nada"). Os outros leitos que esvaziam.
+- A mãe dorme sentada. A Luciana faz o papel de adulta com os irmãos.
+- **Final:** a oração que ela faz à noite, de joelhos no chão frio, e o ruído da geladeira. Ou ela contando nos dedos os dias no calendário da ótica.
 
-**8 — O monte** · ~1.500 · V1 caps. 12–13
-- O pai acorda. Diz que estava com Jesus, num monte, e que o médico estava lá também. Os 98%. Sem sequela.
-- Alívio de poucos dias. Então ele diz que tem quatro filhos. Eram três. A mãe descobre a traição ali, no quarto do hospital ou logo depois.
-- O que foi visto no monte não é explicado nem desmentido.
-- Final em fala.
+**8 — O monte** · ~1.400 · V1 12–13
+- Ela quer: o pai de volta. O pai quer contar o que viu. A mãe quer entender a frase dele.
+- Cena 1: ele acorda, lúcido; conta que estava num monte, com Jesus, e que o médico estava lá também. O médico dá de ombros. Os 98%.
+- Cena 2, dias depois: "Eu tenho quatro filhos." Eram três. O silêncio da mãe; a Luciana entende antes de entender.
+- Não explicar nem desmentir o monte.
+- **Final:** fala da mãe, curta, ou o gesto dela de dobrar o avental do hospital.
 
-**9 — Meia-noite** · ~1.500 · V1 caps. 14–15, 18
-- Separação; o pai deprimido, se afasta, se muda. Ela assume.
-- A rotina: de dia, trabalho com a mãe **na ótica** (IG 70); à noite, **faculdade de optometria** em outra cidade, mais de duas horas de ônibus; perto da meia-noite, a casa do pai: cozinha, deixa comida, organiza. Todo dia.
-- O pai quer que ela não venha (ou quer que venha e não pede). A mãe quer que ela não vá.
-- Final em imagem (a panela, o bilhete, a luz da cozinha do pai).
+**9 — Meia-noite** · 2004–2005 · ~1.400 · V1 14–15, 18; IG 70
+- Ela quer: que ninguém desmonte. A mãe quer que ela não vá à casa do pai. O pai quer que ela vá e não pede.
+- A separação; o pai se muda, deprime. A rotina: de dia na **ótica** com a mãe (o balcão, as armações, o exame de vista, a tabela de letras que diminuem); à noite, **optometria** em outra cidade, mais de duas horas de ônibus; perto da meia-noite, a casa do pai: a panela, o bilhete, a louça.
+- Ela mede o grau dos outros e não para para medir o próprio cansaço. Não dizer.
+- **Final:** a luz da cozinha do pai apagada por ela, a panela no fogão com um bilhete em cima.
 
-**10 — A ligação** · ~1.300 · V1 caps. 16–17
-- Alguém liga: levaram o pai de ambulância; tomou todos os remédios.
-- Ela não desaba: vai, resolve, segura. Contado com contenção, sem detalhe de método além do que a V1 já diz.
-- Final em gesto. (Sugestão para o autor: incluir no fim do livro um contato de apoio emocional — CVV, 188, no Brasil; no Japão, linhas de atendimento em português, a confirmar.)
+**10 — A ligação** · ~1.200 · V1 16–17
+- Ela quer: chegar a tempo. Todo mundo quer que alguém resolva.
+- A ligação; a ambulância; os remédios; o hospital. Ela vai, resolve, segura. Contenção total.
+- **Final:** ela sentada no corredor, de uniforme da ótica, com a bolsa do pai no colo, e alguém (o namorado? a mãe?) que chega e senta do lado sem dizer nada.
 
-## Parte III — Ele ficou (~2006–2010)
+## Parte III — Ele ficou (2005–2010)
+Arco: ela não acredita que merece ser amada e testa até quebrar. Ele não quebra.
 
-**11 — O ônibus das onze** · ~1.400 · V1 caps. 19–20
-- O Kousuke: escuta sem julgar, cuida sem que ela peça. Ela demorou muito para aceitar namorar. Perde os amigos; faculdade e volta, sem criar vínculo.
-- Ele quer estar junto; ela só tem para dar o que sobra.
-- Final em gesto.
+**11 — O ônibus das onze** · 2005–2007 · ~1.300 · V1 19–20; IG 76, 77
+- Ela quer: não precisar de ninguém. O Kousuke quer estar junto.
+- Ela demorou a aceitar namorar. Ele a espera na rodoviária quando o ônibus da faculdade chega; escuta sem julgar. Os amigos somem ("dez anos atrás eu tinha mais amigos").
+- **Final:** ele segurando o guarda-chuva para ela na rodoviária vazia; ela, que não sabe receber, pega a alça junto.
 
-**12 — Testes** · ~1.500 · V1 caps. 21–24
-- Ciúme sem motivo, provocação, testes. Uma situação difícil com a família dele. A certeza de que ele vai embora e a pressa de chegar ao fim.
-- Os comentários de fora começam aqui ou no cap. 17 (decidir: "Você tem sorte" fica melhor no 17).
-- Ele fica. Mostrar como.
-- Final em fala ou gesto.
+**12 — Testes** · ~1.400 · V1 21–24; IG 35
+- Ela quer: provar que ele vai embora. Ele quer ficar e quer paz com a própria família.
+- Ciúme sem motivo, provocação, "quando eu quero eu quero, e agora", o pavio curto. Uma situação difícil com a família dele.
+- **Final:** depois da pior briga, ele aparece no dia seguinte com a coisa mais banal (pão, o carregador que ela esqueceu). Fala dele, curta.
 
-**13 — O almoço de despedida** · ~1.300 · V1 cap. 25
-- Antes do Japão, ele prepara um almoço "de despedida". As duas famílias. O pedido.
-- "Como assim… eu?" pensado, não dito.
-- Final em imagem.
+**13 — O almoço de despedida** · ~2009 · ~1.200 · V1 25
+- Ela quer: que o Japão seja uma aventura. Ele quer um sim.
+- O almoço "de despedida" com as duas famílias; o pai e a mãe na mesma mesa (separados); o pedido. "Como assim… eu?"
+- **Final:** o anel que não entra direito, ou o pai dela que levanta o copo como no cap. 2.
 
-**14 — Catorze horas** · ~1.500 · V1 caps. 26–28
-- Japão, primeira vez: fábrica 12, 13, 14 horas; o choro silencioso no quarto; se acostumar.
-- A independência: a primeira coisa que ela compra para si, sem pedir. Dividir contas, planos.
-- O intercâmbio não acontece.
-- **(IG)** A chegada perdida: sem a língua; ir a um restaurante era um desafio; a primeira conta no **Banco de Nagoya** (o balcão, os formulários, o hanko). O primeiro salto de paraquedas, aos ~20, num dia frio, "queria muito e estava com muito medo", pago com o dinheiro da fábrica: a primeira coisa só dela. (Se o salto foi no Brasil, ele vai para o cap. 11 ou 13.)
-- Final em imagem.
+**14 — Catorze horas** · 2009–2010 · ~1.500 · V1 26–28; IG 1, 12, 72
+- Ela quer: aguentar. O Japão quer que ela seja rápida.
+- A fábrica, 12 a 14 horas, o bentō, o zangyō (as horas extras); o choro silencioso no quarto. Perdida: o restaurante, o cardápio que ela não lê.
+- **A primeira conta no Banco de Nagoya**: o balcão, os formulários, a funcionária que repete tudo devagar, o carimbo.
+- **O primeiro salto de paraquedas, aos 20**, num dia frio, pago com o próprio dinheiro: "eu queria muito e estava com muito medo". (Se foi no Brasil, vira memória.)
+- Dividem contas, planos. O intercâmbio não acontece.
+- **Final:** a queda livre, o grito que não sai, e o chão que chega.
 
-**15 — Neve** · ~1.300 · V1 cap. 29
-- 1 ano e 10 meses depois, Londres e Paris antes da volta; voo cancelado por neve; 23 anos. "Será que isso tudo está mesmo acontecendo?"
-- Final: o frio na barriga da chegada ao Brasil, em imagem.
+**15 — Neve** · dez. 2010 · ~1.200 · V1 29
+- Ela quer: que a vida de verdade comece. A vida quer que ela espere.
+- Londres, Paris; o voo cancelado por neve; 22 anos; "será que isso está mesmo acontecendo?".
+- **Final:** no avião para o Brasil, ela olhando a asa coberta de gelo, a mão dele no braço da poltrona.
 
-## Parte IV — A régua dos outros (2011–~2018)
+## Parte IV — A régua dos outros (2011–2020)
+Arco: casada, mãe, forte. As vozes de fora viram voz de dentro. A primeira virada chega pelo olhar da mãe.
 
-**16 — Tudo do meu jeito** · ~1.400 · V1 caps. 30–31
-- Casamento na igreja, festa (**2013**, IG 54); ela controla cada detalhe. O apartamento comprado antes do Japão. Logo depois, a gravidez (a Mity). Rápido demais.
-- **(IG)** O controle em miniatura: ela pede sempre o mesmo prato no restaurante.
-- **(IG)** A primeira filha "ensina a ser mãe": habilitada para dirigir, sem saber fazer a baliza (imagem dela; usar uma vez, como pensamento).
-- Final em imagem (o teste, o apartamento, a cozinha).
+**16 — Tudo do meu jeito** · 2011–2014 · ~1.400 · V1 30–31; IG 53, 54, 61, 7
+- Ela quer: controle. Todo mundo quer dar opinião no casamento.
+- Noivado longo; casamento em 2013, na igreja, tudo do jeito dela; o mesmo prato em todo restaurante; o apartamento; a gravidez da Mity, rápido demais; "habilitada para dirigir, sem saber fazer a baliza".
+- **Final:** ela no carro com a bebê, o cinto conferido três vezes, sem ligar o motor.
 
-**17 — Todo mundo sabia** · ~1.500 · V1 caps. 21, 32–34
-- Opiniões sobre como criar, cuidar, ser mãe. Comparações: "Fulana fala japonês fluente", "Olha onde ele chegou". E a que fica: "Você tem sorte de ter seu esposo."
-- Segunda gravidez (a Ayumi, ~2015). As brigas; os hormônios como desculpa.
-- **(IG)** Contraponto sem absolver ninguém: numa das gestações, grávida de pernas inchadas, horas de carro, e o Kousuke monta uma cama no banco de trás para ela ir de pernas esticadas. Ela não lembra do presente; lembra da cama.
-- **(IG)** As "mentirinhas que foram contando ao seu respeito" viram identidade: mostrar pela repetição (ela mesma repetindo a frase dos outros sobre si), nunca explicar.
-- Final em fala.
+**17 — Todo mundo sabia** · 2014–2016 · ~1.400 · V1 21, 32–34; IG 44, 13
+- Ela quer: ser boa o bastante. Todos sabem como ela deveria criar.
+- Opiniões, comparações ("Fulana fala japonês fluente"), e a que fica: "Você tem sorte de ter seu esposo". A Ayumi; as brigas; os hormônios como desculpa. A "super cama" no carro, que ele monta.
+- **Final:** ela repetindo, sozinha, para o espelho ou para a bebê, a frase "você tem sorte", como quem decora.
 
-**18 — Longe das vozes** · ~1.500 · V1 caps. 35–37
-- A decisão de voltar ao Japão para fugir das vozes (e, sem saber, confirmar o que elas diziam). Fábrica, duas filhas, dinheiro que não sobra, tempo que não existe.
-- A mãe sozinha no Brasil; a Luciana a traz para morar com eles. (Visto e seguro de saúde da mãe: genérico até confirmar.)
-- Final em imagem.
+**18 — Longe das vozes** · ~2017 · ~1.300 · V1 35–37
+- Ela quer: sumir das vozes. Ele quer que ela tenha certeza.
+- A volta ao Japão com duas filhas; a fábrica; o dinheiro que não sobra; as meninas que ela quase não vê. A mãe sozinha no Brasil; ela a traz.
+- **Final:** a mãe no aeroporto de Chūbu com uma mala enorme, e a Luciana correndo para pegar a mala dela.
 
-**19 — Foi tudo ótimo** · ~1.400 · V1 caps. 38–40
-- Quase um ano depois: câncer, avançado, cirurgia. No dia da cirurgia, o médico diz que é terminal.
-- A mãe acorda e pergunta como foi. "Foi tudo ótimo."
-- Final na mentira (fala) ou no gesto seguinte.
+**19 — Foi tudo ótimo** · ~2019 (?) · ~1.300 · V1 38–40
+- Ela quer: que a mãe não saiba. O médico quer dizer a verdade.
+- O câncer, a cirurgia, e o médico, no corredor, com o intérprete: terminal. A mãe acorda: "Como foi?"; "Foi tudo ótimo."
+- **Final:** a mentira, e depois ela descascando uma fruta para a mãe com as mãos firmes.
 
-**20 — O olhar dela** · ~1.600 · V1 caps. 41–44
-- Uma semana depois: nova biópsia; o médico diz que errou; estágio inicial; tratamento (imunoterapia: conferir se o termo é o correto para o caso).
-- Todos os dias no hospital. O modo como a mãe passa a olhar para ela: admiração, orgulho. Ela se vê pelos olhos da mãe. Mostrar num gesto, não em explicação.
-- Remissão. A mãe volta para o Brasil (**em 2020**: "começou com minha família inteira comigo e terminou sem eles aqui", IG 57); no aeroporto ou depois, a primeira crise de ansiedade; as filhas sentem a falta da avó.
-- Final em imagem.
+**20 — O olhar dela** · 2019–2020 · ~1.500 · V1 41–44; IG 57, 76
+- Ela quer: salvar a mãe. A mãe quer voltar para casa.
+- Uma semana depois, nova biópsia: o médico se enganou; estágio inicial; tratamento. Todos os dias no hospital. O jeito como a mãe começa a olhar para ela. **A primeira virada**, num gesto (a mãe ajeita o cabelo dela, como na franja).
+- Remissão; 2020 começa com a família inteira e termina sem eles; a mãe volta ao Brasil; no estacionamento do aeroporto, a primeira crise de ansiedade.
+- **Final:** o carro parado, o motor ligado, as filhas quietas no banco de trás, e ela respirando contando até dez, como o médico ensinou.
 
-## Parte V — Mais de um milhão (~2019–2022)
+## Parte V — Mais de um milhão (2020–2022)
+Arco: sair da fábrica, tentar tudo e cair. O deserto.
 
-**21 — Oito mil reais** · ~1.600 · V1 caps. 46–50
-- Cinco anos de fábrica, **(IG)** "um ano vivido várias vezes": o mesmo dia repetido (mostrar com um objeto ou um horário que não muda). O Kousuke estuda importação de calçados (couro do Brasil: caro e cheio de barreira). Ela compra um curso de marketing digital de R$ 8 mil. Ninguém no Japão acredita.
-- Ela transforma a vontade dela na responsabilidade dele: um curso de investimentos do Kousuke (**@e.kounomia**?). Ele entra por ela, sem querer muito.
-- **(IG)** 2020–2021, em cenas:
-  - a carta ao "Momo" ("eu não faço a mínima ideia do futuro… prometo que não vou desistir");
-  - a neve de Hokkaido (ela com medo, deixa ele dirigir, depois pega o volante);
-  - "somos opostos: eu sou prática, você é complexo", e a parceria que vira também profissional;
-  - "zerei a vida": largar a optometria;
-  - **24 de junho de 2021, a Receita de Kariya**: ela entrega o kaigyō todoke da **Lumi Digital**, a primeira empresa dela no Japão, e o carimbo de recebimento na folha.
-- Precisão: kaigyō todoke (個人事業の開業届) e aoiro shinkoku (青色申告承認申請書) na Receita (zeimusho) de Kariya, que atende Hekinan. O autor confere a descrição.
-- 40 dias de gravação; saem da fábrica sem plano B; o lançamento não é um desastre, mas não sustenta.
-- Final em fala ou gesto.
+**21 — Oito mil reais** · 2020–2021 · ~1.500 · V1 46–50; IG 58, 62, 63, 68, 70, 74, 77
+- Ela quer: sair da vida repetida. O Kousuke quer não arriscar a família (e ao mesmo tempo sonha alto).
+- Cinco anos do mesmo dia. O curso de marketing de R$ 8 mil que ninguém entende. A carta ao "Momo": "eu não faço a mínima ideia do futuro". O primeiro bungee (nov. 2020), só ela e o medo. Hokkaido: ela pega o volante na neve. O curso de investimentos dele, que ela empurrou; os 40 dias de gravação; saem da fábrica.
+- **24 de junho de 2021, a Receita de Kariya**: ela entrega o kaigyō todoke da **Lumi Digital**.
+- **Final:** o carimbo de recebimento na folha, e ela fotografando a folha para mandar para a mãe.
 
-**22 — Okinawa** · ~1.500 · V1 caps. 51–53
-- **(IG)** Jun.–set. de 2021 (?): o voo em família com a mala rosa; o stand-up sobre as pedras, "e se eu cair? Tenho duas filhas"; o aniversário de 33 anos em Minna Island (8/9). O food truck; mais de um milhão em empréstimos (ienes: confirmar valor e tipo de empréstimo); "Agora vai." Uma semana antes do feriado, a nova onda; tudo fecha.
-- A praia de graça; as filhas; o tempo parado.
-- Final em imagem, sem "às vezes é pausa".
+**22 — Okinawa** · 2021 · ~1.400 · V1 51–53; IG 69, 72, 75
+- Ela quer: que agora vá. A pandemia não quer.
+- O food truck, o empréstimo; "Agora vai"; o novo pico, uma semana antes do feriado; tudo fecha. O stand-up ("e se eu cair? tenho duas filhas"). O aniversário de 33 anos na água transparente, com a dívida no bolso.
+- **Final:** as filhas enterrando os pés da mãe na areia de graça.
 
-**23 — Arubaito** · ~1.600 · V1 caps. 54–58
-- O mercado imobiliário como recomeço; mais de seis meses fora da fábrica, sem seguro-desemprego; arubaito, os bicos.
-- COVID grave dos dois; medo de não voltar; pessoas em volta morrendo. A mãe vem do Brasil cuidar da casa e das meninas: a comida, pela primeira vez, vem na direção dela.
-- A viagem ao Brasil de um mês que vira três (**dez. 2021–mar. 2022**, IG 35–43), com cenas possíveis:
-  - o Mirante do Leblon ("quando eu quero eu quero");
-  - **a asa-delta na Pedra da Gávea no 1º de janeiro de 2022**, "um misto de paz, com medo";
-  - a família no calçadão;
-  - a Bahia e a COVID de novo;
-  - na volta, **presos na Alemanha** por falta do teste exigido;
-  - "vou, querendo ficar".
-- Precisão: a regra de teste exigida no trânsito ou na entrada no Japão no início de 2022, e onde exatamente ficaram retidos (conferir).
-- Final em imagem.
+**23 — Arubaito** · set. 2021–mar. 2022 · ~1.600 · V1 54–58; IG 35–43
+- Ela quer: não parar. O corpo para.
+- Imobiliário que não vende; arubaito, os bicos. COVID grave; o oxímetro; a mãe que vem cuidar (a comida, pela primeira vez, na direção dela).
+- O Brasil de um mês que vira três: o Leblon ("quando eu quero eu quero"); **1º de janeiro de 2022, a asa-delta na Pedra da Gávea** ("um misto de paz, com medo"); a Bahia, COVID de novo; na volta, **retidos na Alemanha** sem o teste.
+- **Final:** num aeroporto alemão, as filhas dormindo em cima das malas, e ela rindo sozinha pela primeira vez em meses.
 
-**24 — Captação** · ~1.400 · V1 caps. 59–60
-- Terceira gravidez (**(IG)** a Tiemi, anunciada em ~out. 2022): o "pânico" com a terceira filha, "por ouvir demais o que as pessoas falam"; ela olha a foto do primeiro bungee (50 m) e acha os medos parecidos. O Kousuke corretor, sozinho; ela ajuda entre uma coisa e outra. A captação ativa: ir atrás, se expor. De uma venda a cada dois ou três meses a todo mês, depois duas ou três por mês.
-- **(IG)** A porta que só abre para quem chega perto: uma porta automática de verdade (imobiliária, banco, konbini), sem a frase.
-- Precisão: termos de corretagem e financiamento para estrangeiros (o autor confere). Easy House: nome real ou fictício (?).
-- Final em gesto.
+**24 — Captação** · 2022–2023 · ~1.300 · V1 59–60; IG 45–47, 20, 12
+- Ela quer: que a porta abra. As portas querem que ela chegue perto.
+- A captação ativa; a porta automática que só abre para quem chega perto; a primeira venda, depois todo mês, depois duas ou três. A gravidez da Tiemi e o "pânico" de ouvir os outros; a foto do bungee olhada de novo.
+- **Final:** a Tiemi recém-nascida no colo e o celular vibrando com o aviso de mais uma aprovação de financiamento, e ela deixando vibrar.
 
 ## Parte VI — A menina elefante (2023–2026)
+Arco: o sucesso quase desfaz a casa; a terapia não resolve tudo; ela para de carregar e existe.
 
-Atenção à cronologia real (IG): a terapia (2024) **não** é o fim da crise. Em 2025 o casamento volta a se perder e só se acerta no Natal. O clímax passa para o cap. 28.
+**25 — O auge** · 2023–2024 · ~1.400 · V1 61–62; IG 15, 49, 54, 56
+- Ela quer: dar conta de tudo. As filhas querem a mãe.
+- "Deixamos de ser marido e mulher para sermos sócios": um jantar de aniversário de 10 anos em que os dois só falam de clientes. A "caixinha" de mãe. O sky coaster (a Mity vai; a Ayumi vai "segura com a mãe e a irmã"). **O bungee de 200 m em Gifu, o grito do começo ao fim, "sugoi, ela ainda está gritando"**. Em casa, a porta do quarto da Mity fechada.
+- **Final:** ela sozinha na cozinha, às duas da manhã, respondendo a um cliente com o polegar, e a Ayumi na porta, de pijama, esperando que ela levante os olhos.
 
-**25 — O auge** · ~1.300 · V1 caps. 61–62 · IG 15, 7
-- O dinheiro que cega; as filhas rebeldes pedindo atenção; o casamento que quase não existe.
-- **(IG)** "Deixamos de ser marido e mulher para sermos apenas sócios." A cena é um jantar ou uma viagem de carro em que os dois só falam de trabalho, de metas e de clientes, e nenhum dos dois repara. A narradora não comenta.
-- **(IG)** A "caixinha": a mesma fórmula de mãe aplicada às três filhas, e cada uma respondendo de um jeito.
-- **(IG)** 2023, em cenas: 10 anos de casados (o post bonito × a casa real); o sky coaster (a Mity vai sem titubear; a Ayumi hesita e vai "segura com a mãe e a irmã"); **o bungee de 200 m em Gifu**, em que ela grita do começo ao fim e o instrutor japonês diz ao Kousuke "sugoi, ela ainda está gritando". É o humor da Parte VI e a mulher que grita onde a menina falava baixinho.
-- O momento em que não dá mais. Sem frase de efeito.
-- Final em imagem ou fala.
+**26 — A história do elefante** · 2024 · ~1.400 · V1 1, 63–65; IG 1, 13, 16, 28, 37, 52
+- Ela quer: resolver rápido. A terapeuta quer que ela sinta.
+- O ano do dragão, o dela. A segunda sessão: a foto do pré na tela. A terapeuta pergunta sobre as mãos. **A única vez em que a menina elefante é nomeada e explicada.** A parábola do elefante acorrentado desde filhote, que ela completa com o que escreveu em 2022: "a gente se sente preso, mesmo solto". A pergunta: se tirasse todos os papéis, o que sobrava? Ela: "Eu posso ser forte e existir também?"
+- **Final:** fala da terapeuta, ou o silêncio da Luciana com a mão aberta sobre a mesa.
 
-**26 — A história do elefante** · ~1.400 · V1 caps. 1, 63–65 · IG 1, 8, 9, 13, 16
-- **(IG)** "Ser forte sempre foi minha maior qualidade… mas houve um momento em que essa força começou a me derrubar": ela pode dizer à terapeuta, uma vez, "eu posso ser forte e existir também?", como pergunta, não como conclusão.
-- Os dois vão atrás de ajuda: cursos, imersões, conversas difíceis. 2024, **(IG)** o ano do dragão, o dela: a terapia (volta à moldura do prólogo). A foto do pré na tela.
-- **(IG)** A terapeuta faz uma pergunta, uma vez: se ela tirasse tudo o que faz, os papéis (mãe, esposa, sócia, filha), o que sobrava? Ela não responde na hora.
-- **Único lugar do livro** onde a imagem da menina elefante é nomeada e explicada. Proposta: a parábola do elefante acorrentado desde filhote, que cresce acreditando que a estaca o segura; a Luciana a completa com o que ela chama de "mentirinhas" que acreditou sobre si (IG 13) e com o que escreveu depois da asa-delta, em 2022: "a gente se sente preso, mesmo solto" (IG 37). Origem real da imagem: **a confirmar com a Luciana**.
-- Final em fala.
+**27 — O salto** · 30 jan. 2025 · ~1.200 · IG 1
+- O fim do ano do dragão. O contêiner, o equipamento, o Kousuke e a Tiemi no banco. A subida, o frio na barriga, a lembrança dos 20 anos. Da janela, o Fuji e Tóquio pequenos. Ela salta com medo.
+- **Final:** o paraquedas abrindo, o silêncio de cima, e lá embaixo um ponto rosa, a Tiemi, correndo.
 
-**27 — O salto** · ~1.200 · IG 1
-- 30 de janeiro de 2025, perto de Tóquio. O contêiner com as fotos de saltos; o equipamento afivelado; o Kousuke e a caçula no banco.
-- No avião subindo, o frio na barriga, e a lembrança do primeiro salto, aos ~20, num dia frio (cap. 14).
-- Da janela: o Fuji, Tóquio, tudo pequeno lá embaixo. Ela não tira a lição; o leitor vê.
-- Ela salta com medo ("seguindo mesmo com o medo presente"). Final em imagem (a queda, ou o pouso e a caçula correndo).
+**28 — Recomeço** · 2025 · ~1.500 · IG 29–34, 21
+- Ela quer: ter razão. A família quer ela de volta.
+- "Dez anos em um": oito países, cursos, "o início de uma empresa"; em casa, o cubo mágico (a Mity três semanas; alguém acordado até as 3h; a Tiemi no "super easy"); o casal se desfazendo em silêncio. A viagem ao Brasil para um curso; a Lê fica com as meninas. Na cozinha da mãe, a mãe e o Marcos dizem o que ela não quer ouvir: que ela também erra, é orgulhosa.
+- Natal de 2025, na volta: o recomeço com o Kousuke. Ela tira a capa: "Eu errei." Sem desculpa.
+- **Final:** um gesto no Natal, as mãos (eco do "segurar a mão e nunca soltar").
 
-**28 — Recomeço** · ~1.400 · IG 29–34
-- 2025, "dez anos em um": viagens, cursos, "o início de uma empresa", metas. É o clímax verdadeiro: **a terapia não resolveu tudo**. O casal volta a se perder. "Conflitos, provações, rotas recalculadas."
-- Uma cena em casa antes da viagem, que mostra o que está bom (o cubo mágico: a Mity tentando três semanas; alguém acordado até as 3h para mostrar que dá; a Tiemi no nível "super easy") junto com o que está ruim (ela e o Kousuke que já não se falam direito).
-- A viagem ao Brasil, por causa de um curso; a Lê fica com as meninas. A mãe e o Marcos, na cozinha, dizem a ela o que ela não quer ouvir: que ela também erra, também é orgulhosa (IG 33). Pela primeira vez, a família corrige a Luciana, e não o contrário. Ninguém é vilão; "pessoas feridas ferem" vale para ela também.
-- Natal de 2025, na volta: ela se acerta com o Kousuke. A cena é o momento em que ela tira a "capa protetora" e diz "eu errei" sem desculpa (IG 34). Nada de discurso; uma fala curta dele ou dela, e um gesto. **O que foi dito de verdade: perguntar ao Kousuke e à Luciana.**
-- Final em gesto.
+**29 — As águas** · 2026 · ~1.400 · IG 9, 10, 11, 12, 13, 24–26, 32
+- O batismo nas águas, no Brasil (data, lugar e presentes a confirmar). Josué 1:9, dito por quem batiza. A roupa que ela escolhe.
+- Paris de novo, a Torre Eiffel, dezesseis anos depois da neve. A volta do Kousuke da montanha do Legendários: as filhas com o cartaz "KOU — Bem-vindo!"; ela escolhendo ficar. A casa entregue no Banco de Nagoya, no mesmo balcão da primeira conta.
+- **Final:** ela saindo da água, ou atrás das filhas levantando o cartaz, sem precisar ser vista.
 
-**29 — As águas** · ~1.300 · IG 9, 10, 24–26, 32
-- O batismo nas águas, no Brasil (**data, cidade, igreja e presentes a confirmar**; foi na mesma viagem do cap. 28?). Seguir Jesus como decisão, com bênçãos e renúncias (quais? **a confirmar**).
-- Um versículo, uma vez, dito por quem batiza. Troca da sugestão: **Josué 1:9, "Seja forte e corajoso"**, o versículo dela (IG 32), porque o livro inteiro é sobre uma mulher forte demais. Não citar a leitura que ela faz dele ("não é pra você carregar o mundo…"); deixar o leitor ligar ao elefante.
-- 2026, conforme as datas: Paris outra vez, dezesseis anos depois da neve (cap. 15), diante da Torre Eiffel; o Mulheres Experience; a volta do Kousuke do Legendários, com as filhas e o cartaz "KOU — Bem-vindo!", e ela escolhendo ficar ("amar também é uma escolha"), a inversão do cap. 12.
-- Final em imagem.
-
-## Epílogo — ~500 · IG 2, 4, 7, 14, 30
-- 2026. Uma cena pequena em casa, sem lição, sem definição, sem "hoje eu sei".
-- Três filhas, três gestos diferentes (uma precisa de palavra, outra de silêncio, a caçula de colo); a filha que toca teclado no quarto ao lado (a avó que "tocava qualquer instrumento"); o mural com os checks na parede.
-- A franja da caçula cortada na cozinha, com a tesoura errada, curta demais. A Luciana repete, sem perceber, a frase da mãe dela no cap. 1: "Encolhe quando seca." Termina aí, ou num gesto logo depois.
+## Epílogo · set. 2026 · ~500 · IG 2, 4, 6, 7, 14
+Uma noite comum. A Ayumi no teclado no quarto (a avó que tocava tudo). A Mity lendo. A Tiemi com a franja nos olhos. Na parede, o mural com os checks. A tesoura errada, a tigela; a franja curta demais. "Encolhe quando seca." Fim.
