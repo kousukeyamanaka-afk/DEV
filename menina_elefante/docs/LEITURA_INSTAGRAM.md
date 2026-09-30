@@ -119,3 +119,44 @@ Fonte: `referencia/instagram_luciana.md`, com 34 itens (14 postagens com foto e 
 14. "O início de uma empresa" em 2025: de quem, e qual?
 15. A ida a Paris em 2026 foi com o Kousuke? Foi a mesma viagem do Mulheres Experience?
 16. O que exatamente foi dito no Natal de 2025? (É a cena mais importante do fim; se ela não quiser contar, o livro deixa a fala de fora e fica só no gesto.)
+
+## 7. Quarto envio (2021–2023): o que muda
+
+### A cronologia se reorganiza
+Os posts datados corrigem a linha do tempo deduzida da V1 (a Bíblia já foi atualizada):
+- **Casamento em 2013** (10 anos em 2023), não logo depois da volta, em 2010. Noivado longo.
+- **Mity ~2014, Ayumi 2016** (grávida no Dia dos Namorados de 2016), **Tiemi ~2023** (gravidez anunciada em ~out. 2022).
+- A volta ao Japão fica em ~2017, a doença da mãe em ~2018 e os cinco anos de fábrica em ~2017–2021.
+- **Okinawa em 2021** (?), COVID grave em ~ago./set. 2021 e **Brasil de dez. 2021 a mar. 2022**, com a segunda COVID na Bahia em fevereiro de 2022 ("em menos de 6 meses").
+
+### Fatos e cenas novas
+| Fato | Fonte (nº) | Onde entra |
+|---|---|---|
+| **Terceira filha: Ayumi.** Hesita no sky coaster, mas vai "segura com a mãe e a irmã"; "se põe à frente das irmãs para defendê-las"; quer ser dançarina. A Mity "bate muito com o meu perfil". | 49 | Resolve os nomes: Mity, Ayumi, Tiemi. |
+| **Asa-delta no 1º de janeiro de 2022**, na Pedra da Gávea: "um misto de paz, com medo". E no dia seguinte: "a gente se sente preso, mesmo solto". | 37, 38 | Cap. 23. A frase é o apoio mais forte até agora para a imagem do elefante acorrentado (cap. 26). |
+| **Mirante do Leblon, dez. 2021**: "temperamento colérico… pavio curto… quando eu quero eu quero, e agora… extremamente ansiosa". | 35 | O lado que a V1 quase esconde: ela não é só a que cede, é também a que explode. Útil nos caps. 12, 17 e 25, e para evitar uma narradora santa. |
+| **Presos na Alemanha** na volta, por falta do teste de COVID. | 42 | Cap. 23: fecha a viagem com perrengue e humor. |
+| **O bungee**: 50 m antes de 2022 ("achei que ia morrer"); **200 m em Gifu, em 29/9/2023**: ela grita o salto inteiro, e o instrutor japonês diz ao Kousuke "sugoi, ela ainda está gritando". | 46, 56 | Cap. 25 (humor) e eco invertido do cap. 3 (a menina que falava baixinho). |
+| **O mesmo prato no restaurante** e "fechar as cortinas do mundo": o controle em miniatura. | 53 | Cap. 16 ou 25; um objeto concreto para "controladora". |
+| **Dia dos Namorados de 2016**: grávida, de pernas inchadas, e a "super cama" no carro que o Kousuke montou. | 44 | Cap. 17: um gesto dele, sem transformá-lo em salvador. |
+| **"Pânico" com a terceira gravidez**, "por ouvir demais o que as pessoas falam… acreditar que o sonho delas tinha que ser o meu". | 45 | Cap. 24: as vozes do cap. 17 ainda operando em 2022. |
+| O shopping com a filha no lugar da mãe distante. | 45 | Cap. 24, uma linha. |
+| "Ser mãe me fez enxergar minha mãe" (2023); "talvez hoje eu entenda a minha mãe" (2025). | 48, 30 | Epílogo: a frase da franja ("Encolhe quando seca") faz isso sem dizer. |
+| **Os pais como exemplo de coragem**: "tanto minha mãe quanto o meu pai… cada um do seu jeitinho". O pai "liga dizendo que está bem" (2022). | 49, 44 | Importante para o respeito ao pai: ele não é só o homem da traição e da depressão. Vale uma cena de presente com ele na Parte V ou VI (?). |
+| Evento **Florecer (2023)**, 3 dias de imersão, "o Kousuke tornou possível"; ele então usava @kousuke_real_estate_japan. | 51 | Cap. 25–26 (os cursos). |
+| Araci Yamanaka: "Vc é sugoi em tudo". | 56 | Família do Kousuke (sogra?). |
+
+### Eixos novos
+24. **Desafio como forma de encarar o medo.** "Medo pra mim é algo um pouco constante… talvez esse foi o modo que eu encontrei de encarar meus medos: me desafiar, bater de frente" (51). "Primeiras vezes são sempre mais difíceis" (56). É a outra face da menina que segurava o vestido: ela não deixou de ter medo, passou a pular com ele. Os saltos (paraquedas aos 20, bungee, asa-delta, paraquedas em 2025) formam uma série no livro, **sem nenhuma frase que a explique**.
+25. **Conforto e desconforto.** "Sair da zona de conforto diz muito sobre procurar conforto" (38). A viagem ao Brasil é fuga e busca ao mesmo tempo.
+26. **Controle.** O mesmo prato, as cortinas fechadas, o casamento "do meu jeito" (V1), a ansiedade de "querer o amanhã, hoje". O controle é o jeito adulto da menina que não soltava o vestido.
+27. **Não ser especial.** "Lembre-se: você não é especial… o mundo não me deve nada" (52). Pode parecer o oposto do tema, mas é o mesmo mecanismo de proteção do cap. 9 da V1 ("se eu já me colocar nesse lugar, não dói tanto"). Bom para o cap. 26: a terapeuta pode desmontar isso com uma pergunta.
+28. **O longo prazo.** "Casamento é segurar a mão e nunca soltar… nunca vai ser como no comercial de margarina" (54). Em 2023 ela escreve isso, e em 2024 e 2025 o casamento quase acaba. O livro põe o post bonito ao lado da casa real, sem comentar.
+
+### Perguntas novas
+17. A ordem é mesmo Mity (~2014), Ayumi (2016), Tiemi (~2023)? Em que meses nasceram?
+18. O casamento foi mesmo em 2013? Quanto tempo depois da volta de 2010?
+19. O primeiro bungee (50 m) foi onde e quando? O sky coaster de 2023 foi onde?
+20. Quem é Araci Yamanaka?
+21. A COVID grave foi em 2021? O food truck foi em 2021 (em que feriado)?
+22. Na volta de 2022, em que cidade da Alemanha ficaram retidos, e por quantos dias?

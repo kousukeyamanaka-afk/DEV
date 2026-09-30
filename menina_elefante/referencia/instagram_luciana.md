@@ -1098,3 +1098,381 @@ Comentário do **@alan_kousuke_easyhouse**:
 > Pois é, Deus não brinca em serviço!
 > Ele escolhe a dedo a data, a hora e o segundo para as coisas acontecerem, eu sinto que foi Deus, que me abriu os olhos, me fez olhar pra dentro..
 > Então sim! Esse é o recomeço da vida extraordinária que a gente merece! E Deus já preparou! Vai acontecer! Te amo para sempre!
+
+---
+
+# Quarto envio (30/09/2026) — 2021 a 2023
+
+## 35. "Conflito" — Mirante do Leblon, Rio de Janeiro, 14 de dezembro de 2021
+**Foto:** a Luciana no mirante de madeira do Leblon, com o mar e as pedras atrás, o morro Dois Irmãos; óculos escuros, blusa azul-clara, calça branca, unhas vermelhas.
+
+> Conflito:
+> Ausência de concordância, de entendimento; oposição de interesses, de opiniões; divergência.
+>
+> Vivo em um conflito infinito..
+>
+> Meu temperamento colérico ainda que me faça ter o pavio curto pra muitas situações, me faz também ser decidida, talvez esse realmente seja uma qualidade que eu mesma identifico em mim mesmo.
+>
+> Quando eu quero eu quero!
+>
+> Junto com a questão de ser uma pessoa extremamente ansiosa, quando eu quero eu quero, e agora. As vezes falta a gente olhar pro defeito e conseguir o enxergar qualidade...
+>
+> O que pra muitos seria temperamentos de alguém mimado, hoje consigo ver que é bem isso que me move, que me faz ir atrás, essa vontade de realizar, esse defeito de não conseguir esperar, ser ansiosa a ponto de querer o amanhã, hoje...
+>
+> Todo caminho mesmo que errado te move, te faz entrar em movimento.
+>
+> #viver #movimento #errejota #mirantedoleblon #riodejaneiro
+
+## 36. "Pra 2022…" — início de 2022
+> Pra 2022…
+>
+> Eu não sei você, mas eu; risquei da minha lista de promessas aqueles desejos clichês de prosperidade, de ser feliz, eu quero mesmo é o desconforto, a novidade, o medo, aquele friozinho na barriga…
+>
+> Quero que 2022 seja ainda mais doido que 2021, quero partir pro desconhecido, iniciar outras primeiras vezes, chorar, me emocionar, porque felicidade mesmo é esse misto de quente/frio.
+>
+> Por isso eu desejo a você também, um ano repleto de primeiras vezes, de choro, de decepções, de realizações….
+> Um 2022 de muito risco, porque enfim quem não arrisca não petisca…
+> Muitas perdas, porque não à ganho sem perda…
+> Enfim, a vida é mesmo feita de antagonismos..
+> Logo eu desejo que vc se jogue, viva!!
+>
+> "Se jogue nas alturas, sinta a brisa, arrisque-se. Se o paraquedas não abrir.. VOE!"
+
+## 37. "Liberdade" — asa-delta, Pedra da Gávea, Rio, 2 de janeiro de 2022
+**Vídeo:** a Luciana e o instrutor correndo na rampa verde e saltando de asa-delta sobre a mata. Nos comentários: "Deve ser incrível Luci", "Também quero Lu".
+
+> Liberdade
+>
+> Engraçado como ser livre é relativo.
+>
+> A gente espera o tão sonhado 18 anos pra então ter essa sensação de liberdade, de ser dona do próprio nariz, de sair sem pedir permissão, mas aí a gente se da conta que não é a idade que nos torna livres, é a sensação de ser autossuficiente. A sensação de não dever nada a ninguém, e ainda assim depender de todo mundo...
+>
+> Na maioria das vezes, a gente se sente preso, mesmo solto, a gente se sente dependente mesmo já sendo independente!
+>
+> A vida é um eterno looping de sensações, de momentos.
+>
+> A conclusão é de que vai ser sempre só você. Se sentir livre diz respeito só a você.
+>
+> Liberdade pra mim é estar presente, se sentir livre fazendo o que você escolheu, da forma como você escolheu, sem julgamento, sem opiniões terceiras. Porque no fim, quem tá na sua pele, é sempre só você!
+>
+> LIVRE PRA VOAR... 🛫
+>
+> #liberdade #errejota #riodejaneiro #pedradagavea #livrepravoar
+
+## 38. "Play em 2022" — Rio de Janeiro, 9 de janeiro de 2022
+**Foto:** grupo de família e amigos no calçadão de pedras portuguesas, com a Pedra da Gávea atrás; duas das filhas na frente (uma de vestido tie-dye, outra de vestido azul florido); a Luciana de vestido estampado de tucanos.
+
+> Play em 2022
+>
+> Como prometido a mim, comecei o ano de uma forma totalmente diferente, fora do contexto, saindo da zona de conforto.
+>
+> Uma porque estou a 17.360 km de distância da minha casa, ou seja; do centro da minha zona de conforto.
+>
+> Primeiro dia do ano me propus a fazer algo novo, pular de asa delta, e quer sensação mais desconfortante e confortante ao mesmo tempo? Um misto de paz, com medo.
+>
+> Engraçado como mesmo tentando friamente fugir do conforto, no fim o que a gente quer mesmo é ir atrás do conforto.
+>
+> Pegar um voo a 17360 km de distância, a princípio deixando totalmente o conforto da minha casa, diz mais sobre buscar conforto do que fugir dele, buscar conforto perto dos meus familiares, amigos, buscar conforto em comidas típicas, em abraços.
+>
+> Ou seja; sair da zona de conforto diz muito sobre procurar conforto!
+>
+> A gente sai da nossa zona de conforto, não pra ficarmos desconfortáveis, afinal; quem quer viver desconfortável? a gente sai mesmo em busca de conforto.
+
+## 39. Praia do Forte, Bahia — 8 de fevereiro de 2022 (#projetotamar)
+**Foto:** na areia, de maiô preto e canga colorida, com a igrejinha branca e azul e o farol ao fundo.
+
+> Sobre o lembrete de que quem não arrisca não petisca...
+>
+> Ta aí; eu vivendo perigosamente 2022, em menos de 6 meses positiva pra COVID novamente.. uma alergia que nem sei como aconteceu...
+>
+> Aquele negócio de que quanto mais você apanha mais forte você fica, não é mentira não, engraçado como a primeira vez pra tudo os sintomas são dobrados, depois você cria uma certa imunidade, os sintomas ficam mais brandos... pra vida, pra tudo...simples assim...
+>
+> Parar e recalcular, parar e desacelerar, as vezes tudo que precisamos é realmente isso; parar e respirar...
+>
+> BE STRONG! 👊💪
+>
+> #praiadoforte #bahia #projetotamar #bestrong #2022
+
+## 40. Impotência — 2022 (viagem ao Brasil, época da COVID)
+> Sabe aquela sensação de impotência? De não conseguir resolver, de não estar sob seu controle?
+>
+> Não sei você, mas eu me pego sentindo o tempo todo, sou do tipo de pessoa que quer tudo pra ontem, e acaba fazendo tudo que era pra hoje, ontem mesmo…
+>
+> Mas sabe quando não diz respeito a você? Quando "voce" não pode fazer nada? Pra quem sofre de ansiedade é um verdadeiro pesadelo..
+>
+> A verdade é que a vida funciona nesse ritmo. Por diversas vezes vão ter situações que não podemos resolver, porque não está sob nossas mãos, ficar doente, se recuperar logo… mas está em nossas mãos a forma como lidamos com a espera, a forma como lidamos com todo resto que rodeia a espera…
+>
+> Nem tudo diz respeito sobre nós, nem tudo tem a resposta que gostaríamos de escolher, mas é importante enxergar com outros olhos, porque a vida não consiste em um caminho único, de mão única, sem bifurcações.
+> A vida consiste em múltiplas escolhas, em buracos no caminho, estradas mal acabadas, mas o que importa mesmo no fim de tudo, é quem esteve nesse caminho todo com você… o que importa mesmo é o que importa!
+>
+> Não importa o caminho, não importa o que você deixou no caminho, não importa o que você conquistou no caminho, o que importa mesmo é quem esteve de mãos dadas até o fim do caminho!
+
+## 41. Copo meio cheio — 2022 (viagem ao Brasil, época da COVID)
+> Costumo ser aquele tipo de pessoa que sempre vê o copo meio cheio.
+>
+> Aquele tipo de pessoa que tem aversão a pessoas que enxergam o copo meio vazio.
+>
+> É, aquele tipo de pessoa que chega até ser meio chata, que tenta responder tudo pelo lado positivo, que enxerga que tudo tem uma saída, que tudo que está em andamento pode mudar de curso, caso não esteja dando certo.
+>
+> Mas sabe, até esse tipo de pessoa tem momentos de copo meio vazio, de não acreditar, de se sentir incapaz.
+>
+> Eu sinceramente não gosto de ser essa pessoa que tem dias de copo vazio, mas não escolhemos como nós sentimos, acredito sinceramente ser 9 entre 10 dias essa pessoa positiva, copo meio cheio, aquela que diz: problemas? Problemas foram feitos para serem resolvidos, mas nesse 1 que sobra, tudo parece sair do planejados, aí eu tendo de fechar meus olhos, e me recuso a enxerga-lo meio vazio, o que na minha percepção, me faz sofrer o dobro.
+>
+> Enxergar que a vida não é o tempo todo copo cheio, faz com que nossos dias possam ser mais leves, que nada é linear, que o mesmo copo que está meio cheio, pode estar meio vazio também.
+> E aceitar que o dia que ele está meio vazio ele não vai se tornar meio cheio, e não se culpar por isso, é o caminho pra no dia seguinte ele voltar a estar meio cheio novamente!
+
+## 42. Na volta: presos na Alemanha — 2022 (sem o teste de COVID exigido)
+> Por trás de cada foto bonita, por trás de cada sorriso estampado no rosto, por trás de cada momento único, existe um caminho difícil, um desafio, uma prova..
+>
+> Que muitas vezes não é relatado…
+>
+> Porém como diz um velho ditado: faça do limão uma limonada, sim, clichê…
+>
+> Mas e o verdadeiro sentido da vida, criar dentro de um problema uma solução…
+>
+> Esse foi realmente um ano de muita prova, muito desafio, muuuuita rota recalculada, porém taaaaambem foi o ano mais incrível, mais cheio de conquistas, mais cheio de primeiras vezes…
+>
+> Quando embarcamos e achávamos que em algumas muitas horas estaríamos em casa, eeeeis que no meio do caminho um limão, empata no nosso caminho.
+>
+> É fácil dizer que problemas foram feitos pra serem solucionados quando você corre de qualquer problema, quando você tenta viver uma vida estável pra fugir deles, o que ninguém te conta é que realmente estabilidade não existe.
+>
+> Tentar viver uma vida estável é fugir da procura da felicidade.
+>
+> O que ninguém fala e que por trás de cada momento mágico, pode ter certeza que existem momentos não planejados..
+>
+> Enfim fomos obrigados a tomar a limonada…
+
+## 43. "Vou, querendo ficar" — 2022 (voltando para o Japão depois de três meses no Brasil)
+> Sabe aquela sensação de que você tá indo e tá esquecendo alguma coisa?
+>
+> Aquela sensação estranha, de coração apertado, de quando você vai, mas sente que algo tá ficando, essa sensação que eu tenho nesse exato momento!
+>
+> A sensação mas estranha e ao mesmo tempo desconfortável! A sensação de que querer ir, mas querer ficar.
+>
+> Aquele alivio de estar voltando, com aquela angústia de querer ficar!
+>
+> Que começo de ano, que misto de quente e frio, de incrível com perrengue!
+> Se não fosse assim não era eu…
+> A vida vai acontecendo e vai nos mostrando, o quão incrível e o quão difícil ela pode ser ao mesmo tempo!
+> Eu de verdade, vou, querendo ficar.
+> Com coração ao mesmo tempo grato demais pelos tres meses incríveis e ao mesmo tempo apertado demais..
+> Porém eu acredito, que agente só sente mesmo falta, daquilo que a gente ama muito!
+> E só poderia ser incrível porque foi com vocês! Só foi incrível porque eu tenho a melhor família que eu poderia ter!
+> Obrigada! Obrigada! E obrigada!
+> Vou, mas volto! Eu amo vocês!!
+
+## 44. O amor nos detalhes — junho de 2022
+> As vezes me pego andando conforme a música, numa sociedade capitalista que diz que datas especiais foram feitas pra dar "presentes".
+> Não vou mentir que por diversas vezes estou eu lá, no shopping cheio, atrás de um presente pra uma data especial… quando de verdade o que fica são momentos, coisas pequenas mas que mudam o dia, que ficam na memória..
+>
+> Nao sei você… mas se eu te perguntar hoje o que você ganhou de dia dos namorados em 2016? Você vai lembrar? Eu com toda certeza não lembro, mas consigo lembrar desse dia que precisava ir a um compromisso, várias horas de carro, porém não estava em cogitação não ir…. metade da gestação as pernas inchadas e meu marido preparou uma super cama pra eu ir com as pernas esticadas…
+>
+> Ou quando sua mãe sai do outro lado do mundo pra poder cuidar de você…
+>
+> Ou quando seu pai liga dizendo que está bem…
+>
+> Ou quando você passa um tempo com seus irmaos, mesmo que brigando..
+>
+> O amor está nos pequenos detalhes, o amor está em um abraço, em um "conta comigo", em um café quentinho…
+>
+> São esses momentos que com 50, 60, 70 você vai lembrar..
+
+## 45. O shopping com a filha — 2022 (grávida da Tiemi)
+> Hoje eu descobri que ser mãe, me supre não ter a minha aqui pertinho..
+> As coisas simples, que por conta da minha mãe estar do outro lado do mundo, eu sinto falta, é uma ida ao shopping, nem precisa comprar nada, só bater perna, experimentar, ter alguém pra opinar, e ontem eu dei conta que eu substitui ela pela minha filha, engraçado como eles (nossos filhos) mesmo pequenininhos, começam a pegar nossas manias, gostar das mesmas coisas…
+> E logo veem mais uma, pra me completar por completo, engraçado que passamos maior parte do nosso tempo ouvindo vozes externas, quando o mínimo que temos que fazer é nós escutar, olhar pra dentro.
+>
+> Sempre disse que queria ter filhos, que queria uma família grande, com aqueles natais cheios, mas ter a terceira filha, me deixou um pouco em pânico, talvez por ouvir demais o que as pessoas falam, talvez por acreditar que o sonho delas, tinham que ser o meu também…
+> Agora me sinto mais tranquila, acredito estar caminhando o "meu" caminho…
+> E todos os medos que a gente sente, a gente vai vendo que não são reais, só caminhando o "nosso" caminho, conseguimos enxergar eles indo embora..
+>
+> "Don't Be Afraid"
+
+## 46. Anúncio da gravidez da Tiemi — 2022 (~outubro)
+> Sabe aqueles momentos de tirar o fôlego, aquela alegria, aquele quentinho no coração, que só os filhos causam?
+>
+> O que ninguém conta é que nesse processo todo, o primeiro sentimento que nós mães sentimos é o de medo.
+>
+> Fiquei hoje olhando a foto da ponte, do bungee jumping, são medos diferentes mas ao mesmo tempo tão iguais, afinal de contas, medo é medo!
+>
+> A gente acaba se pondo a prova de novo, será que vou ser uma boa mãe? Será que ainda lembro como cuidar de um serzinho tão pequenininho, já que as minhas já estão tão grandes e independentes?
+>
+> Porém, o medo só vem de grandes acontecimentos, de projetos grandes, e uma vida, bom… uma vida é mais que um grande projeto, mais do que um grande acontecimento…
+>
+> Acontece que não há bônus sem ônus, "nunca"!
+>
+> Não há conquista sem medo, não há realizações sem obstáculos, não há um novo bebê sem noites mal dormidas, sem 9 meses de espera, sem apetite para comer ou apetite demais para comer, enjoos matinais…
+>
+> Essa é realmente a grande graça da vida…
+> Tudo que é realmente bom, vem com uma pitada de desafio, de obstáculo, de novos começos, de recomeços.
+>
+> E essa, com toda certeza do mundo, é a minha mais nova conquista….
+>
+> Gratidão por mais um sonho realizado, mas um sonho tirado do papel, mais um sonho, que não é mais sonho, é realidade!
+>
+> Bom, o bom de tudo, que depois de tudo, já tenho certificado de coragem…
+
+## 47. "O que nasceu em você?" — 2022 (grávida da Tiemi; curtido pelo Kousuke e mais 84)
+> Quando você se tornou mãe, o que nasceu em você?
+>
+> Quando me tornei mãe, nasceu uma nova pessoa, uma nova personalidade, um novo jeito de lidar com situações.
+>
+> Quando me tornei mãe, nasceu uma pessoa cansada, angustiada, frustrada. Porém nasceu uma nova mulher, mais feliz, mais disposta a resolver problemas, disposta a planejar o futuro, com vontade de conquistar mais..
+>
+> Ser mãe é ser capaz de enxergar que é o ônus que te leva pro bônus…
+>
+> Cada noite mal dormida, te faz ser mais forte, cada choro sem saber o motivo, frustração por não conseguir resolver o choro, te faz ser resiliente…
+>
+> Enfim, um simples sorriso … te faz não desistir de tentar ser melhor!
+
+## 48. Dia das Mães — 2023
+> Ser mãe pra mim é sem dúvidas minha função favorita..
+> É a forma do mundo de me ensinar a ser melhor…
+> É sentir que a admiração é verdadeira..
+> Que o amor é recíproco, sem nada em troca…
+> Ser mãe me fez "enxergar" minha mãe, me ensinou ser mais empática, mais amiga, me fez amar mais, mas também me fez ser mais cansada, mais estressada… enfim, ossos do oficio.. 😂
+>
+> Feliz dia das mães pra todas as mães!!!
+> Em especial pra minha, que clichê mas é a melhor de todas! ❤️
+
+## 49. O sky coaster com a Mity e a Ayumi — 2023
+> A maior forma de ensinar um filho, são pelas atitudes, pelo exemplo.
+>
+> Então, seja pra eles, o que você quer que eles sejam para o mundo…
+>
+> Não adianta dizer o que eles devem fazer, se você não vive o que fala..
+>
+> Costumo dizer para minhas filhas que elas tem que ser corajosas, destemidas, que tem que enfrentar o mundo, não ligar pra opinião dos outros… claro que esse não é o único modo de demonstrar coragem, força, esse é só o MEU modo de me desafiar… uma das formas deu descarregar adrenalina… Não que a sua forma de demonstrar coragem deva ser igual a minha, pra falar a verdade nunca vai ser, pois somos todos diferentes.
+>
+> Mas acredite, eles se moldam, vendo os pais viverem, vendo os pais trabalharem, vendo como os pais tratam as pessoas…
+>
+> Percebo que o perfil da Mity bate muito com o meu, quando falamos pra irmos no sky coaster ela nem titubeou, ela prontamente disse que sim, ela iria, já a Ayumi ficou na dúvida, isso claro não demonstra de forma alguma falta de coragem, ela é tão corajoso quanto, quando ela prontamente se põe a frente das irmãs pra defendê-las, quando ela decide que ela vai ser uma dançarina e se esforça ao máximo pra isso…
+>
+> Porém só aí também conseguimos entender o poder de se ter em quem apoiar,
+> Ela apesar de não querer muito, se sentiu segura em ir estando com a mãe e a irmã…
+>
+> E eu, segui sendo a mãe orgulhosa!
+> Orgulhosa de ter duas filhas corajosas! Amigas! Companheiras!
+>
+> Então, é isso, vários momentos de coragem vamos precisar ter pessoas em quem se apoiar… vamos precisar de um empurrãozinho… de uma mão amiga!
+> Fico contente que com tão pouca idade, elas duas já serem esse apoio uma pra outra!
+>
+> Eu tive exemplos e ainda tenho, de coragem muito forte, meus pais, tanto minha mãe, quanto o meu pai, sempre me demonstraram essa coragem, claro que de formas diferentes, cada um do seu jeitinho…
+
+## 50. "Mudança" — 2023
+> Mudança…
+>
+> Mudança requer coragem, requer paciência, requer vontade…
+>
+> As vezes mudar de ambiente, de relacionamentos..
+>
+> Aprender a caber, estar onde se cabe… onde é confortável, apesar de ter que passar constantemente pelo desconforto pra ficar confortável…
+>
+> Mudar é quase sempre desconfortável…
+> É abrir novos caminhos…
+> Mas também é estar em constante aprendizado…
+> Perceber que apesar da bagagem que carregamos, estar aberto a mudanças, diz respeito a também estar aberto a estar em constante aprendizado, constante evolução!
+>
+> Eu me proponho a mudar constantemente!
+
+## 51. Evento Florecer — 2023
+> Desafiador
+>
+> Sim, sinto que parte da minha vida diz respeito a conseguir me desafiar, me provocar, talvez por isso vivo de novos começos, e novas aventuras, de novos planos..
+>
+> Me desafiar me põe a prova de vencer meus medos, de criar força, resiliência…
+>
+> E medo pra mim é algo um pouco constante, difícil dizer que alguém que se desafia tanto tem medo.. mas talvez esse foi o modo que eu encontrei de encarar meus medos..
+> me desafiar, bater de frente com o medo, não deixá-lo me dominar…
+>
+> Foram 3 dias de imersão mesmo..
+> 3 dias que pareceram semanas, meses…
+> Obrigada a todos pelo evento incrível!
+> Obrigada @kousuke_real_estate_japan por fazer ser possível!
+
+## 52. "Você não é especial" — 2023
+> Lembre-se: você não é especial…
+>
+> Engraçado como eu vivo me fazendo esse lembrete, como eu me policio sempre pra lembrar que eu não sou especial..
+>
+> O mundo não me deve nada, muito menos as pessoas…
+>
+> Lembrar que eu não sou especial, me põe no lugar de não criar expectativas, de não fantasiar coisas…
+>
+> De me chatear menos..
+>
+> Mesmo tendo total consciência de que somos seres humanos e acreditamos ser especiais em diversos momentos da vida..
+>
+> Porém só quando vc lembra que não é especial, consegue viver sem expectativas, sem achar que as pessoas te devem algo, e aí começa a entender que você também não deve nada a elas…
+> Aí fica do seu lado, quem realmente se importa, não por você ser especial, mas por ela te "enxergar" especial…
+
+## 53. As cortinas e o mesmo prato — 2023
+> As vezes a gente fecha as cortinas do mundo como se tivesse fechando as cortinas de casa para se proteger, numa falsa sensação de controle.
+>
+> Como se a gente pudesse controlar todas as variáveis, como se a gente pudesse se proteger da vida…
+>
+> Me pego diversas vezes sendo "controladora" querendo prever o futuro, controlar cada passo, me pego escolhendo sempre o mesmo prato no restaurante, pq aquele prato eu já conheço, eu já sei que vou gostar, ao invés de me arriscar, perder o controle e quem sabe me surpreender…
+>
+> A gente fica com a falsa sensação de que ter controle, te protege de não sofrer, de não ser pega de surpresa, e nessa falsa ilusão deixamos de viver coisas incríveis…nessa falsa ilusão acabamos perdemos o extraordinário pra ficarmos com ordinário!
+
+## 54. 10 anos de casados — 2023
+> Esteja com alguém, que o objetivo dele é te ter a longo prazo, te ver feliz a longo prazo..
+>
+> Afinal de contas, casamento é isso, é realmente estar disposto a pensar no longo prazo, e não viver a procura de recompensas imediatas..
+>
+> Quando pensamos no longo prazo, podemos passar por altos e baixos, mas se acreditarmos que lá, lá na frente tudo vai melhorar, tudo vai se acertar, ganhamos forças pra continuar…
+>
+> Casamento é isso, segurar a mão e nunca soltar!
+>
+> São 10 anos que parecem 1, 2… passou tão rápido, e as vezes nessa corrida toda não damos conta de quanta coisa foi construída, de tanta coisa que foi conquistada…
+>
+> A gente respira e pensa, caraca 10 anos já…
+>
+> Pq ao mesmo tempo que é muito tempo, é pouco tempo, ao mesmo tempo que demoro, passou voando…
+>
+> Obrigada pelos 10 anos de amizade, companheirismo, de nunca soltar minha mão, até mesmo nos momentos de grande turbulência…
+>
+> A construção nunca vai ser fácil, nunca vai ser rápida e sempre vai ser desafiadora..
+>
+> Nunca vai ser como no comercial de margarina, onde a felicidade parece ser comprada, sem no mínimo um caminho a se percorrer.
+>
+> O caminho costuma ser comprido, cheio de buracos, altos e baixos, errar a rota, recalcular rota, enfim ser feliz no casamento é entender, que felicidade não é e nunca vai ser constância… a felicidade acontece também em momentos não tão bons, onde você válida o que é de verdade…
+>
+> Felicidade não é a chegada, felicidade e o percurso!
+
+## 55. "O adversário é você" — 2023
+> Nunca vai ser sobre o outro, sempre vai ser sobre "você"
+>
+> Se você não vencer você mesmo, você nunca vai vencer mais ninguém…
+>
+> A competição diária tem que ser com você mesmo!
+>
+> Acordar cedo, essa batalha você tem que vencer contra você, fazer um exercício físico, comer melhor, ser melhor pra sua família..
+>
+> Entende? Nunca vai ser sobre o outro, sobre ser melhor que os outros, e sim sobre ser melhor que você todos os dias…
+>
+> Essa é a batalha mais difícil, o adversário mais poderoso, é você mesmo!
+>
+> Escolher entre vencer todo dia, tem que ser uma escolha exclusivamente sua…
+>
+> Você pode ter "N" motivos pra enfrentar essa batalha todos os dias, mas o o adversário vai sempre ser você 💪
+
+## 56. Bungee de 200 metros — Gifu, 29 de setembro de 2023 (#done #encarandomeusmedos #superacao #desafio)
+**Foto:** a Luciana numa passarela metálica sobre o vale, com um macacão vermelho de salto aberto no peito, arnês e o cordão laranja preso; faz "paz e amor"; atrás, um instrutor e uma tenda vermelha; faixa "BUNGY JAPAN — Official Instagram". Comentário de @araciyamanaka: "Como sempre! Vc é sugoi em tudo. Te admiro muito."
+
+> O maior desafio pra mim é me desafiar …
+>
+> Aprendi a me desafiar, quando eu entendi, que confiança a gente cria se desafiando…
+>
+> Sem desafios não há evolução..
+>
+> Engraçado que eu pulei, gritei, pq eu sempre vou com muito medo! Mas vou, taí o pq eu grito tanto hahahaha
+> E quando chegou lá embaixo, o japonês que estava lá em cima falou pro kousuke, sugoi ela ainda está gritando hahahahaa
+>
+> E o meu entendimento pra isso, é: simmmm! Porque quando as pessoas acham que não dá mais, eu vou lá e mostro que da sim...
+>
+> Quando eu pulei de 50 metros eu achei que ia morrer, e quando me vejo em cima de uma ponta de 200 metros, o que eu achei que seria 4x mais aterrorizador, foi mais tranquilo, pq primeiras vezes são sempre mais difíceis, primeiras vezes são sempre mais desafiadoras..
+>
+> E conforme vc vai conhecendo o caminho, ele se torna familiar, fácil, sem surpresas...
+>
+> #done #encarandomeusmedos #superacao #desafio

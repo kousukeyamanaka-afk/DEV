@@ -73,7 +73,7 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 ## Parte III — Ele ficou (~2006–2010)
 
 **11 — O ônibus das onze** · ~1.400 · V1 caps. 19–20
-- O Alan: escuta sem julgar, cuida sem que ela peça. Ela demorou muito para aceitar namorar. Perde os amigos; faculdade e volta, sem criar vínculo.
+- O Kousuke: escuta sem julgar, cuida sem que ela peça. Ela demorou muito para aceitar namorar. Perde os amigos; faculdade e volta, sem criar vínculo.
 - Ele quer estar junto; ela só tem para dar o que sobra.
 - Final em gesto.
 
@@ -102,13 +102,15 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 ## Parte IV — A régua dos outros (2011–~2018)
 
 **16 — Tudo do meu jeito** · ~1.400 · V1 caps. 30–31
-- Casamento na igreja, festa; ela controla cada detalhe. O apartamento comprado antes do Japão. Logo depois, a gravidez. Rápido demais.
+- Casamento na igreja, festa (**2013**, IG 54); ela controla cada detalhe. O apartamento comprado antes do Japão. Logo depois, a gravidez (a Mity). Rápido demais.
+- **(IG)** O controle em miniatura: ela pede sempre o mesmo prato no restaurante.
 - **(IG)** A primeira filha "ensina a ser mãe": habilitada para dirigir, sem saber fazer a baliza (imagem dela; usar uma vez, como pensamento).
 - Final em imagem (o teste, o apartamento, a cozinha).
 
 **17 — Todo mundo sabia** · ~1.500 · V1 caps. 21, 32–34
 - Opiniões sobre como criar, cuidar, ser mãe. Comparações: "Fulana fala japonês fluente", "Olha onde ele chegou". E a que fica: "Você tem sorte de ter seu esposo."
-- Segunda gravidez. As brigas; os hormônios como desculpa.
+- Segunda gravidez (a Ayumi, 2016). As brigas; os hormônios como desculpa.
+- **(IG)** Contraponto sem absolver ninguém: Dia dos Namorados de 2016, grávida de pernas inchadas, horas de carro, e o Kousuke monta uma cama no banco de trás para ela ir de pernas esticadas. Ela não lembra do presente; lembra da cama.
 - **(IG)** As "mentirinhas que foram contando ao seu respeito" viram identidade: mostrar pela repetição (ela mesma repetindo a frase dos outros sobre si), nunca explicar.
 - Final em fala.
 
@@ -131,8 +133,8 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 ## Parte V — Mais de um milhão (~2019–2022)
 
 **21 — Oito mil reais** · ~1.600 · V1 caps. 46–50
-- Cinco anos de fábrica, **(IG)** "um ano vivido várias vezes": o mesmo dia repetido (mostrar com um objeto ou um horário que não muda). O Alan estuda importação de calçados (couro do Brasil: caro e cheio de barreira). Ela compra um curso de marketing digital de R$ 8 mil. Ninguém no Japão acredita.
-- Ela transforma a vontade dela na responsabilidade dele: um curso de investimentos do Alan. Ele entra por ela, sem querer muito.
+- Cinco anos de fábrica, **(IG)** "um ano vivido várias vezes": o mesmo dia repetido (mostrar com um objeto ou um horário que não muda). O Kousuke estuda importação de calçados (couro do Brasil: caro e cheio de barreira). Ela compra um curso de marketing digital de R$ 8 mil. Ninguém no Japão acredita.
+- Ela transforma a vontade dela na responsabilidade dele: um curso de investimentos do Kousuke. Ele entra por ela, sem querer muito.
 - 40 dias de gravação; saem da fábrica sem plano B; o lançamento não é um desastre, mas não sustenta.
 - Final em fala ou gesto.
 
@@ -144,11 +146,18 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 **23 — Arubaito** · ~1.600 · V1 caps. 54–58
 - O mercado imobiliário como recomeço; mais de seis meses fora da fábrica, sem seguro-desemprego; arubaito, os bicos.
 - COVID grave dos dois; medo de não voltar; pessoas em volta morrendo. A mãe vem do Brasil cuidar da casa e das meninas: a comida, pela primeira vez, vem na direção dela.
-- A viagem ao Brasil de um mês que vira três.
+- A viagem ao Brasil de um mês que vira três (**dez. 2021–mar. 2022**, IG 35–43), com cenas possíveis:
+  - o Mirante do Leblon ("quando eu quero eu quero");
+  - **a asa-delta na Pedra da Gávea no 1º de janeiro de 2022**, "um misto de paz, com medo";
+  - a família no calçadão;
+  - a Bahia e a COVID de novo;
+  - na volta, **presos na Alemanha** por falta do teste exigido;
+  - "vou, querendo ficar".
+- Precisão: a regra de teste exigida no trânsito ou na entrada no Japão no início de 2022, e onde exatamente ficaram retidos (conferir).
 - Final em imagem.
 
 **24 — Captação** · ~1.400 · V1 caps. 59–60
-- Terceira gravidez (**(IG)** a caçula). O Alan corretor, sozinho; ela ajuda entre uma coisa e outra. A captação ativa: ir atrás, se expor. De uma venda a cada dois ou três meses a todo mês, depois duas ou três por mês.
+- Terceira gravidez (**(IG)** a Tiemi, anunciada em ~out. 2022): o "pânico" com a terceira filha, "por ouvir demais o que as pessoas falam"; ela olha a foto do primeiro bungee (50 m) e acha os medos parecidos. O Kousuke corretor, sozinho; ela ajuda entre uma coisa e outra. A captação ativa: ir atrás, se expor. De uma venda a cada dois ou três meses a todo mês, depois duas ou três por mês.
 - **(IG)** A porta que só abre para quem chega perto: uma porta automática de verdade (imobiliária, banco, konbini), sem a frase.
 - Precisão: termos de corretagem e financiamento para estrangeiros (o autor confere). Easy House: nome real ou fictício (?).
 - Final em gesto.
@@ -161,6 +170,7 @@ Atenção à cronologia real (IG): a terapia (2024) **não** é o fim da crise. 
 - O dinheiro que cega; as filhas rebeldes pedindo atenção; o casamento que quase não existe.
 - **(IG)** "Deixamos de ser marido e mulher para sermos apenas sócios." A cena é um jantar ou uma viagem de carro em que os dois só falam de trabalho, de metas e de clientes, e nenhum dos dois repara. A narradora não comenta.
 - **(IG)** A "caixinha": a mesma fórmula de mãe aplicada às três filhas, e cada uma respondendo de um jeito.
+- **(IG)** 2023, em cenas: 10 anos de casados (o post bonito × a casa real); o sky coaster (a Mity vai sem titubear; a Ayumi hesita e vai "segura com a mãe e a irmã"); **o bungee de 200 m em Gifu**, em que ela grita do começo ao fim e o instrutor japonês diz ao Kousuke "sugoi, ela ainda está gritando". É o humor da Parte VI e a mulher que grita onde a menina falava baixinho.
 - O momento em que não dá mais. Sem frase de efeito.
 - Final em imagem ou fala.
 
@@ -168,7 +178,7 @@ Atenção à cronologia real (IG): a terapia (2024) **não** é o fim da crise. 
 - **(IG)** "Ser forte sempre foi minha maior qualidade… mas houve um momento em que essa força começou a me derrubar": ela pode dizer à terapeuta, uma vez, "eu posso ser forte e existir também?", como pergunta, não como conclusão.
 - Os dois vão atrás de ajuda: cursos, imersões, conversas difíceis. 2024, **(IG)** o ano do dragão, o dela: a terapia (volta à moldura do prólogo). A foto do pré na tela.
 - **(IG)** A terapeuta faz uma pergunta, uma vez: se ela tirasse tudo o que faz, os papéis (mãe, esposa, sócia, filha), o que sobrava? Ela não responde na hora.
-- **Único lugar do livro** onde a imagem da menina elefante é nomeada e explicada. Proposta: a parábola do elefante acorrentado desde filhote, que cresce acreditando que a estaca o segura; a Luciana a completa com o que ela chama de "mentirinhas" que acreditou sobre si (IG 13). Origem real da imagem: **a confirmar com a Luciana**.
+- **Único lugar do livro** onde a imagem da menina elefante é nomeada e explicada. Proposta: a parábola do elefante acorrentado desde filhote, que cresce acreditando que a estaca o segura; a Luciana a completa com o que ela chama de "mentirinhas" que acreditou sobre si (IG 13) e com o que escreveu depois da asa-delta, em 2022: "a gente se sente preso, mesmo solto" (IG 37). Origem real da imagem: **a confirmar com a Luciana**.
 - Final em fala.
 
 **27 — O salto** · ~1.200 · IG 1
