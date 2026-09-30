@@ -3,7 +3,9 @@
 e um ramo de oliveira claro num canto (folhas lanceoladas com nervura, azeitonas), no estilo das
 páginas de citação de livros de negócios. Só usa a biblioteca padrão do Python.
 
-Uso: python3 tools/ornamentos.py   -> ilustracoes/destaque_*.png (1100 x 1700 px, 200 dpi, 5,5 x 8,5 pol.)
+Uso: python3 tools/ornamentos.py   -> ilustracoes/destaque_<desenho>_<lado>[_azeitonas].png
+(1100 x 1700 px, 200 dpi, 5,5 x 8,5 pol.). Cada desenho sai com e sem azeitonas; manuscrito/destaques.json
+escolhe qual versão cada página usa.
 """
 import math, random, struct, zlib
 from array import array
@@ -15,12 +17,14 @@ W, H = 1100, 1700            # pixels da página
 S = W / 1000                 # espaço de desenho: 1000 de largura
 FUNDO = (58, 58, 58)
 TINTA = (176, 176, 170)
-K = 1.0        # ampliação do ornamento a partir do canto (0, 1545); ajustada por desenho em gerar()
+K = 1.0        # ampliação do ornamento a partir da âncora; ajustada por desenho em gerar()
+ANCORA = (0, 1545)   # ponto fixo da ampliação (o canto, ou o centro de baixo na coroa)
 GROSSO = 1.15  # engrossa os traços
 
 
 def _esc(x, y):
-    return (x * K * S, (1545 - (1545 - y) * K) * S)
+    ax, ay = ANCORA
+    return ((ax + (x - ax) * K) * S, (ay + (y - ay) * K) * S)
 
 
 class Tela:
@@ -229,44 +233,57 @@ def galho(t, pts, r0, r1, passo, L0, L1, larg0, larg1, azeitonas=(), seed=1, abe
 
 
 # ---------- composições (canto inferior esquerdo; a versão "dir" é espelhada) ----------
-def oliveira_longa(t, seed):
+# f = True desenha as azeitonas; False, só folhas.
+def oliveira_longa(t, seed, f):
     """Um ramo que sobe do canto em curva aberta, com um raminho lateral."""
     principal = bezier((-10, 1560), (120, 1420), (230, 1250), (420, 1090), 120)
-    galho(t, principal, 7, 2.4, 58, 130, 85, 17, 12, azeitonas=(2, 5, 8), seed=seed)
+    galho(t, principal, 7, 2.4, 58, 130, 85, 17, 12, azeitonas=(2, 5, 8) if f else (), seed=seed)
     total, em = ao_longo(principal)
     (x, y), a = em(total * 0.38)
     lateral = bezier((x, y), (x + 70, y + 20), (x + 170, y + 5), (x + 250, y - 40), 60)
-    galho(t, lateral, 3.5, 1.8, 50, 95, 70, 13, 10, azeitonas=(1,), seed=seed + 1)
+    galho(t, lateral, 3.5, 1.8, 50, 95, 70, 13, 10, azeitonas=(1,) if f else (), seed=seed + 1)
 
 
-def oliveira_cruzada(t, seed):
+def oliveira_cruzada(t, seed, f):
     """Dois ramos que saem juntos do canto e se abrem em V."""
-    a = bezier((10, 1580), (60, 1400), (70, 1230), (40, 1020), 110)
+    a = bezier((10, 1580), (70, 1440), (130, 1300), (200, 1130), 110)
     b = bezier((10, 1580), (190, 1480), (340, 1420), (520, 1400), 110)
-    galho(t, a, 6.5, 2.2, 56, 125, 80, 16, 11, azeitonas=(3, 7), seed=seed)
-    galho(t, b, 6.5, 2.2, 56, 125, 80, 16, 11, azeitonas=(2, 6), seed=seed + 5)
+    galho(t, a, 6.5, 2.2, 56, 125, 80, 16, 11, azeitonas=(3, 7) if f else (), seed=seed)
+    galho(t, b, 6.5, 2.2, 56, 125, 80, 16, 11, azeitonas=(2, 6) if f else (), seed=seed + 5)
 
 
-def oliveira_arco(t, seed):
+def oliveira_arco(t, seed, f):
     """Ramo em arco, como um pedaço de coroa, contornando o canto."""
     cx, cy, R = -30, 1600, 470
     arco = [(cx + R * math.cos(math.radians(g)), cy + R * math.sin(math.radians(g))) for g in range(-96, -2, 2)]
-    galho(t, arco, 6, 2.2, 54, 120, 85, 16, 12, azeitonas=(3, 6, 10), seed=seed, abertura=0.55)
+    galho(t, arco, 6, 2.2, 54, 120, 85, 16, 12, azeitonas=(3, 6, 10) if f else (), seed=seed, abertura=0.55)
     arco_pontilhado(t, cx, cy, R * 0.8, math.radians(-88), math.radians(-6), 24, 3.6)
 
 
-DESENHOS = {'oliveira_longa': oliveira_longa, 'oliveira_cruzada': oliveira_cruzada, 'oliveira_arco': oliveira_arco}
-# escala de cada desenho: o topo do ornamento fica abaixo de ~55% da altura da página
-ESCALA = {'oliveira_longa': 1.3, 'oliveira_cruzada': 1.35, 'oliveira_arco': 1.4}
+def oliveira_coroa(t, seed, f):
+    """Meia coroa: dois ramos que nascem juntos no centro, embaixo, e sobem abertos para os lados."""
+    cx, cy, R = 500, 1150, 390
+    esq = [(cx + R * math.cos(math.radians(g)), cy + R * math.sin(math.radians(g))) for g in range(94, 196, 2)]
+    dir_ = [(cx + R * math.cos(math.radians(g)), cy + R * math.sin(math.radians(g))) for g in range(86, -16, -2)]
+    galho(t, esq, 6, 2.2, 50, 115, 80, 15, 11, azeitonas=(2, 6) if f else (), seed=seed, abertura=0.55)
+    galho(t, dir_, 6, 2.2, 50, 115, 80, 15, 11, azeitonas=(4, 8) if f else (), seed=seed + 3, abertura=0.55)
+    t.ponto(cx, cy + R + 4, 9)   # o laço onde os dois ramos se encontram
 
 
-def gerar(nome, lado, seed=7):
-    global K
-    K = ESCALA[nome]
+DESENHOS = {'oliveira_longa': oliveira_longa, 'oliveira_cruzada': oliveira_cruzada,
+            'oliveira_arco': oliveira_arco, 'oliveira_coroa': oliveira_coroa}
+# escala e âncora de cada desenho: o topo do ornamento fica abaixo de ~50% da altura da página
+ESCALA = {'oliveira_longa': 1.3, 'oliveira_cruzada': 1.5, 'oliveira_arco': 1.45, 'oliveira_coroa': 1.02}
+ANCORAS = {'oliveira_coroa': (500, 1545)}
+
+
+def gerar(nome, lado, frutos, seed=7):
+    global K, ANCORA
+    K, ANCORA = ESCALA[nome], ANCORAS.get(nome, (0, 1545))
     t = Tela(espelho=(lado == 'dir'))
-    DESENHOS[nome](t, seed)
+    DESENHOS[nome](t, seed, frutos)
     OUT.mkdir(exist_ok=True)
-    p = OUT / f'destaque_{nome}_{lado}.png'
+    p = OUT / f"destaque_{nome}_{lado}{'_azeitonas' if frutos else ''}.png"
     t.png(p)
     return p
 
@@ -274,7 +291,8 @@ def gerar(nome, lado, seed=7):
 def main():
     for nome in DESENHOS:
         for lado in ('esq', 'dir'):
-            print(gerar(nome, lado).relative_to(ROOT))
+            for frutos in (False, True):
+                print(gerar(nome, lado, frutos).relative_to(ROOT))
 
 
 if __name__ == '__main__':

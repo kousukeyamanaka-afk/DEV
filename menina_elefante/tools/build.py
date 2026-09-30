@@ -142,13 +142,13 @@ def fundo_pagina(midia, png):
 
 
 def pagina_destaque(d, midia):
-    png = ROOT / 'ilustracoes' / f"destaque_{d['ornamento']}_{d['lado']}.png"
+    png = ROOT / 'ilustracoes' / f"destaque_{d['ornamento']}_{d['lado']}{'_azeitonas' if d.get('azeitonas') else ''}.png"
     if not png.exists():
         sys.exit(f'falta {png.relative_to(ROOT)}: rode python3 tools/ornamentos.py')
     jc = 'right' if d['lado'] == 'esq' else 'left'
     limpo = d['frase'].replace('[[', '').replace(']]', '')
     larg_pt = (DIAG['pag_w'] - DIAG['margem_int'] - DIAG['margem_ext']) / 20
-    pt = min(58, 0.93 * math.sqrt(larg_pt * 230 / (0.40 * len(limpo))))
+    pt = min(58, 0.93 * math.sqrt(larg_pt * 205 / (0.40 * len(limpo))))
     sz = int(pt) * 2
 
     def r(txt, cor):
