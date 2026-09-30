@@ -1,6 +1,6 @@
 # Decisões da V2 que a Luciana precisa conferir
 
-O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~35.200 palavras). Os posts e textos da Luciana serviram de **base de personalidade, pensamento e histórias**, não de conteúdo a transcrever: cada capítulo usa uma ou duas histórias escolhidas. Tudo o que está abaixo foi **inventado ou deduzido** para dar corpo às cenas e pode ser trocado sem desmontar o livro.
+O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palavras). Os posts e textos da Luciana serviram de **base de personalidade, pensamento e histórias**, não de conteúdo a transcrever: cada capítulo usa uma ou duas histórias escolhidas. Tudo o que está abaixo foi **inventado ou deduzido** para dar corpo às cenas e pode ser trocado sem desmontar o livro.
 
 ## Parte I (1994–2003)
 - A franja cortada com a tesoura de frango e a tigela amarela; "igualzinha à Mônica"; o vestido da costureira; a tia Márcia, o fotógrafo.
@@ -71,3 +71,12 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~35.200 palav
 
 ## Páginas de destaque (pedido da autora)
 23 frases do próprio texto ganham página inteira (lista e âncoras em `manuscrito/destaques.json`): prólogo; caps. 1, 3, 5, 6, 7, 8, 9, 11, 14, 15, 17, 18, 19, 20, 21, 22, 23, 26, 27, 28 (duas) e 29. Nenhuma no epílogo, nenhuma com "menina elefante". Atribuições: "minha mãe", "Kousuke", "a terapeuta", "Carla" (pseudônimo), "a Mity"; frases da narradora vão sem assinatura. A autora pode trocar, cortar ou acrescentar frases editando o arquivo.
+
+## Revisão de ritmo e diagramação (30/09/2026; relatório em `wiki/dev-edit-reports/2026-09-30-07-10.md`)
+- **Enxugamento leve** (−3%) nas Partes I–III: resumos e frases em que a narradora explica a cena. A autora pediu depois para manter ~200 páginas e não enxugar mais.
+- **Cap. 7**: tirado o "Mais tarde eu soube" (regra de um comentário adulto por parte). **Cap. 10**: "Até hoje não sei" virou "Nunca perguntei".
+- **Cap. 12**: cortada a visita da mãe do Kousuke à ótica "na segunda-feira", que vinha antes da cena de domingo (cronologia invertida).
+- **Cap. 17**: corrigido "as duas dormiam" (a Ayumi ainda não tinha nascido).
+- **Cap. 18**: cortado o comentário "Eu não estava me abandonando só a mim mesma…".
+- **Cap. 21 (novo)**: na noite do primeiro vídeo, o Kousuke pergunta "E se não der certo? A ideia foi sua. A cara é minha." — "Então a gente divide." Planta a rachadura de 2025. *Invenção, a conferir.*
+- **Cap. 23 (novo)**: na viagem ao Brasil de 2021–22, o pai aparece uma vez, num domingo, com bolacha de água e sal para as meninas, conta a baleia e vai embora antes do almoço porque a mãe está na cozinha. Dá lastro à visita do cap. 28. *Invenção, a conferir.*

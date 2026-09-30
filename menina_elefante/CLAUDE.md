@@ -2,7 +2,7 @@
 
 Memória de Luciana Lumi Watanabe Yamanaka, no mesmo modelo de trabalho de *O Jardim Entre o Agora e o Depois* (a pasta-mãe deste repositório). A V1 (66 capítulos curtíssimos, ~6 mil palavras) está em `referencia/`. A V2 reescreve o livro em cenas, em primeira pessoa, seguindo o parecer e o roteiro de `docs/`.
 
-**Já escrito (versão completa revisada; visita ao pai, "Mãe sabe" e o cubo montado pela Luciana aprovados pela autora):** nota ao leitor, prólogo, Partes I–VI (capítulos 1–29) e epílogo, ~35.200 palavras.
+**Já escrito (versão completa revisada; visita ao pai, "Mãe sabe" e o cubo montado pela Luciana aprovados pela autora):** nota ao leitor, prólogo, Partes I–VI (capítulos 1–29) e epílogo, ~34.300 palavras.
 **Falta:** a revisão da Luciana; as respostas às perguntas de `docs/LEITURA_INSTAGRAM.md`; ajustar o texto conforme `docs/DECISOES_V2.md` (tudo o que foi inventado ou deduzido, capítulo por capítulo).
 
 ## Antes de escrever qualquer coisa
@@ -36,6 +36,10 @@ Memória de Luciana Lumi Watanabe Yamanaka, no mesmo modelo de trabalho de *O Ja
 - Precisão: o marido da autora trabalha com financiamento imobiliário para estrangeiros no Japão. Vistos, seguro de saúde, fábrica/empreiteira, empréstimos, bancos, regras da pandemia e procedimentos médicos precisam estar certos. Na dúvida, genérico e sinalizado no PR.
 - Português do Brasil. Termos japoneses sem itálico; na primeira vez, uma aposição curta explica.
 - Pessoas secundárias reais usam pseudônimo até a autora decidir.
+
+## Diagramação (decisão da autora: cerca de 200 páginas, sem enxugar mais)
+- `tools/build.py` diagrama o livro: 5,5 × 8,5 pol., EB Garamond 12 pt com entrelinha exata de 17,6 pt, margens espelhadas (interna 2 cm, externa 1,5 cm), hifenização em português, cabeçalho com o título do livro nas páginas pares e o do capítulo nas ímpares, e sem cabeçalho na folha de rosto, nas páginas de parte, nas aberturas de capítulo e nas páginas de destaque. Fontes embutidas (OFL) em `referencia/fontes/`.
+- Com ~34 mil palavras e 23 páginas de destaque, o livro fica com ~195–200 páginas (simulação no navegador; confirmar no Word).
 
 ## Metas de tamanho
 - Partes I–V: 1.000–1.500 palavras por capítulo. Parte VI: 1.000–1.400. Prólogo ~900. Epílogo ~500.
