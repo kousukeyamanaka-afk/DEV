@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Gera as folhas de fundo das páginas de destaque (frases grandes) em PNG: fundo cinza-escuro
-e um ornamento claro num canto (volutas, folhas, arco pontilhado), no estilo das páginas de
-citação de livros de negócios. Só usa a biblioteca padrão do Python.
+e um ramo de oliveira claro num canto (folhas lanceoladas com nervura, azeitonas), no estilo das
+páginas de citação de livros de negócios. Só usa a biblioteca padrão do Python.
 
 Uso: python3 tools/ornamentos.py   -> ilustracoes/destaque_*.png (1100 x 1700 px, 200 dpi, 5,5 x 8,5 pol.)
 """
@@ -27,6 +27,7 @@ class Tela:
     def __init__(self, espelho=False):
         self.a = array('f', bytes(4 * W * H))
         self.espelho = espelho
+        self.apagar = False     # True: desenha com a cor do fundo (nervuras, brilho das azeitonas)
 
     def _esc(self, x, y):
         X, Y = _esc(x, y)
@@ -34,7 +35,11 @@ class Tela:
 
     def _put(self, x, y, c):
         i = y * W + x
-        if c > self.a[i]:
+        if self.apagar:
+            v = 1.0 - (c if c < 1 else 1.0)
+            if v < self.a[i]:
+                self.a[i] = v
+        elif c > self.a[i]:
             self.a[i] = c if c < 1 else 1.0
 
     def capsula(self, x0, y0, x1, y1, r0, r1):
@@ -136,51 +141,6 @@ def bezier(p0, p1, p2, p3, n=60):
     return out
 
 
-def espiral(cx, cy, R, a0, voltas, sentido, n=90, aperto=0.28):
-    """Espiral logarítmica que começa em (cx + R cos a0, cy + R sin a0) e se enrola para dentro."""
-    out = []
-    for i in range(n + 1):
-        th = voltas * 2 * math.pi * i / n
-        r = R * math.exp(-aperto * th)
-        a = a0 + sentido * th
-        out.append((cx + r * math.cos(a), cy + r * math.sin(a)))
-    return out
-
-
-def voluta(t, p0, c1, c2, fim, R, sentido, voltas=1.6, r0=9, r1=2.2):
-    """Haste em curva que termina numa espiral, afinando, com um ponto no miolo."""
-    haste = bezier(p0, c1, c2, fim)
-    dx, dy = fim[0] - c2[0], fim[1] - c2[1]
-    ang = math.atan2(dy, dx)
-    # centro da espiral: à esquerda/direita da direção de chegada
-    nx, ny = -math.sin(ang) * sentido, math.cos(ang) * sentido
-    cx, cy = fim[0] + nx * R, fim[1] + ny * R
-    a0 = math.atan2(fim[1] - cy, fim[0] - cx)
-    esp = espiral(cx, cy, R, a0, voltas, sentido)
-    pts = haste + esp[1:]
-    t.traco(pts, r0, r1)
-    t.ponto(*esp[-1], r1 * 1.8)
-    return haste
-
-
-def folha(t, base, ang, L, larg, curva=0.35, ponta=0.25):
-    """Folha de acanto: nervura curva, largura em seno, ponta que dobra."""
-    ca, sa = math.cos(ang), math.sin(ang)
-    esq, dir_ = [], []
-    n = 40
-    for i in range(n + 1):
-        s = i / n
-        dev = curva * L * math.sin(math.pi * s) * 0.35 + ponta * L * max(0, s - 0.7) ** 2 * 3
-        x = base[0] + ca * s * L - sa * dev
-        y = base[1] + sa * s * L + ca * dev
-        h = larg * (math.sin(math.pi * min(s, 0.98)) ** 0.75) * (1 - 0.35 * s)
-        # recortes do acanto
-        h *= 1 - 0.18 * (0.5 + 0.5 * math.cos(s * 5 * 2 * math.pi))
-        esq.append((x - sa * h, y + ca * h))
-        dir_.append((x + sa * h, y - ca * h))
-    t.poligono(esq + dir_[::-1])
-
-
 def arco_pontilhado(t, cx, cy, R, a0, a1, passo, r):
     a = a0
     while a <= a1:
@@ -188,75 +148,116 @@ def arco_pontilhado(t, cx, cy, R, a0, a1, passo, r):
         a += passo / R
 
 
-def aneis(t, cx, cy, R):
-    """Anel grosso, anel pontilhado, anel fino e marcas, como o mostrador das páginas de exemplo."""
-    def circ(r, w):
-        pts = [(cx + r * math.cos(a / 180 * math.pi), cy + r * math.sin(a / 180 * math.pi)) for a in range(0, 361, 2)]
-        t.traco(pts, w)
-    circ(R, 4.5)
-    circ(R * 0.9, 1.6)
-    arco_pontilhado(t, cx, cy, R * 1.07, 0, 2 * math.pi, 22, 5.5)
-    for k in range(24):
-        a = k * math.pi / 12
-        L = 0.09 if k % 2 == 0 else 0.05
-        t.traco([(cx + R * 0.9 * math.cos(a), cy + R * 0.9 * math.sin(a)),
-                 (cx + R * (0.9 - L) * math.cos(a), cy + R * (0.9 - L) * math.sin(a))], 3 if k % 2 == 0 else 1.6)
+def ao_longo(pts):
+    """Comprimento acumulado de uma polilinha: devolve (total, função s -> (ponto, ângulo))."""
+    acc = [0.0]
+    for a, b in zip(pts, pts[1:]):
+        acc.append(acc[-1] + math.dist(a, b))
+    def em(s):
+        s = max(0.0, min(acc[-1], s))
+        for k in range(1, len(acc)):
+            if acc[k] >= s:
+                f = (s - acc[k - 1]) / ((acc[k] - acc[k - 1]) or 1)
+                (x0, y0), (x1, y1) = pts[k - 1], pts[k]
+                return (x0 + (x1 - x0) * f, y0 + (y1 - y0) * f), math.atan2(y1 - y0, x1 - x0)
+        return pts[-1], math.atan2(pts[-1][1] - pts[-2][1], pts[-1][0] - pts[-2][0])
+    return acc[-1], em
+
+
+def folha_oliveira(t, base, ang, L, larg, curva=0.0):
+    """Folha de oliveira: comprida, estreita, pontuda nas duas pontas, com a nervura central vazada."""
+    ca, sa = math.cos(ang), math.sin(ang)
+    esq, dir_, nerv = [], [], []
+    n = 36
+    for i in range(n + 1):
+        s = i / n
+        dev = curva * L * math.sin(math.pi * s) * 0.12
+        x = base[0] + ca * s * L - sa * dev
+        y = base[1] + sa * s * L + ca * dev
+        h = larg * (math.sin(math.pi * s) ** 0.8) * (1 - 0.25 * s)
+        esq.append((x - sa * h, y + ca * h))
+        dir_.append((x + sa * h, y - ca * h))
+        if 0.06 < s < 0.86:
+            nerv.append((x, y))
+    t.poligono(esq + dir_[::-1])
+    t.apagar = True
+    t.traco(nerv, 1.3, 0.5)
+    t.apagar = False
+
+
+def azeitona(t, x, y, ang, r=11):
+    """Azeitona oval presa por um cabinho, recortada das folhas por um contorno da cor do fundo."""
+    ca, sa = math.cos(ang), math.sin(ang)
+    cx, cy = x + ca * (r * 2.1), y + sa * (r * 2.1)
+
+    def oval(rr):
+        pts = []
+        for k in range(40):
+            a = 2 * math.pi * k / 40
+            u, v = math.cos(a) * rr * 1.3, math.sin(a) * rr
+            pts.append((cx + u * ca - v * sa, cy + u * sa + v * ca))
+        return pts
+    t.apagar = True
+    t.poligono(oval(r + 3.5))
+    t.apagar = False
+    t.traco([(x, y), (cx - ca * r * 1.1, cy - sa * r * 1.1)], 1.8, 1.3)
+    t.poligono(oval(r))
+
+
+def galho(t, pts, r0, r1, passo, L0, L1, larg0, larg1, azeitonas=(), seed=1, abertura=0.62):
+    """Galho com folhas alternadas (menores para a ponta), folha terminal e azeitonas em alguns nós."""
+    rnd = random.Random(seed)
+    t.traco(pts, r0, r1)
+    total, em = ao_longo(pts)
+    s, k, frutos = passo * 0.8, 0, []
+    while s < total - passo * 0.4:
+        (x, y), a = em(s)
+        f = s / total
+        lado = 1 if k % 2 == 0 else -1
+        L = L0 + (L1 - L0) * f
+        folha_oliveira(t, (x, y), a + lado * (abertura + rnd.uniform(-0.12, 0.12)), L * rnd.uniform(0.9, 1.08),
+                       larg0 + (larg1 - larg0) * f, curva=lado * rnd.uniform(0.3, 0.8))
+        if k in azeitonas:
+            r = 16 - 4 * f
+            frutos += [(x, y, a - lado * 1.2, r), (x, y, a - lado * 1.85, r * 0.85)]
+        s += passo * (1 - 0.25 * f)
+        k += 1
+    (x, y), a = em(total)
+    folha_oliveira(t, (x, y), a, L1 * 1.05, larg1, curva=0.5)
+    for fx, fy, fa, fr in frutos:
+        azeitona(t, fx, fy, fa, r=fr)
 
 
 # ---------- composições (canto inferior esquerdo; a versão "dir" é espelhada) ----------
-def relogio(t, seed):
-    rnd = random.Random(seed)
-    aneis(t, -60, 1600, 330)
-    haste = voluta(t, (40, 1545), (20, 1350), (180, 1250), (250, 1080), 70, -1, 1.7, 11, 2.5)
-    voluta(t, (150, 1545), (330, 1500), (470, 1400), (430, 1260), 55, 1, 1.5, 8, 2)
-    voluta(t, (250, 1080), (330, 990), (300, 900), (220, 860), 42, -1, 1.5, 6, 1.6)
-    for k, (s, lado) in enumerate([(12, 1), (22, -1), (32, 1), (44, -1)]):
-        x, y = haste[s]
-        ang = -math.pi / 2 + lado * (0.75 + rnd.uniform(-0.12, 0.12))
-        folha(t, (x, y), ang, 150 - 18 * k, 34 - 3 * k, curva=0.4 * lado, ponta=0.3 * lado)
-    folha(t, (40, 1545), -1.35, 260, 55, curva=-0.5, ponta=-0.3)
-    folha(t, (150, 1545), -0.55, 230, 48, curva=0.45, ponta=0.35)
-    pts = bezier((30, 1200), (-10, 1050), (60, 900), (20, 760), 30)
-    for i, (x, y) in enumerate(pts[::2]):
-        t.ponto(x, y, 7 - i * 0.35)
+def oliveira_longa(t, seed):
+    """Um ramo que sobe do canto em curva aberta, com um raminho lateral."""
+    principal = bezier((-10, 1560), (120, 1420), (230, 1250), (420, 1090), 120)
+    galho(t, principal, 7, 2.4, 58, 130, 85, 17, 12, azeitonas=(2, 5, 8), seed=seed)
+    total, em = ao_longo(principal)
+    (x, y), a = em(total * 0.38)
+    lateral = bezier((x, y), (x + 70, y + 20), (x + 170, y + 5), (x + 250, y - 40), 60)
+    galho(t, lateral, 3.5, 1.8, 50, 95, 70, 13, 10, azeitonas=(1,), seed=seed + 1)
 
 
-def vinha(t, seed):
-    rnd = random.Random(seed)
-    tronco = bezier((70, 1545), (-10, 1300), (150, 1100), (60, 850), 80)
-    t.traco(tronco, 12, 5)
-    voluta(t, tronco[-1], (20, 780), (60, 700), (140, 690), 45, 1, 1.6, 5, 1.5)
-    y_ramos = [10, 25, 40, 55, 68]
-    for k, s in enumerate(y_ramos):
-        x, y = tronco[s]
-        lado = 1 if k % 2 == 0 else -1
-        if lado == 1:
-            voluta(t, (x, y), (x + 90, y - 20), (x + 170, y - 90), (x + 150, y - 170), 45 - 4 * k, 1, 1.5, 7 - k * 0.6, 1.6)
-            folha(t, (x, y), -0.35 - rnd.uniform(0, 0.2), 170 - 15 * k, 36 - 3 * k, curva=0.4, ponta=0.35)
-        else:
-            folha(t, (x, y), -2.4 + rnd.uniform(-0.1, 0.1), 110 - 10 * k, 26 - 2 * k, curva=-0.4, ponta=-0.3)
-    voluta(t, (200, 1545), (380, 1540), (520, 1450), (480, 1330), 60, -1, 1.6, 9, 2)
-    folha(t, (200, 1545), -0.3, 280, 50, curva=0.5, ponta=0.4)
-    arco_pontilhado(t, 70, 1545, 430, -math.pi / 2 + 0.05, -0.25, 26, 5)
+def oliveira_cruzada(t, seed):
+    """Dois ramos que saem juntos do canto e se abrem em V."""
+    a = bezier((10, 1580), (60, 1400), (70, 1230), (40, 1020), 110)
+    b = bezier((10, 1580), (190, 1480), (340, 1420), (520, 1400), 110)
+    galho(t, a, 6.5, 2.2, 56, 125, 80, 16, 11, azeitonas=(3, 7), seed=seed)
+    galho(t, b, 6.5, 2.2, 56, 125, 80, 16, 11, azeitonas=(2, 6), seed=seed + 5)
 
 
-def ramo(t, seed):
-    rnd = random.Random(seed)
-    arco_pontilhado(t, -40, 1620, 520, -math.pi / 2, 0, 24, 5.5)
-    t.traco([(-40 + 470 * math.cos(a / 100), 1620 + 470 * math.sin(a / 100)) for a in range(-157, 1, 2)], 4)
-    haste = voluta(t, (0, 1480), (160, 1440), (230, 1300), (180, 1180), 60, -1, 1.7, 10, 2.4)
-    voluta(t, (180, 1180), (140, 1060), (230, 980), (330, 1010), 48, 1, 1.5, 7, 1.8)
-    voluta(t, (60, 1545), (300, 1560), (420, 1470), (400, 1380), 50, 1, 1.5, 8, 2)
-    for k, s in enumerate([15, 30, 45]):
-        x, y = haste[s]
-        folha(t, (x, y), -2.2 + 0.25 * k + rnd.uniform(-0.1, 0.1), 140 - 15 * k, 30 - 3 * k, curva=-0.4, ponta=-0.3)
-        folha(t, (x, y), -0.5 - 0.1 * k, 120 - 12 * k, 26 - 2 * k, curva=0.4, ponta=0.3)
-    folha(t, (0, 1480), -0.9, 200, 44, curva=0.4, ponta=0.35)
+def oliveira_arco(t, seed):
+    """Ramo em arco, como um pedaço de coroa, contornando o canto."""
+    cx, cy, R = -30, 1600, 470
+    arco = [(cx + R * math.cos(math.radians(g)), cy + R * math.sin(math.radians(g))) for g in range(-96, -2, 2)]
+    galho(t, arco, 6, 2.2, 54, 120, 85, 16, 12, azeitonas=(3, 6, 10), seed=seed, abertura=0.55)
+    arco_pontilhado(t, cx, cy, R * 0.8, math.radians(-88), math.radians(-6), 24, 3.6)
 
 
-DESENHOS = {'relogio': relogio, 'vinha': vinha, 'ramo': ramo}
+DESENHOS = {'oliveira_longa': oliveira_longa, 'oliveira_cruzada': oliveira_cruzada, 'oliveira_arco': oliveira_arco}
 # escala de cada desenho: o topo do ornamento fica abaixo de ~55% da altura da página
-ESCALA = {'relogio': 1.05, 'vinha': 0.85, 'ramo': 1.15}
+ESCALA = {'oliveira_longa': 1.3, 'oliveira_cruzada': 1.35, 'oliveira_arco': 1.4}
 
 
 def gerar(nome, lado, seed=7):

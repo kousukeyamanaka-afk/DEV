@@ -18,7 +18,7 @@ Memória de Luciana Lumi Watanabe Yamanaka, no mesmo modelo de trabalho de *O Ja
 ## Fluxo de trabalho
 - Um capítulo por arquivo, nos caminhos de `manuscrito/estrutura.json`.
 - Formato dos .txt: parágrafos separados por linha em branco; diálogo começa com travessão (—); `*` sozinho numa linha = quebra de cena. Não use negrito.
-- Páginas de destaque (pedido da autora, no estilo dos livros de citação): `manuscrito/destaques.json` lista as frases que ganham uma página inteira de fundo escuro com letra grande (Bebas Neue, embutida no .docx a partir de `referencia/fontes/`, licença OFL) e ornamento. `[[...]]` marca as palavras em branco. A página entra na próxima quebra de cena depois da âncora. Os fundos são gerados por `python3 tools/ornamentos.py` em `ilustracoes/`. Frase de destaque só com texto que já está no capítulo; nunca "menina elefante"; nenhuma no epílogo.
+- Páginas de destaque (pedido da autora, no estilo dos livros de citação): `manuscrito/destaques.json` lista as frases que ganham uma página inteira de fundo escuro com letra grande (Bebas Neue, embutida no .docx a partir de `referencia/fontes/`, licença OFL) e um ramo de oliveira num canto (três desenhos: ramo longo, ramos cruzados e ramo em arco, pedido da autora). `[[...]]` marca as palavras em branco. A página entra na próxima quebra de cena depois da âncora. Os fundos são gerados por `python3 tools/ornamentos.py` em `ilustracoes/`. Frase de destaque só com texto que já está no capítulo; nunca "menina elefante"; nenhuma no epílogo.
 - Ao terminar uma parte:
   - `python3 tools/metricas.py --parte II` e ajuste o que estiver fora das metas;
   - `python3 tools/build.py --parte II` gera `saidas/A_Menina_Elefante_V2_Parte_II.docx`;

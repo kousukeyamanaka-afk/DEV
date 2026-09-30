@@ -6,7 +6,7 @@
    "ancora": "Você está com pressa?",
    "frase": "Você está com [[pressa]]?",
    "autor": "A TERAPEUTA",
-   "ornamento": "relogio",
+   "ornamento": "oliveira_longa",
    "lado": "esq"
   },
   {
@@ -14,7 +14,7 @@
    "ancora": "ninguém vai olhar para a sua franja",
    "frase": "Filha, ninguém vai olhar para a [[sua franja]]. Vão olhar para o vestido.",
    "autor": "MINHA MÃE",
-   "ornamento": "vinha",
+   "ornamento": "oliveira_cruzada",
    "lado": "dir"
   },
   {
@@ -22,7 +22,7 @@
    "ancora": "Em cada lugar, eu era um pouco outra.",
    "frase": "Em cada lugar, eu era [[um pouco outra]]. E em cada lugar gostavam de mim.",
    "autor": "",
-   "ornamento": "ramo",
+   "ornamento": "oliveira_arco",
    "lado": "esq"
   },
   {
@@ -30,7 +30,7 @@
    "ancora": "Eu só quero dormir sem ninguém perguntar nada",
    "frase": "Eu só quero dormir [[sem ninguém perguntar nada]].",
    "autor": "CARLA",
-   "ornamento": "relogio",
+   "ornamento": "oliveira_longa",
    "lado": "dir"
   },
   {
@@ -38,7 +38,7 @@
    "ancora": "do tamanho de uma tarde comum",
    "frase": "Precisava de alguma coisa pequena, [[do tamanho de uma tarde comum]], onde eu pudesse pôr o pé.",
    "autor": "",
-   "ornamento": "vinha",
+   "ornamento": "oliveira_cruzada",
    "lado": "esq"
   },
   {
@@ -46,7 +46,7 @@
    "ancora": "Deixa ele acordar e eu nunca mais te peço nada",
    "frase": "Deixa ele acordar e eu [[nunca mais te peço nada]].",
    "autor": "",
-   "ornamento": "ramo",
+   "ornamento": "oliveira_arco",
    "lado": "dir"
   },
   {
@@ -54,7 +54,7 @@
    "ancora": "Pode escrever quatro",
    "frase": "[[Pode escrever quatro.]]",
    "autor": "MINHA MÃE",
-   "ornamento": "relogio",
+   "ornamento": "oliveira_longa",
    "lado": "esq"
   },
   {
@@ -62,7 +62,7 @@
    "ancora": "nenhum dos dois desmontasse",
    "frase": "Eu queria que [[nenhum dos dois desmontasse]], e isso ninguém pedia a mim também.",
    "autor": "",
-   "ornamento": "vinha",
+   "ornamento": "oliveira_cruzada",
    "lado": "dir"
   },
   {
@@ -70,7 +70,7 @@
    "ancora": "Porque é meia-noite e você está andando sozinha",
    "frase": "Porque é meia-noite e você está [[andando sozinha]].",
    "autor": "KOUSUKE",
-   "ornamento": "ramo",
+   "ornamento": "oliveira_arco",
    "lado": "esq"
   },
   {
@@ -78,7 +78,7 @@
    "ancora": "Ninguém tinha me pedido para pular",
    "frase": "[[Ninguém tinha me pedido para pular.]] Ninguém precisava que eu pulasse.",
    "autor": "",
-   "ornamento": "relogio",
+   "ornamento": "oliveira_longa",
    "lado": "dir"
   },
   {
@@ -86,7 +86,7 @@
    "ancora": "ninguém precisava de mim",
    "frase": "Nunca tinha estado num lugar em que [[ninguém precisava de mim]].",
    "autor": "",
-   "ornamento": "vinha",
+   "ornamento": "oliveira_cruzada",
    "lado": "esq"
   },
   {
@@ -94,7 +94,7 @@
    "ancora": "Ninguém dizia que o Kousuke tinha sorte de ter a mim",
    "frase": "Ninguém dizia que o Kousuke [[tinha sorte de ter a mim]].",
    "autor": "",
-   "ornamento": "ramo",
+   "ornamento": "oliveira_arco",
    "lado": "dir"
   },
   {
@@ -102,7 +102,7 @@
    "ancora": "Você tem certeza, ou você está cansada?",
    "frase": "Você tem certeza, ou você está [[cansada]]?",
    "autor": "KOUSUKE",
-   "ornamento": "relogio",
+   "ornamento": "oliveira_longa",
    "lado": "esq"
   },
   {
@@ -110,7 +110,7 @@
    "ancora": "Foi tudo ótimo, mãe",
    "frase": "[[Foi tudo ótimo]], mãe.",
    "autor": "",
-   "ornamento": "vinha",
+   "ornamento": "oliveira_cruzada",
    "lado": "dir"
   },
   {
@@ -118,7 +118,7 @@
    "ancora": "Não posso olhar minha filha?",
    "frase": "Não posso [[olhar minha filha]]?",
    "autor": "MINHA MÃE",
-   "ornamento": "ramo",
+   "ornamento": "oliveira_arco",
    "lado": "esq"
   },
   {
@@ -126,7 +126,7 @@
    "ancora": "consegue ensinar para qualquer um",
    "frase": "Se você conseguir ensinar para mim, [[consegue ensinar para qualquer um]].",
    "autor": "KOUSUKE",
-   "ornamento": "relogio",
+   "ornamento": "oliveira_longa",
    "lado": "dir"
   },
   {
@@ -134,7 +134,7 @@
    "ancora": "Para ela não ir embora",
    "frase": "Para ela [[não ir embora]].",
    "autor": "A MITY",
-   "ornamento": "vinha",
+   "ornamento": "oliveira_cruzada",
    "lado": "esq"
   },
   {
@@ -142,7 +142,7 @@
    "ancora": "Era um misto de paz com medo",
    "frase": "Era um misto de [[paz com medo]]. As duas coisas ao mesmo tempo, sem uma apagar a outra.",
    "autor": "",
-   "ornamento": "ramo",
+   "ornamento": "oliveira_arco",
    "lado": "dir"
   },
   {
@@ -150,7 +150,7 @@
    "ancora": "Eu posso ser forte e existir também?",
    "frase": "Eu posso ser [[forte e existir]] também?",
    "autor": "",
-   "ornamento": "relogio",
+   "ornamento": "oliveira_longa",
    "lado": "esq"
   },
   {
@@ -158,7 +158,7 @@
    "ancora": "do tamanho do meu corpo, sem tirar nada",
    "frase": "Eu senti o medo inteiro, [[do tamanho do meu corpo]], sem tirar nada.",
    "autor": "",
-   "ornamento": "vinha",
+   "ornamento": "oliveira_cruzada",
    "lado": "dir"
   },
   {
@@ -166,7 +166,7 @@
    "ancora": "Eu queria andar do lado",
    "frase": "Eu cansei de andar atrás. [[Eu queria andar do lado.]]",
    "autor": "KOUSUKE",
-   "ornamento": "ramo",
+   "ornamento": "oliveira_arco",
    "lado": "esq"
   },
   {
@@ -174,7 +174,7 @@
    "ancora": "só está se escondendo",
    "frase": "Pessoa orgulhosa acha que está se protegendo, e [[só está se escondendo]].",
    "autor": "MINHA MÃE",
-   "ornamento": "relogio",
+   "ornamento": "oliveira_longa",
    "lado": "dir"
   },
   {
@@ -182,7 +182,7 @@
    "ancora": "não pedia desculpa pelo tamanho",
    "frase": "Uma torre enorme, firme, que [[não pedia desculpa pelo tamanho]].",
    "autor": "",
-   "ornamento": "vinha",
+   "ornamento": "oliveira_cruzada",
    "lado": "esq"
   }
  ]
