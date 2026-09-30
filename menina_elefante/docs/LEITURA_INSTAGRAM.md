@@ -160,3 +160,37 @@ Os posts datados corrigem a linha do tempo deduzida da V1 (a Bíblia já foi atu
 20. Quem é Araci Yamanaka?
 21. A COVID grave foi em 2021? O food truck foi em 2021 (em que feriado)?
 22. Na volta de 2022, em que cidade da Alemanha ficaram retidos, e por quantos dias?
+
+## 8. Quinto envio (2020–2021): o que muda
+
+### Fatos novos
+| Fato | Fonte (nº) | Onde entra |
+|---|---|---|
+| **Aniversário: 8 de setembro.** Em 2021, passado em **Minna Island (Okinawa)**, de stand-up: "Quantas primeiras vezes em um só ano?" | 75 | Cap. 22: Okinawa em 2021 fica mais provável (a data exata do food truck ainda é pergunta). |
+| **Família no ramo ótico; ela se formou em optometria.** "O eu ideal pra mim, que sempre tive uma família no ramo ótico, era seguir carreira… me formei em optometria… só talvez não me completava." | 70 | **Parte II**: o trabalho de dia com a mãe era numa **ótica**; a faculdade de duas horas de ônibus era **optometria**. |
+| **A primeira empresa no Japão: Lumi Digital** (marketing digital, empresária individual), com o kaigyō todoke e o pedido de declaração azul entregues em **24/6/2021 na Receita de Kariya**. | 74 | Cap. 21: a cena concreta do "curso de marketing de R$ 8 mil que ninguém entendia". Ela sai dele com um carimbo. |
+| **Moravam em Hekinan (Aichi)** em 2021. Escola das filhas com uniforme de escola brasileira ("Escola Sementinha…"). | 68, 73 | Lugares da Parte V. |
+| **O Kousuke = @e.kounomia** em 2021; ela o chama de **"Momo"** numa carta de 2020: "Eu não faço a mínima ideia do futuro… ele me dá muito medo… prometo que não vou desistir". "Eu sou prática e você é totalmente complexo"; "às vezes tenho que voltar seus pés pro chão". | 63, 68, 76 | Caps. 21–22: o casal em 2020–2021, ele sonhador e ela prática. O inverso do que o leitor espera depois da V1 ("ela empurrou o curso nele"): os dois empurram, cada um de um lado. |
+| **Ayumi entra na 1ª série em fev. 2021** → nasceu por volta de 2015. A Mity (5º ano em 2024) nasceu por volta de 2014. **Corrige a inferência anterior** (a gestação da "super cama" não é necessariamente de 2016). | 59, 30 | Bíblia corrigida. |
+| **8 anos de casados em 2021** → casamento em 2013, confirmado. | 61 | — |
+| **"2020 começou com minha família 'inteira' comigo e terminou sem eles aqui."** | 57 | A mãe (e mais alguém?) morou com eles até 2020. A doença da mãe provavelmente foi em ~2019, e a volta dela ao Brasil, em 2020. |
+| **Hokkaido, jan. 2021**: neve demais; ela tem medo, deixa o Kousuke dirigir, depois pega o volante. | 62 | Cap. 21, ou uma linha no 22. Eco com a neve de Paris (cap. 15). |
+| **Primeiro bungee: 30/11/2020** (o de 50 m). "Já pulei de paraquedas, de skycoaster, já desci tirolesa… bungee é diferente, é só você e seu medo." "Dez anos atrás talvez eu tivesse mais amigos." | 77, 56 | Cap. 21: o primeiro dos saltos da vida adulta, no ano mais incerto. |
+| **Namoro desde ~2005** ("há mais de uma década… dez, quinze anos atrás", em 2020). | 76 | Cap. 11: o namoro começa quando ela tinha ~16–17, no meio da crise do pai. |
+| "Terapia do dia: escutar a Nat" (mar. 2021). | 65 | Quem é a Nat? Antes da terapia de 2024 houve algum acompanhamento? |
+
+### Eixos novos
+29. **Enxergar.** A mulher que estudou como os outros enxergam e passou anos sem se enxergar. O livro tem na mão uma imagem pronta, e **não pode dizê-la**. Basta pôr em cena a sala escura do exame de vista, a tabela de letras que diminuem e a Luciana medindo o grau de um cliente enquanto não sabe o próprio.
+30. **Eu ideal × eu real.** "Zerei a vida depois que percebi que meu eu ideal não fazia sentido pro que era meu eu real… a pessoa que as pessoas idealizam pra gente, que nossos pais esperam" (70). É o "personagem" do cap. 1 dito por ela em 2021, três anos antes da terapia.
+31. **O palco e o bastidor.** "Muitas pessoas conseguem ver meu palco mas não fazem ideia dos meus bastidores" (77, e de novo em 21 e 31). O livro é o bastidor. Isso ajuda a justificar o tom sem pose.
+32. **Mais amigos aos 20.** "Dez anos atrás talvez eu tivesse mais amigos" (77). Confirma a V1 (cap. 20, a perda dos amigos) e dá peso à "mesa" de 2026.
+33. **O peso nas costas dos outros.** "Chega um tempo na vida que deixamos de colocar o peso nas costas dos outros" (jan. 2021, 58): ela escreve isso meses depois de ter posto nele o curso de investimentos (V1 cap. 49). Contradição humana, boa para o cap. 21, sem comentário.
+
+### Perguntas novas
+23. A ótica era da mãe, do pai ou dos dois? Qual era o nome? Ela trabalhava no balcão, no exame de vista, na montagem?
+24. Em que cidade e faculdade ela fez optometria, e em que anos?
+25. Onde foi o primeiro bungee (nov. 2020)? E o skycoaster e a tirolesa de antes?
+26. A mãe voltou ao Brasil em 2020? Quem mais da família estava com eles no começo de 2020?
+27. O que era o @e.kounomia (o curso de investimentos do Kousuke)?
+28. Quem é a Nat?
+29. Qual é o nome completo da escola das meninas ("Escola Sementinha…")?

@@ -1476,3 +1476,281 @@ Comentário do **@alan_kousuke_easyhouse**:
 > E conforme vc vai conhecendo o caminho, ele se torna familiar, fácil, sem surpresas...
 >
 > #done #encarandomeusmedos #superacao #desafio
+
+---
+
+# Quinto envio (30/09/2026) — 2020 e 2021
+
+## 57. Último texto de 2020 — "Ano novo"
+> Ano novo"
+> Como tudo na vida, algo precisa acabar para algo novo começar.
+> Fechar ciclos, começar novos melhores. Espero que 2021 seja repleto de começos e fins. Fim da espera, da incerteza, de planos não cumpridos, para muitos novos começos! E que sejamos capazes de começar e não terminar até que esse processo seja de evolução, de crescimento.
+> 2020 pra mim foi um ano especial, apesar das adversidades, foi um ano de muito crescimento. Começou com minha família "inteira" comigo e terminou sem eles aqui. Crescer é isso, amadurecer, perceber que nem sempre estar sozinho, significa ser sozinho. É entender que pessoas importantes vão sempre estar presentes, e são elas que nós fazem ultrapassar a linha de chegada!
+> A única certeza que temos é de que o tempo passa, e não há nada que possamos fazer a não ser aproveita-lo.
+> Happy New Year!
+>
+> "Espalhe amor, seja amor
+> No caminho, uma flor tem valor mesmo se tiver espinhos
+> Traga paz, viva em paz, ta tudo bem
+> Seja capaz de provocar algum sorriso no rosto de alguém
+> E se a vida te convida pra dançar num ritmo descontrolado, injusto
+> Respire fundo
+> Deixe o seu coração de janela aberta
+> Deixa ser, desperta
+> Sinta o gosto do muito ou do pouco
+> Se entrega, pode ir sem pressa
+> Viver é mesmo assim, com o tempo tudo se acerta"
+
+## 58. O peso nas costas dos outros — janeiro de 2021
+> Chega um tempo na vida que deixamos de colocar o peso nas costas dos outros, e começamos a entender que o peso das nossas vidas, dos nossos projetos, dos nossos sonhos, dos nossos propósitos, só dependem de nós mesmos.
+> Agente entende a importância de sermos protagonistas, de termos a vida em nossas mãos e poder fazer dela o que agente quiser.
+> E só assim agente percebe que não importa pular ondas no ano novo, vestir a roupa com a cor desejada, fazer promessas, se tudo depende só de nos mesmos. Olhar pra trás é tão importante quanto olhar pra frente, buscar na bagagem do passado o que agente precisa pra olhar e ir em frente.
+> Esse ano espero que EU seja melhor! Por mim e pra mim, e nunca pela expectativa do que as pessoas esperam de mim..
+
+## 59. Formatura da Ayumi — fevereiro de 2021 (#primeiraserie #formatura #ayumi)
+> Pisquei e ela cresceu!
+> Ver ela crescendo me trás um sentimento que a vida tá indo, tá acontecendo e que o tempo tá escorrendo sobre as minhas mãos.
+> Filhos são a prova de que vivemos em mudanças, e que mudar é possível.
+> Mudar de ideia, mudar de postura.
+> Quando eles nascem estamos ansiosos para crescerem logo, para partilharmos das descobertas, o primeiro passo, a primeira palavra, estamos tão ansiosos que queremos que o tempo passe logo, porém não somente por essa ansiedade de descobrir o novo, mais também porque estamos exaustos, cansados, pensamos que crescendo quem sabe eles dormirão mais, chorem menos.
+> E aí que eles crescem, vão para primeira série, e agente fica novamente nesse dilema de crescer, aí percebemos que o tempo passou rápido demais e queremos que ele vá mais devagar.
+> Tô vivendo esse momento: "tempo vai mais devagar por favor?"
+
+## 60. Construir, desconstruir, reconstruir — fevereiro de 2021 (#construcao #casa #caminho)
+> Construir, desconstruir, reconstruir.
+> Definitivamente são fases que vivemos, e não só vivemos como "temos" que viver.
+> Estamos constantemente construindo, desconstruindo e em seguida reconstruindo de novo.
+> Só não damos conta muitas vezes, em que processo agente se encontra, e aí tendemos a não entender o porque de um problema, o porque de uma alegria.
+> Fazendo uma analogia: a vida é uma casa.
+> A construção de uma casa é demorada, custa muito dinheiro, cansativa, estressante, porém assim que ela acaba vem a alegria: alegria de concluir algo que pra nós é importante, alegria de conseguir finalizar um projeto, porém precisamos da construção pra poder ter a casa, mais não para por aí, a casa vai ficando velha e temos que reavalia-la, e aí descobrimos que o que nos completava quando ela ficou pronta não faz mais o mínimo sentido. E aí entramos em uma nova fase: a reconstrução! Mais ela é necessária, ela vem de novo com a demora, o custo, o cansaço, o estresse.
+> Pq a vida é realmente isso, um ciclo, e devemos estar sempre em busca de onde estamos, pra podermos saber; para onde vamos!
+
+## 61. 8 anos de casamento — 2021
+> Case com alguém que te queira a longo prazo!
+> Fazendo uma simples analogia ao mercado, casamento é realmente isso, uma ação de uma empresa totalmente conceituada, pelo qual existe uma reputação clara, e uma expectativa de futuro.
+> Nada mais nada menos que o casamento, nele agente analisa demais a oferta, antes mesmo de adquiri-la, ficamos atentos se a outra pessoa tem os mesmos trejeitos, traços de personalidade, se o propósito dela casa com o nosso próprio propósito. Enfim preenchemos uma lista imensa, antes mesmo de decidir comprá-la, até porque você estará fazendo o aporte de todo ou quase todo seu patrimônio. Ao efetuar o aporte, ou concluir o casamento. A empresa/casamento passa por muitos momentos ao longo dos anos, ela passa por dificuldades financeiras, dificuldades administrativas, que fazem com que o gráfico dela não seja linear, porém, se a escolha foi feita baseada em fundamentos, a chance da empresa quebrar são poucas.
+> Logo chegam os filhos, chamados no contexto financeiro de: dividendos, e esses dividendos se transformam em juros compostos, a considerar que, filhos só multiplicam alegrias ao passar dos anos.
+> A escolha do casamento está certamente vinculada a escolha de uma boa ação, por mais que ela seja variável, tendemos acreditar que a longo prazo só nós trarão ganhos.
+>
+> Feliz 8 anos de casamento!
+>
+> Luciana Watanabe .
+
+## 62. Dirigindo na neve em Hokkaido — fevereiro de 2021 (sobre a viagem de janeiro)
+> "Tudo é difícil até se tornar fácil."
+> Engraçado como agente não entende essa frase, até se dar conta de estar vivendo ela.
+> Mês passado fiz uma viajem pra hokkaido, tudo lindo e dentro do roteiro até chegar e me deparar com muita neve, mais quando digo muito é muito mesmo. Fomos do aeroporto direto para locadora de carros, onde já havíamos feito reserva, meu marido pegou o carro, e de primeira nos deparamos com a dificuldade de dirigir em meio a tanta neve, o carro derrapa, dança, enfim, eu olhava ele dirigindo e os carros ao lado como se não existisse aquela neve toda no chão. A princípio fiquei com medo, e imaginei, melhor deixar ele dirigir, vai que né? No entanto, peguei o carro e pra minha surpresa, realmente é difícil até se tornar fácil, o medo é algo que não nos deixa agir, não nos deixa sentir, não nos deixa seguir, porém se enfrentarmos ele, em alguns segundos de gigante ele se torna pequenininho. Acredite, tudo só é difícil até se tornar fácil!
+
+## 63. Carta ao "Momo" — março de 2021 (retomando um texto de 2020)
+> Ano passado te escrevi as seguintes palavras:
+>
+> Momo... Eu não faço a mínima ideia do futuro.
+> Na verdade ele me dá muito medo, a única certeza que eu tenho é que se estivermos juntos, tudo vai dar certo! Como sempre deu ne?! Olho pra trás e vejo que grande parte ou quase todas as dificuldades que tive ou passei vc estava comigo, e por isso talvez eu tenha essa convicção de que temos que estar juntos.
+> Acredito que mesmo não fazendo ideia do futuro vamos olhar pra tras mais pra frente e nos orgulhar de estarmos juntos! Prometo que não vou desistir, e que vamos descobrir juntos o que vai nos levar a cumprir nossos objetivos!
+> "Te amo! Obrigada por ser você, pra mim!"
+>
+> Acredito que hoje, estamos no caminho! No caminho pro futuro! Futuro? Ao passo que agente vai vivendo ele se torna presente! A 10 anos atrás o futuro era o que agente vive hoje, e posso te afirmar, não tínhamos a menor ideia do futuro de 2021 em 2011, não fazia ideia que viria duas princesinhas pra alegrar nosso caminho.
+> Só consigo ter ainda a certeza, de que o futuro depende mesmo do presente! E que o que for pra acontecer, tá acontecendo pq no futuro vai fazer sentido! Só depende de estar fazendo sentido no presente!
+>
+> Passado, presente, futuro!
+
+## 64. Precisar de si mesmo — março de 2021
+> Entender que precisamos de pessoas, nos torna humanos.
+>
+> Porem, mais importante que precisar de pessoas, é conseguir precisar de si mesmo!
+>
+> Viver é prestar atenção constantemente nos sinais que a vida da.
+>
+> Acreditar em algo não é simplesmente acreditar que vai dar certo, mas sim ter coragem de bancar algo que possa dar errado, acreditar é se colocar em movimento, não adianta acreditar sem se pôr em ação, sem se expor ao desconhecido, sem enfrentar medos.
+>
+> Acreditar, diz muito sobre bancar todas as possibilidades de fracassos e ainda assim achar que valeu a pena!
+>
+> EU escolho acreditar!
+
+## 65. "Terapia do dia: escutar a Nat" — março de 2021
+> Terapia do dia: escutar a Nat! "Pará dar nome as coisas" Até parece que eu me escuto, escutando ela...
+> Me veio à cabeça que hoje eu tô denovo aberta ao mistério! De lembrar da Luciana de 20anos!
+>
+> Aos 20 anos, o mistério faz parte da nossa vida, agente não sabe do futuro, mas mesmo assim não sente medo, agente só vive, e conforme vamos crescendo, agente quer tudo tão concreto, tudo tão certeiro, que acabamos esquecendo de viver a vida! Agente cria planos, planos que não podem fugir do óbvio, planos que são feitos em cima de uma possível possibilidade, porque trabalhar com o impossível é inaceitável! Aos 20 anos o mistério tá presente, agente não sabe o que vai ser depois da faculdade, qual emprego vamos entrar, se vamos casar, se vamos ter filhos.
+> Conforme a vida vai acontecendo a vida para de ser um mistério! Agente termina a faculdade, arruma um emprego, namora casa, tem filhos, e aí tudo se torna previsível. E acabamos escravos dessa previsibilidade, a princípio ótima, pois queremos ter controle de nossa vida, sendo previsíveis o controle realmente está em nossas mãos. Ao passo que agente vai crescendo, agente risca tudo que não é conhecido, tudo que exige algum risco. Agente risca tudo que pode nos magoar, nos chatear. Agente acaba caindo no achismo de que quanto mais familiar forem as coisas menos riscos elas nos trariam. Por outro lado o controle estreita completamente os nossos caminhos. As vezes agente fecha a janela para o mundo, para o mistério pq tudo que agente quer é não sofrer.
+> Esses dias o mistério se apresentou denovo pra mim!
+> E eu tô de portas abertas pra ele...
+
+## 66. "Crescer é aprender a bancar quem você é" — abril de 2021
+> Crescer é aprender a bancar quem você é...
+> Agente esconde quem agente é, na falsa sensação de que escondendo nossa parte frágil, as pessoas vão gostar mais de nós, as pessoas vão nos admirar, ledo engano, porque todo mundo no fundo é igual, todo mundo no fundo é vulnerável, todo mundo no fundo, procura alguém que diga eu também, pra poder se apoiar.
+> Acontece que ao aceitar que temos essa metade vulnerável, essa metade fraca, ou agente sustenta ser quem é, ou o mundo nos devora com o modo de como ele quer que sejamos, quem não sente que a cada não ouvido se sentiu menor? Que a cada crítica recebida se sentiu incapaz?
+> Bancar quem se é diz respeito a ser 100% quem se é, porque no fim você pode ser os 50% legal, divertido, responsável, amigo e ainda assim estar sujeito a receber "não" receber "críticas" ou você pode escolher ter coragem! E continuar sendo quem você é... e continuar bancando 100% quem você é...
+> Porque no fim.. só você sabe o porque de tal atitude, só você sabe o porque de tal caminho, o porque de tal escolha, e se esse caminho, essa escolha estão de acordos com quem você é, eu diria.... segue em frente!
+
+## 67. Café e pipoca — abril de 2021
+> Dias frios e chuvosos, pedem café quentinho e pipoca.
+>
+> Duas coisas que sem sombra de dúvidas animam meu dia nublado.
+> Entender limites, saber lidar com ruas sem saída, caminhos com barreiras, enfim, respirar de vez em quando.
+> Entender que se sentir perdida não é estar perdida de fato, se sentir perdida talvez seja somente um sintoma pra poder se achar.
+> Desistir de achar um caminho talvez seja realmente a real forma de se estar perdida! Porém conforme vamos caminhando novos caminhos se abrem, novas oportunidades, basta você estar preparado e presente quando isso acontecer.
+> Então hoje o dia amanheceu assim, frio e chuvoso e eu me dei conta que isso é estar presente, perceber nossas necessidades, supri-las e as vezes não ser assim tao duro com nos mesmos. Ao vezes ao nos depararmos com a rua sem saída, agente não acha solução, porque justamente não estamos presentes com nos mesmos, e não conseguimos enxergar que o que precisamos, é so desacelerar um pouquinho e nos dar ao luxo de nos mimar um pouquinho!
+
+## 68. "Somos opostos" — Hekinan, 7 de junho de 2021 (para @e.kounomia)
+**Vídeo:** imagem de drone de um quebra-mar de pedras entrando no mar, em Hekinan (Aichi); uma figura pequena sentada nas pedras.
+
+> Como sempre digo... somos opostos, porém opostos que se completam...
+> Você já diria diferente né? Outro dia mesmo você me disse que parceria vem do latim "pedaço de" e "parte de". Parceria ocorre quando uma pessoa faz "parte" da outra ...
+>
+> Ou seja, eu sou prática e você é totalmente complexo...
+> Mas é uma complexidade boa..
+> Nós achar no meio dessa diferença toda é o que sempre foi um desafio muito desafiador!
+> Encontrar caminhos que mesmo diferentes se conectam em um cruzamento ou outro...
+>
+> A parceria do casamento se fez a anos atrás.
+> Casamento é construção, porém é construção que não acaba.
+> Não é uma simples obra de uma casa, que tem começo meio e fim, é uma construção infinita, com começo mas sem fim.
+>
+> Escolher que essa parceria fosse também no âmbito profissional, não foi fácil, a diferença que nos completa é também a que causa atritos. Porém acredito que não existam começos fácies pra finais incríveis.
+>
+> Construção é isso, é saber que pra cada etapa que você vá passar, você vai passar por desafios, medos, dores, mais que lá na frente vai valer a pena!
+>
+> Obrigada por ser meu parceiro! Obrigada por ingressar nos meus sonhos mais malucos, por acreditar e não desistir!
+>
+> Tô orgulhosa demais!
+> @e.kounomia
+
+## 69. "Sobre voar" — aeroporto, 8 de junho de 2021
+**Foto:** no saguão de um aeroporto, de máscara, chapéu de palha com fita preta, blusa xadrez e calça branca larga, com uma mala de rodinha rosa-choque. Nos comentários: "não tem nada melhor que viajar com a família".
+
+> Sobre voar, decolar, sair do chão.
+> É fato de que o avião precisa usar toda potência do motor pra poder voar, decolar, fazendo uma analogia a vida, ela é exatamente assim: precisar de uma força fora do comum pra decolar, porém essa força, essa potência está dentro de nós, só precisamos aprender a pilotar, aprender a conduzir a aeronave. Uma vez que saímos do chão, que chegamos no céu, o voo se torna mais tranquilo, mais fácil, porém o voo ainda não acabou, e ainda teremos turbulências no trajeto. Ao chegarmos ao destino, o pouso também é difícil, também requer cautela e cuidado. E quando nós deparamos com o solo, as vezes resolvemos voar novamente!
+> Viver é sempre querer alçar voos maiores!
+
+## 70. "Zerei a vida" — junho de 2021
+> Zerei a vida!
+> Zerei a vida depois que percebi que meu eu ideal não fazia sentido pro que era meu eu real.
+>
+> As vezes me pego querendo ser a pessoa ideal, aquela que a gente idealiza, que as pessoas idealizam para a gente, que nossos pais esperam que sejamos, mas infelizmente a vida acontece em um eterno looping de mudanças, de altos e baixos, e nunca em uma constante!
+>
+> Aceitar que o EU ideal nunca aconteceria, nunca seria possível, que essa pessoa não existe é um processo.
+>
+> Estar aberto ao processo é uma escolha, o Eu ideal pra mim que sempre tive uma família no ramo ótico era talvez seguir carreira, foi então o que eu fiz, me formei em optometria, e não vou dizer que não gosto, é uma profissão que admiro muito, só talvez não me completava, não me fazia querer ir além, crescer é isso descobrir, redescobrir, errar, concertar o erro, errar de novo, pegar caminhos errados, atalhos que ao invés de encurtar prolongam a caminhada.
+>
+> É isso, definitivamente é isso. Viver é estar sempre aberto ao erro, ao que pode dar errado, claro que sempre buscando o acerto.
+
+## 71. "Recomeço" — junho de 2021
+> Recomeço: ato ou efeito de recomeçar; ato ou efeito de começar novamente; reinício.
+>
+> Recomeçar diz mais sobre você do que da proposta em si...
+>
+> Recomeçar, diz sobre ter coragem e peito pra bancar um novo possível fracasso, o que acontece é que vamos ficando engessados a cada queda, agente só recomeça algo que não deu certo, e então porque recomeçar se não deu certo? Pra poder dar a chance de dar certo!
+>
+> Novos começos mesmo que pequenos exigem coragens enormes.
+>
+> Recomeçar é também acreditar!
+> É não desistir!
+>
+> É persistir!
+>
+> Recomeçar é um ato de coragem que você faz a si mesmo.
+>
+> É se colocar a frente de tudo e de todos.
+>
+> É realmente ser narcisista e acreditar que você pode!
+>
+> Até porque essa decisão cabe a você e mais ninguém.
+
+## 72. "Pra toda ação uma reação" — junho de 2021 (o stand-up)
+> Pra toda ação uma reação!
+>
+> Acordei hoje com o corpo todo dolorido, é tipo quando a gente faz academia a semana toda e aí as pernas doem de ter feito musculação…
+>
+> Engraçado como me deparar comigo hoje, é tão diferente de me lembrar de mim aos 20…
+>
+> Aos 20 nada causa medo, a gente é jovem e acha que é dono do mundo, que o mundo nos deve tudo, e nós não devemos nada a ele. Aos 20 pular de paraquedas no máximo nós causa um frio na barriga, que óbvio não chega nem perto de ser medo…
+>
+> Hoje passado dos 30, me vejo com medo de tudo, medo de saltar de bungee jump, medo de dirigir na neve, medos que vão de algo que muitos diriam serem realmente medos até medos bobos sem sentido!
+>
+> Crescer dói e da trabalho.
+>
+> Se movimentar então?
+>
+> Acordei assim com todas essas dores, por N motivos, talvez pq realmente depois dos 30 nossos músculos não funcionem mais como aos 20.
+>
+> Ou então só porque definitivamente toda ação tem uma reação.
+>
+> A falta de medo que eu tinha aos 20 ao entrar no mar, nadar até o fundo, hoje em cima do standup me veio como algo talvez apavorador, e se eu cair? E essas pedras todas aí na água? Tenho duas filhas.
+> Nossa cabeça claro, nós guia de uma forma que nos faça pensar somente em sobrevivência, e não tá errada, claro que temos que ter cautela, mas se não passamos por cima dos medos eles nos impedem de viver coisas incríveis.
+>
+> O que realmente causa a reação?
+>
+> O fato de usar a musculatura pra realizar o esporte? A tensão causada pelo medo? A idade? São realmente N motivos que nos levam a N reações… por isso a sua reação diz respeito a 100% de tudo que você é… logo ninguém nunca vai ter a mesma reação que você!
+>
+> E acredito, que só está disposto a encarar os medos, quem também está disposto as reações que a vida nos reserva.
+
+## 73. "Mãe de duas" — Hekinan, 16 de julho de 2021 (#mae #maedemenina #maededuas)
+**Foto:** em casa, deitada numa boia gigante de unicórnio com as duas filhas: uma de cabeça para baixo, de uniforme com o logotipo de uma escola ("Escola Sementinha…", parcialmente legível), fazendo careta; a outra, de franja, abraçada ao pescoço da mãe.
+
+> Sabe aquele misto de sensações/sentimentos misturados?
+>
+> Definitivamente a definição perfeita pra ser mãe.
+>
+> Você ama e sente orgulho no mesmo segundo em que perde os sentidos e se vê gritando, apavorada, sem acreditar, que o mesmo serzinho possa te fazer ter sentimentos tão contrários ao mesmo tempo.
+>
+> Ser mãe é viver em mudanças, é viver se culpando, é viver se cobrando.
+>
+> Em contrapartida, do outro lado, ser mãe é nunca mais estar sozinha (pois é, nem pra ir ao banheiro rs), é ter um dia melhor só de receber o sorriso dos nossos filhos, é criar forças de onde não existe por saber que não é mais só você!
+
+## 74. A primeira empresa no Japão — Hekinan, 17 de julho de 2021 (para @e.kounomia)
+**Foto/vídeo:** dois formulários japoneses sobre a mesa, com o carimbo de recebimento da **Receita (税務署) de Kariya**, datados **3.6.24** (Reiwa 3 = 24 de junho de 2021): o **個人事業の開業・廃業等届出書** (kaigyō todoke, a comunicação de abertura de atividade como empresária individual) e o **所得税の青色申告承認申請書** (pedido de aprovação da declaração "azul" do imposto de renda). Nome: WATANABE YAMANAKA LUCIANA LUMI; ramo: DIGITAL MARKETING; nome comercial: **LUMI DIGITAL**.
+
+> Talvez mais difícil do que se expor a algo novo, é deixar algo velho pra trás.
+>
+> A gente se acostuma tanto a viver de uma determinada forma, maneira, sistema, que quando nos damos ao luxo de nos expor ao novo não é exatamente ele que nos assusta, até porque ele é realmente desconhecido, tenho a impressão que, o que realmente nos assusta é deixar um passado, uma bagagem pra trás.
+>
+> Crescer é pender o tempo todo entre o passado e o futuro, só que nesse balanço de olhar pra trás e pra frente o tempo todo acabamos não damos conta de que o presente está no agora.
+>
+> Tive essa impressão quando parei pra prestar atenção no meu agora...
+>
+> E pensando no agora, voltei de novo no passado, e me dei conta que sem viver o presente, estava esquecendo de ser grata a pequenas conquistas, que quando não percebidas são pequenas, mas que quando percebidas vemos o quanto são grandes!
+>
+> Não foi hoje, não foi ontem, e nem antes de ontem que dei início a inúmeras mudanças. Só que foi hoje que pude percebe-las...
+>
+> Minha primeira empresa aberta aqui no Japão.
+>
+> Óbvio que estamos o tempo todo nos auto sabotando, acreditando que pequenas conquistas não contam, quando no fundo elas são enormes....
+>
+> Olhar pro presente, estar no presente, viver o presente me fez enxergar a quão sortuda eu sou de mesmo em pequenas conquistas poder juntá-las e acreditar que são enormes!
+>
+> Obrigada @e.kounomia por me apoiar sempre e estar sempre ao meu lado!
+
+## 75. Aniversário em Minna Island (Okinawa) — 7 de setembro de 2021 (#maisumano #aniversary #08desetembro #ficandovelha)
+**Foto:** selfie de cima, em pé numa prancha de stand-up sobre água azul-turquesa e rasa, com pedras e corais no fundo; roupa de mergulho preta de manga longa, óculos escuros, batom vermelho; um chapéu de palha e o remo sobre a prancha.
+
+> Quantas primeiras vezes em um só ano?
+>
+> Muitaaaas e espero que venham mais um monte, porque definitivamente a vida é feita de novidade, de novos momentos, novas descobertas, novas conquistas e porque não novos fracassos também...
+>
+> Mais um ciclo se fechando... e definitivamente só tenho agradecer, agradecer tanto os bons momentos, como os não tão bons também, que na verdade são os que moldam quem vamos ser no futuro...
+
+## 76. Valentine's Day — 15 de fevereiro de 2020
+**Foto:** selfie do casal diante de um templo de pagode vermelho e laranja, pinheiro e lanternas de pedra; ele de camisa azul, ela de batom vermelho e casaco caramelo.
+
+> Happy Valentine's Day!
+> A mais de uma década você é meu Valentine! E a dez... quinze anos atrás não imaginaria o que seríamos hoje.. acredito que você também!
+> Agradeço por ter me dado o que tenho de mais importante na minha vida que são minhas princesinhas e por sempre sonhar comigo! Aliás sonhar e com você mesmo né? As vezes tenho que voltar seus pés pro chão rs...
+> Obrigada por ser esse pai sem igual... por cuidar da gente e ser sempre tão presente!
+> Amo você!! "Se alguém já lhe deu a mão e não pediu mais nada em troca.. pense bem... pois é um dia especial... eu sei não é sempre que agente encontra alguém... que faça bem... que nos leve desse temporal..."
+
+## 77. "MEDO" — o primeiro bungee, 30 de novembro de 2020
+**Vídeo/fotos:** encosta de morro ao entardecer, céu azul com poucas nuvens, uma estaca listrada de laranja em primeiro plano (a plataforma?). Carrossel de 10 imagens.
+
+> MEDO
+> Quando agente é pequeno o medo é do escuro, de filme de terror.
+> Agente vai crescendo e "perdendo" esse medo.
+> Pular de bungee jump hoje aterrorizador talvez a dez anos atrás eu tiraria de letra, não teria medo algum, porém hoje dez anos mais velha, com família, filhas, o medo é aterrorizador.
+> Já pulei de paraquedas, de skycoaster, já desci tirolesa... porém bungee jump é diferente, é só você e seu medo, você quem tem que tomar coragem e pular, vc que tem que enfrentar sozinha o medo.
+> Talvez a dez anos atras eu tivesse o mesmo medo, porém também, a dez anos atrás eu não entendesse a importância de superar meus medos, de acreditar que eu tenho que ir com medo mesmo. Lá em cima o medo paralisa, porém a coragem te move e te faz seguir.
+> Olho pra quem eu fui a dez anos atrás e vejo um longo percurso, sei que muitas pessoas conseguem ver meu palco mais não fazem a minima ideia dos meus bastidores, porém, hoje consigo entender o porquê desse caminho todo.
+> A dez anos atrás, talvez eu fosse mais corajosa, tivesse mais amigos, fosse mais destemida, e talvez hoje eu seja completamente diferente, porém me orgulho de quem eu era, pois é quem me fez ser quem eu sou.
+> Pular de bungee jump é amedrontador porém olhar pra baixo e saber tenho pessoas que acreditam, torcem e vão sempre estar ao meu lado, me faz ir em frente!.
+> E ir em frente é, e vai sempre ser, o melhor caminho, não importa a velocidade que você vai, só siga em frente!
+>
+> ❤️❤️❤️

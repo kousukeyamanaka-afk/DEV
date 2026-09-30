@@ -61,7 +61,7 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 
 **9 — Meia-noite** · ~1.500 · V1 caps. 14–15, 18
 - Separação; o pai deprimido, se afasta, se muda. Ela assume.
-- A rotina: de dia, trabalho com a mãe; à noite, faculdade em outra cidade, mais de duas horas de ônibus; perto da meia-noite, a casa do pai: cozinha, deixa comida, organiza. Todo dia.
+- A rotina: de dia, trabalho com a mãe **na ótica** (IG 70); à noite, **faculdade de optometria** em outra cidade, mais de duas horas de ônibus; perto da meia-noite, a casa do pai: cozinha, deixa comida, organiza. Todo dia.
 - O pai quer que ela não venha (ou quer que venha e não pede). A mãe quer que ela não vá.
 - Final em imagem (a panela, o bilhete, a luz da cozinha do pai).
 
@@ -127,19 +127,26 @@ Os números entre parênteses ("V1 cap. 10") indicam onde estão, em `referencia
 **20 — O olhar dela** · ~1.600 · V1 caps. 41–44
 - Uma semana depois: nova biópsia; o médico diz que errou; estágio inicial; tratamento (imunoterapia: conferir se o termo é o correto para o caso).
 - Todos os dias no hospital. O modo como a mãe passa a olhar para ela: admiração, orgulho. Ela se vê pelos olhos da mãe. Mostrar num gesto, não em explicação.
-- Remissão. A mãe volta para o Brasil; no aeroporto ou depois, a primeira crise de ansiedade; as filhas sentem a falta da avó.
+- Remissão. A mãe volta para o Brasil (**em 2020**: "começou com minha família inteira comigo e terminou sem eles aqui", IG 57); no aeroporto ou depois, a primeira crise de ansiedade; as filhas sentem a falta da avó.
 - Final em imagem.
 
 ## Parte V — Mais de um milhão (~2019–2022)
 
 **21 — Oito mil reais** · ~1.600 · V1 caps. 46–50
 - Cinco anos de fábrica, **(IG)** "um ano vivido várias vezes": o mesmo dia repetido (mostrar com um objeto ou um horário que não muda). O Kousuke estuda importação de calçados (couro do Brasil: caro e cheio de barreira). Ela compra um curso de marketing digital de R$ 8 mil. Ninguém no Japão acredita.
-- Ela transforma a vontade dela na responsabilidade dele: um curso de investimentos do Kousuke. Ele entra por ela, sem querer muito.
+- Ela transforma a vontade dela na responsabilidade dele: um curso de investimentos do Kousuke (**@e.kounomia**?). Ele entra por ela, sem querer muito.
+- **(IG)** 2020–2021, em cenas:
+  - a carta ao "Momo" ("eu não faço a mínima ideia do futuro… prometo que não vou desistir");
+  - a neve de Hokkaido (ela com medo, deixa ele dirigir, depois pega o volante);
+  - "somos opostos: eu sou prática, você é complexo", e a parceria que vira também profissional;
+  - "zerei a vida": largar a optometria;
+  - **24 de junho de 2021, a Receita de Kariya**: ela entrega o kaigyō todoke da **Lumi Digital**, a primeira empresa dela no Japão, e o carimbo de recebimento na folha.
+- Precisão: kaigyō todoke (個人事業の開業届) e aoiro shinkoku (青色申告承認申請書) na Receita (zeimusho) de Kariya, que atende Hekinan. O autor confere a descrição.
 - 40 dias de gravação; saem da fábrica sem plano B; o lançamento não é um desastre, mas não sustenta.
 - Final em fala ou gesto.
 
 **22 — Okinawa** · ~1.500 · V1 caps. 51–53
-- O food truck; mais de um milhão em empréstimos (ienes: confirmar valor e tipo de empréstimo); "Agora vai." Uma semana antes do feriado, a nova onda; tudo fecha.
+- **(IG)** Jun.–set. de 2021 (?): o voo em família com a mala rosa; o stand-up sobre as pedras, "e se eu cair? Tenho duas filhas"; o aniversário de 33 anos em Minna Island (8/9). O food truck; mais de um milhão em empréstimos (ienes: confirmar valor e tipo de empréstimo); "Agora vai." Uma semana antes do feriado, a nova onda; tudo fecha.
 - A praia de graça; as filhas; o tempo parado.
 - Final em imagem, sem "às vezes é pausa".
 
