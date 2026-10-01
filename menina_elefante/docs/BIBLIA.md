@@ -76,7 +76,7 @@ Tudo o que está marcado **(V2)** foi criado na reescrita e precisa ser confirma
 - **Débora (V2, pseudônimo)**: centro do grupo dos populares no ensino médio; chapinha, celular de flip; pede "Faz a Cíntia".
 
 ## Lugares
-- **Cidade da infância**: no Brasil, **a confirmar** (a V2 não nomeia). A escola, a casa com quintal e cachorro, a sala onde a mãe estava com os tios no dia do infarto.
+- **Cidade da infância**: **Jacareí (SP)** (confirmado, 01/10/2026); o Bunkyo, a associação japonesa, o "kaikan". A escola, a casa com quintal e cachorro, a sala onde a mãe estava com os tios no dia do infarto.
 - **A faculdade**: em outra cidade, a mais de duas horas; ela chegava perto da meia-noite.
 - **A casa do pai depois da separação**: a V2 a descreve pouco até a confirmação.
 - **Japão**: em 2021 moravam em **Hekinan (Aichi)** (IG 68, 73, 74; a Receita de Kariya atende Hekinan); em 2026, região de Minokamo (Gifu)? (IG 14). Escola das filhas: brasileira ("Escola Sementinha…", IG 73; confirmar o nome). Banco de Nagoya: a agência da primeira conta, em frente a um danchi (IG). Fábrica (primeira ida e segunda ida); o hospital da mãe; Okinawa (food truck e praia); a casa de 2024.

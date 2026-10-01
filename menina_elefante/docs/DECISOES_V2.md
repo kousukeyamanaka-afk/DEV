@@ -50,7 +50,7 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - **Cap. 26**: **o motivo da terapia é a Ayumi na porta da cozinha** e a frase "não chama a mamãe, ela está trabalhando".
 - **Cap. 27**: no carro, a caminho do salto, a ideia da empresa nova e o "Acho que você já decidiu".
 - **Cap. 28 (reescrito)**:
-  - **a sala comercial alugada sem avisar** e o contrato achado no porta-luvas;
+  - ~~a sala comercial alugada sem avisar e o contrato achado no porta-luvas~~ → **corrigido (01/10/2026): ela não alugou a sala**; ele acha na impressora a folha com o organograma da empresa que ela queria montar (times de marketing e comercial, salários, o preço de uma sala que ela foi ver), feita sem contar a ele;
   - **"Eu cansei de andar dez passos atrás de você"** (o limite do Kousuke) e o travesseiro no sofá;
   - **a visita ao pai** (aprovada pela autora em 30/09/2026): o apartamento térreo, a caneca de asa colada, o vídeo do bungee, "Puxou a minha mãe", "Eu passei trinta dias num monte. Lá ninguém dizia que estava tudo ótimo", "deixa ela falar";
   - **"Mãe sabe"** (aprovado pela autora em 30/09/2026): a mãe ouviu o médico falando japonês com a enfermeira no quarto e sempre soube da mentira do "Foi tudo ótimo";
