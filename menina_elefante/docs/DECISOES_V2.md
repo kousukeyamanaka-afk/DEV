@@ -168,3 +168,11 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - **A cidade na Alemanha**: não é nomeada.
 - **A ajuda dos amigos** (o saco de laranjas, as compras): inventada.
 
+## Correções da família, terceira rodada (01/10/2026)
+- **Cap. 25**: a Tiemi chamava a Ayumi de **"mamãe Juju"**.
+- **Cap. 10**: o namoro de idas e vindas começa com **ela aos 16 e ele aos 15**, depois do infarto do pai.
+- **Caps. 5, 10, 12**: a cidade é **Jacareí**; a associação é **o Bunkyo, a associação japonesa de Jacareí, o "kaikan"**. O Kousuke, antes dos 18, **presidia o grupo de jovens do kaikan** (cap. 10; no cap. 5, com 14 anos, ele só frequenta).
+- **Caps. 29–30**: o batismo foi **no Brasil, em novembro de 2025, depois da imersão do Pablo Marçal**; o cap. 29 nomeia a imersão e o cap. 30 diz que ela "tinha sido batizada" antes de voltar daquela viagem. Ano do cap. 30: 2025.
+- **Cap. 31**: Paris foi **na volta do Mulheres Experience, do Brasil para o Japão**.
+- A autora aceitou capítulos acima da meta de palavras (23 e 29).
+
