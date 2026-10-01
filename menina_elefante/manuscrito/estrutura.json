@@ -1,102 +1,121 @@
 {
   "titulo_livro": "A MENINA ELEFANTE",
+  "subtitulo": "Uma história real sobre descobrir quem você é",
   "autora": "LUCIANA LUMI WATANABE YAMANAKA",
-  "titulo_doc": "A Menina Elefante — V2",
+  "titulo_doc": "A Menina Elefante — V4",
   "nota": "manuscrito/nota.txt",
-  "prologo": {
-    "titulo": "PRÓLOGO — A FOTO",
-    "arquivo": "manuscrito/prologo.txt"
+  "abertura": {
+    "titulo": "ANTES DE COMEÇAR",
+    "arquivo": "manuscrito/abertura.txt"
   },
   "partes": [
     {
       "numero": "I",
-      "titulo": "PARTE I — O PERSONAGEM",
+      "titulo": "PARTE I — A MENINA DA FRANJA",
+      "anos": "1994–2003",
       "capitulos": [
         {
           "n": 1,
           "titulo": "A FRANJINHA",
+          "ano": "1994",
           "arquivo": "manuscrito/parte1/cap01.txt"
         },
         {
           "n": 2,
           "titulo": "O NAVIO E OS DOZE",
+          "ano": "1996",
           "arquivo": "manuscrito/parte1/cap02.txt"
         },
         {
           "n": 3,
           "titulo": "O CAMALEÃO",
+          "ano": "1995–1998",
           "arquivo": "manuscrito/parte1/cap03.txt"
         },
         {
           "n": 4,
           "titulo": "O PREÇO DE PERTENCER",
+          "ano": "2003",
           "arquivo": "manuscrito/parte1/cap04.txt"
         },
         {
           "n": 5,
           "titulo": "O LADO DE DENTRO DA PORTA",
+          "ano": "2003",
           "arquivo": "manuscrito/parte1/cap05.txt"
         }
       ]
     },
     {
       "numero": "II",
-      "titulo": "PARTE II — TRINTA DIAS",
+      "titulo": "PARTE II — A PRIMEIRA QUEDA",
+      "anos": "2004–2007",
       "capitulos": [
         {
           "n": 6,
           "titulo": "A SALA",
+          "ano": "2004",
           "arquivo": "manuscrito/parte2/cap06.txt"
         },
         {
           "n": 7,
           "titulo": "TRINTA DIAS",
+          "ano": "2004",
           "arquivo": "manuscrito/parte2/cap07.txt"
         },
         {
           "n": 8,
           "titulo": "O MONTE",
+          "ano": "2004",
           "arquivo": "manuscrito/parte2/cap08.txt"
         },
         {
           "n": 9,
           "titulo": "MEIA-NOITE",
+          "ano": "2007",
           "arquivo": "manuscrito/parte2/cap09.txt"
         },
         {
           "n": 10,
-          "titulo": "A LIGAÇÃO",
+          "titulo": "O ÔNIBUS DAS ONZE",
+          "ano": "2006–2007",
           "arquivo": "manuscrito/parte2/cap10.txt"
+        },
+        {
+          "n": 11,
+          "titulo": "A LIGAÇÃO",
+          "ano": "2007",
+          "arquivo": "manuscrito/parte2/cap11.txt"
         }
       ]
     },
     {
       "numero": "III",
-      "titulo": "PARTE III — ELE FICOU",
+      "titulo": "PARTE III — A TRAVESSIA",
+      "anos": "2007–2010",
       "capitulos": [
-        {
-          "n": 11,
-          "titulo": "O ÔNIBUS DAS ONZE",
-          "arquivo": "manuscrito/parte3/cap11.txt"
-        },
         {
           "n": 12,
           "titulo": "TESTES",
+          "ano": "2007",
           "arquivo": "manuscrito/parte3/cap12.txt"
         },
         {
           "n": 13,
           "titulo": "O ALMOÇO DE DESPEDIDA",
+          "ano": "2009",
           "arquivo": "manuscrito/parte3/cap13.txt"
         },
         {
           "n": 14,
           "titulo": "CATORZE HORAS",
+          "ano": "2009",
           "arquivo": "manuscrito/parte3/cap14.txt"
         },
         {
           "n": 15,
           "titulo": "NEVE",
+          "ano": "2010",
           "arquivo": "manuscrito/parte3/cap15.txt"
         }
       ]
@@ -104,56 +123,67 @@
     {
       "numero": "IV",
       "titulo": "PARTE IV — A RÉGUA DOS OUTROS",
+      "anos": "2011–2020",
       "capitulos": [
         {
           "n": 16,
           "titulo": "TUDO DO MEU JEITO",
+          "ano": "2011–2014",
           "arquivo": "manuscrito/parte4/cap16.txt"
         },
         {
           "n": 17,
           "titulo": "TODO MUNDO SABIA",
+          "ano": "2014–2016",
           "arquivo": "manuscrito/parte4/cap17.txt"
         },
         {
           "n": 18,
           "titulo": "LONGE DAS VOZES",
+          "ano": "2017",
           "arquivo": "manuscrito/parte4/cap18.txt"
         },
         {
           "n": 19,
           "titulo": "FOI TUDO ÓTIMO",
+          "ano": "2019",
           "arquivo": "manuscrito/parte4/cap19.txt"
         },
         {
           "n": 20,
           "titulo": "O OLHAR DELA",
+          "ano": "2019–2020",
           "arquivo": "manuscrito/parte4/cap20.txt"
         }
       ]
     },
     {
       "numero": "V",
-      "titulo": "PARTE V — MAIS DE UM MILHÃO",
+      "titulo": "PARTE V — O DESERTO",
+      "anos": "2020–2022",
       "capitulos": [
         {
           "n": 21,
           "titulo": "OITO MIL REAIS",
+          "ano": "2020–2021",
           "arquivo": "manuscrito/parte5/cap21.txt"
         },
         {
           "n": 22,
           "titulo": "OKINAWA",
+          "ano": "2021",
           "arquivo": "manuscrito/parte5/cap22.txt"
         },
         {
           "n": 23,
           "titulo": "ARUBAITO",
+          "ano": "2021–2022",
           "arquivo": "manuscrito/parte5/cap23.txt"
         },
         {
           "n": 24,
-          "titulo": "CAPTAÇÃO",
+          "titulo": "A PORTA AUTOMÁTICA",
+          "ano": "2022",
           "arquivo": "manuscrito/parte5/cap24.txt"
         }
       ]
@@ -161,37 +191,76 @@
     {
       "numero": "VI",
       "titulo": "PARTE VI — A MENINA ELEFANTE",
+      "anos": "2023–2025",
       "capitulos": [
         {
           "n": 25,
           "titulo": "O AUGE",
+          "ano": "2023",
           "arquivo": "manuscrito/parte6/cap25.txt"
         },
         {
           "n": 26,
-          "titulo": "A HISTÓRIA DO ELEFANTE",
+          "titulo": "A PRIMEIRA SESSÃO",
+          "ano": "2024",
           "arquivo": "manuscrito/parte6/cap26.txt"
         },
         {
           "n": 27,
-          "titulo": "O SALTO",
+          "titulo": "A HISTÓRIA DO ELEFANTE",
+          "ano": "2024",
           "arquivo": "manuscrito/parte6/cap27.txt"
         },
         {
           "n": 28,
-          "titulo": "RECOMEÇO",
+          "titulo": "O SALTO",
+          "ano": "2025",
           "arquivo": "manuscrito/parte6/cap28.txt"
         },
         {
           "n": 29,
-          "titulo": "AS ÁGUAS",
+          "titulo": "RECOMEÇO",
+          "ano": "2025",
           "arquivo": "manuscrito/parte6/cap29.txt"
+        }
+      ]
+    },
+    {
+      "numero": "VII",
+      "titulo": "PARTE VII — QUEM EU SOU",
+      "anos": "2025–2026",
+      "capitulos": [
+        {
+          "n": 30,
+          "titulo": "AS ÁGUAS",
+          "ano": "2025",
+          "arquivo": "manuscrito/parte7/cap30.txt"
+        },
+        {
+          "n": 31,
+          "titulo": "UMA NOVA VERSÃO",
+          "ano": "2026",
+          "arquivo": "manuscrito/parte7/cap31.txt"
+        },
+        {
+          "n": 32,
+          "titulo": "A PONTE",
+          "ano": "2026",
+          "arquivo": "manuscrito/parte7/cap32.txt"
+        },
+        {
+          "n": 33,
+          "titulo": "A VIDA VALE A PENA",
+          "ano": "2026",
+          "arquivo": "manuscrito/parte7/cap33.txt"
         }
       ]
     }
   ],
   "epilogo": {
-    "titulo": "EPÍLOGO",
+    "titulo": "EPÍLOGO — A HISTÓRIA CONTINUA",
+    "ano": "2026",
     "arquivo": "manuscrito/epilogo.txt"
-  }
+  },
+  "apoio": "manuscrito/apoio.txt"
 }

@@ -3,13 +3,15 @@
 (referencia/modelo_estilos.docx, cópia do .docx de O Jardim).
 
 Uso:
-  python3 tools/build.py              -> saidas/A_Menina_Elefante_V2.docx (livro inteiro, com folha de rosto)
-  python3 tools/build.py --parte IV   -> saidas/A_Menina_Elefante_V2_Parte_IV.docx (só aquela parte)
+  python3 tools/build.py              -> saidas/A_Menina_Elefante_V4.docx (livro inteiro, com folha de rosto)
+  python3 tools/build.py --parte IV   -> saidas/A_Menina_Elefante_V4_Parte_IV.docx (só aquela parte)
 
 Formato dos .txt: parágrafos separados por linha em branco; diálogo começa com "—";
-"*" sozinho numa linha = quebra de cena.
+"*" sozinho numa linha = quebra de cena; "§" abre o "Para você" do fim do capítulo; "? " = pergunta ao leitor;
+"[carta]" ... "[/carta]" = carta em itálico; "~" = linha alinhada à direita; "^" = linha centralizada e maior;
+linhas com "|" = tabela de duas colunas.
 
-Diagramação (constantes DIAG abaixo): EB Garamond 12 pt, entrelinha exata de 17,6 pt, margens espelhadas, hifenização em
+Diagramação (constantes DIAG abaixo): EB Garamond 11,5 pt, entrelinha exata de 16,8 pt, margens espelhadas, hifenização em
 português; cabeçalho com o título do livro nas páginas pares e o do capítulo nas ímpares; abertura de capítulo,
 páginas de parte, folha de rosto e páginas de destaque sem cabeçalho. As fontes (EB Garamond e Bebas Neue, OFL)
 vão embutidas no .docx a partir de referencia/fontes/.
@@ -23,6 +25,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parents[1]
+VERSAO = 'V4'
 TEMPLATE = ROOT / 'referencia' / 'modelo_estilos.docx'
 FONTES = ROOT / 'referencia' / 'fontes'
 HEADER_MODELO = 'O JARDIM ENTRE O AGORA E O DEPOIS'
@@ -39,8 +42,8 @@ CT_FTR = 'application/vnd.openxmlformats-officedocument.wordprocessingml.footer+
 
 # medidas em twips (1/1440 pol.) e meios-pontos
 DIAG = dict(
-    corpo=24,            # 12 pt
-    entrelinha=352,      # exata, 17,6 pt (não depende das métricas da fonte em cada sistema)
+    corpo=23,            # 11,5 pt
+    entrelinha=336,      # exata, 16,8 pt (não depende das métricas da fonte em cada sistema)
     recuo=340,           # recuo da primeira linha (0,6 cm)
     pag_w=7920, pag_h=12240,
     margem_int=1150, margem_ext=870, margem_sup=1000, margem_inf=1000,
@@ -76,24 +79,111 @@ def centrado(t, sz, antes=0, depois=0, rpr_extra='', estilo=None, espaco=0):
             f'<w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr>{run(t, rpr)}</w:p>')
 
 
-def abertura(rotulo, titulo):
-    """Abertura de capítulo: rótulo pequeno espaçado, título grande, respiro."""
+def abertura(rotulo, titulo, vinheta=None, midia=None):
+    """Abertura de capítulo: vinheta em traço (ilustracoes/vinheta_*.png), rótulo pequeno espaçado,
+    título grande, respiro."""
     out = []
+    topo = 1500
+    if vinheta is not None and vinheta.exists() and midia is not None:
+        out.append('<w:p><w:pPr><w:keepNext/><w:spacing w:before="420" w:after="0" w:line="240" w:lineRule="auto"/>'
+                   f'<w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr>{inline_img(midia, vinheta, 2.1)}</w:p>')
+        topo = 160
     if rotulo:
-        out.append(centrado(rotulo, 19, antes=1500, depois=160, espaco=40, rpr_extra='<w:color w:val="555555"/>'))
-    out.append(centrado(titulo, 34, antes=0 if rotulo else 1500, depois=900, espaco=10))
+        out.append(centrado(rotulo, 19, antes=topo, depois=160, espaco=40, rpr_extra='<w:color w:val="555555"/>'))
+    out.append(centrado(titulo, 34, antes=0 if rotulo else topo, depois=760, espaco=10))
     return out
 
 
-def body_from_txt(path, destaques=()):
+def inline_img(midia, png, larg_pol):
+    """Imagem na linha do texto (centralizada pelo parágrafo), com largura em polegadas."""
+    w, h = png_tamanho(png)
+    cx = int(larg_pol * EMU); cy = int(cx * h / w)
+    rid, i = midia.rid(png), midia.novo_id()
+    return ('<w:r><w:drawing><wp:inline distT="0" distB="0" distL="0" distR="0">'
+            f'<wp:extent cx="{cx}" cy="{cy}"/><wp:effectExtent l="0" t="0" r="0" b="0"/>'
+            f'<wp:docPr id="{i}" name="Imagem {i}"/><wp:cNvGraphicFramePr/>'
+            f'<a:graphic {NS_PIC[0]}><a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">'
+            f'<pic:pic {NS_PIC[1]}><pic:nvPicPr><pic:cNvPr id="{i}" name="{png.name}"/><pic:cNvPicPr/></pic:nvPicPr>'
+            f'<pic:blipFill><a:blip r:embed="{rid}"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill>'
+            f'<pic:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="{cx}" cy="{cy}"/></a:xfrm>'
+            '<a:prstGeom prst="rect"><a:avLst/></a:prstGeom></pic:spPr></pic:pic></a:graphicData></a:graphic>'
+            '</wp:inline></w:drawing></w:r>')
+
+
+def png_tamanho(png):
+    import struct
+    d = png.read_bytes()[16:24]
+    return struct.unpack('>II', d)
+
+
+def abre_reflexao(midia):
+    """O raminho de oliveira e o rótulo que abrem o 'Para você' no fim de cada capítulo."""
+    ramo = ROOT / 'ilustracoes' / 'ramo_reflexao.png'
+    out = []
+    if ramo.exists():
+        out.append('<w:p><w:pPr><w:keepNext/><w:spacing w:before="480" w:after="60" w:line="240" w:lineRule="auto"/>'
+                   f'<w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr>{inline_img(midia, ramo, 1.35)}</w:p>')
+    out.append(centrado('PARA VOCÊ', 18, antes=0 if ramo.exists() else 480, depois=240, espaco=50,
+                        rpr_extra='<w:color w:val="555555"/>'))
+    return out
+
+
+def para_reflexao(t, primeiro=False):
+    """Parágrafo do 'Para você': recuado dos dois lados, um ponto menor; '? ' abre a pergunta ao leitor (itálico)."""
+    pergunta = t.startswith('? ')
+    if pergunta:
+        t = t[2:]
+    ind = '<w:ind w:left="340" w:right="340" w:firstLine="' + ('0' if (primeiro or pergunta) else '300') + '"/>'
+    sp = '<w:spacing w:before="200"/>' if pergunta else ''
+    rpr = f'<w:sz w:val="{DIAG["corpo"] - 1}"/><w:szCs w:val="{DIAG["corpo"] - 1}"/>' + ('<w:i/>' if pergunta else '')
+    return f'<w:p><w:pPr>{sp}{ind}</w:pPr>{run(t, rpr)}</w:p>'
+
+
+def para_carta(t):
+    """Carta: itálico, recuada dos dois lados; '~' no começo alinha à direita (assinatura)."""
+    direita = t.startswith('~')
+    t = t.lstrip('~')
+    jc = '<w:jc w:val="right"/>' if direita else ''
+    return (f'<w:p><w:pPr><w:ind w:left="500" w:right="500" w:firstLine="{0 if direita else 300}"/>{jc}</w:pPr>'
+            f'{run(t, "<w:i/>")}</w:p>')
+
+
+def tabela_colunas(linhas):
+    """'| esquerda | direita' em cada linha: duas colunas separadas por um traço; a da esquerda vem riscada."""
+    larg = DIAG['pag_w'] - DIAG['margem_int'] - DIAG['margem_ext']
+    col = larg // 2
+    sz = DIAG['corpo'] - 2
+    def cel(txt, riscado):
+        rpr = f'<w:sz w:val="{sz}"/><w:szCs w:val="{sz}"/>' + ('<w:strike/><w:color w:val="777777"/>' if riscado else '')
+        return (f'<w:tc><w:tcPr><w:tcW w:w="{col}" w:type="dxa"/></w:tcPr><w:p><w:pPr><w:spacing w:before="40" w:after="40" '
+                f'w:line="276" w:lineRule="auto"/><w:ind w:firstLine="0"/><w:jc w:val="{"right" if riscado else "left"}"/>'
+                f'</w:pPr>{run(txt.strip(), rpr)}</w:p></w:tc>')
+    rows = ''
+    for linha in linhas:
+        partes = [x for x in linha.strip().strip('|').split('|')]
+        esq, dir_ = (partes + [''])[:2]
+        rows += f'<w:tr><w:trPr><w:cantSplit/></w:trPr>{cel(esq, True)}{cel(dir_, False)}</w:tr>'
+    return ('<w:tbl><w:tblPr><w:tblW w:w="0" w:type="auto"/><w:jc w:val="center"/><w:tblBorders>'
+            '<w:top w:val="nil"/><w:left w:val="nil"/><w:bottom w:val="nil"/><w:right w:val="nil"/><w:insideH w:val="nil"/>'
+            '<w:insideV w:val="single" w:sz="6" w:space="0" w:color="777777"/></w:tblBorders>'
+            '<w:tblCellMar><w:left w:w="160" w:type="dxa"/><w:right w:w="160" w:type="dxa"/></w:tblCellMar>'
+            f'<w:tblLook w:val="0000"/></w:tblPr><w:tblGrid><w:gridCol w:w="{col}"/><w:gridCol w:w="{col}"/></w:tblGrid>'
+            f'{rows}</w:tbl><w:p><w:pPr><w:spacing w:after="120"/></w:pPr></w:p>')
+
+
+def body_from_txt(path, destaques=(), midia=None):
     """Devolve segmentos: ('texto', [parágrafos]) e ('destaque', d). Cada página de destaque entra na próxima
-    quebra de cena depois da âncora, ou no fim do capítulo."""
+    quebra de cena depois da âncora, ou no fim do capítulo.
+    Marcações: '*' quebra de cena; '§' abre o 'Para você'; '? ' pergunta ao leitor; '[carta]' ... '[/carta]';
+    '~' linha alinhada à direita; linhas começando com '|' formam a tabela de duas colunas."""
     txt = path.read_text(encoding='utf-8').strip()
     paras = [p.strip() for p in re.split(r'\n\s*\n', txt) if p.strip()]
     for d in destaques:
         if not any(d['ancora'] in p for p in paras):
             sys.exit(f"âncora não encontrada em {path.name}: {d['ancora']}")
     segs, atual, pendentes, primeiro, depois_quebra = [], [], [], True, False
+    reflexao = carta = False
+    usados = set()   # cada destaque entra uma vez só, na primeira ocorrência da âncora
     for p in paras:
         if p == '*':
             if pendentes:
@@ -101,9 +191,31 @@ def body_from_txt(path, destaques=()):
                 segs += [('destaque', d) for d in pendentes]; pendentes = []
             atual.append(scene_break()); depois_quebra = True
             continue
-        atual.append(para(p, primeiro=primeiro, recuo=not depois_quebra))
+        if p == '§':
+            atual += abre_reflexao(midia); reflexao = depois_quebra = True
+            continue
+        if p in ('[carta]', '[/carta]'):
+            carta = p == '[carta]'
+            continue
+        if p.startswith('|'):
+            atual.append(tabela_colunas(p.splitlines()))
+        elif carta:
+            atual.append(para_carta(p))
+        elif reflexao:
+            atual.append(para_reflexao(p, primeiro=depois_quebra))
+        elif p.startswith('^'):
+            sz = DIAG['corpo'] + 6
+            maior = run(p[1:], '<w:sz w:val="%d"/><w:szCs w:val="%d"/>' % (sz, sz))
+            atual.append('<w:p><w:pPr><w:spacing w:before="160" w:after="200" w:line="360" w:lineRule="auto"/>'
+                         '<w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr>' + maior + '</w:p>')
+        elif p.startswith('~'):
+            atual.append(f'<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="right"/></w:pPr>{run(p[1:], "<w:i/>")}</w:p>')
+        else:
+            atual.append(para(p, primeiro=primeiro, recuo=not depois_quebra))
         primeiro = depois_quebra = False
-        pendentes += [d for d in destaques if d['ancora'] in p]
+        novos = [d for d in destaques if d['ancora'] in p and id(d) not in usados]
+        usados.update(id(d) for d in novos)
+        pendentes += novos
     segs.append(('texto', atual))
     segs += [('destaque', d) for d in pendentes]
     return segs
@@ -112,7 +224,7 @@ def body_from_txt(path, destaques=()):
 # ---------- página de destaque ----------
 class Midia:
     def __init__(self):
-        self.arquivos, self.n = {}, 0
+        self.arquivos, self.n, self.paginas = {}, 0, 0
 
     def rid(self, path):
         if path not in self.arquivos:
@@ -142,6 +254,7 @@ def fundo_pagina(midia, png):
 
 
 def pagina_destaque(d, midia):
+    midia.paginas += 1
     png = ROOT / 'ilustracoes' / f"destaque_{d['ornamento']}_{d['lado']}{'_azeitonas' if d.get('azeitonas') else ''}.png"
     if not png.exists():
         sys.exit(f'falta {png.relative_to(ROOT)}: rode python3 tools/ornamentos.py')
@@ -266,8 +379,8 @@ def main():
     def capitulo(rotulo, titulo, cabecalho, arquivo, chave):
         cab = partes.cabecalho(cabecalho)
         tipo = 'abre'
-        corpo = abertura(rotulo, titulo)
-        for kind, conteudo in body_from_txt(ROOT / arquivo, [d for d in todos if d['capitulo'] == chave]):
+        corpo = abertura(rotulo, titulo, ROOT / 'ilustracoes' / f'vinheta_{chave}.png', midia)
+        for kind, conteudo in body_from_txt(ROOT / arquivo, [d for d in todos if d['capitulo'] == chave], midia):
             if kind == 'texto':
                 if conteudo:
                     corpo += conteudo
@@ -292,8 +405,7 @@ def main():
         nota += [f'<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr>{run(p, "<w:i/>")}</w:p>'
                  for p in re.split(r'\n\s*\n', (ROOT / est['nota']).read_text(encoding='utf-8').strip()) if p.strip()]
         secoes.append((nota, 'vazio', None, False))
-        rot, tit = est['prologo']['titulo'].split(' — ', 1) if ' — ' in est['prologo']['titulo'] else ('', est['prologo']['titulo'])
-        capitulo(rot, tit, rot or tit, est['prologo']['arquivo'], 'prologo')
+        capitulo('', est['abertura']['titulo'], est['abertura']['titulo'], est['abertura']['arquivo'], 'abertura')
 
     count, missing = 0, []
     for parte in est['partes']:
@@ -304,14 +416,27 @@ def main():
         if not caps:
             continue
         rot, tit = parte['titulo'].split(' — ', 1)
-        secoes.append(([centrado(rot, 22, depois=300, espaco=60, rpr_extra='<w:color w:val="555555"/>'),
-                        centrado(tit, 40, espaco=20)], 'vazio', None, True))
+        pagina_parte = [centrado(rot, 22, depois=300, espaco=60, rpr_extra='<w:color w:val="555555"/>'),
+                        centrado(tit, 40, espaco=20)]
+        if parte.get('anos'):
+            pagina_parte.append(centrado(parte['anos'], 22, antes=360, espaco=20, rpr_extra='<w:i/><w:color w:val="555555"/>'))
+        secoes.append((pagina_parte, 'vazio', None, True))
         for c in caps:
-            capitulo(f"CAPÍTULO {c['n']}", c['titulo'], c['titulo'], c['arquivo'], c['n'])
+            rotulo = f"CAPÍTULO {c['n']}" + (f" · {c['ano']}" if c.get('ano') else '')
+            capitulo(rotulo, c['titulo'], c['titulo'], c['arquivo'], c['n'])
             count += 1
     ep = ROOT / est['epilogo']['arquivo']
     if not only and ep.exists():
-        capitulo('', est['epilogo']['titulo'], est['epilogo']['titulo'], est['epilogo']['arquivo'], 'epilogo')
+        rot, tit = est['epilogo']['titulo'].split(' — ', 1) if ' — ' in est['epilogo']['titulo'] else ('', est['epilogo']['titulo'])
+        rot += f" · {est['epilogo']['ano']}" if est['epilogo'].get('ano') else ''
+        capitulo(rot, tit, tit, est['epilogo']['arquivo'], 'epilogo')
+        apoio = ROOT / est.get('apoio', '')
+        if est.get('apoio') and apoio.exists():
+            pag = [centrado('SE VOCÊ PRECISA DE AJUDA', 20, depois=400, espaco=40, rpr_extra='<w:color w:val="555555"/>')]
+            pag += [f'<w:p><w:pPr><w:spacing w:after="160"/><w:ind w:left="400" w:right="400" w:firstLine="0"/>'
+                    f'<w:jc w:val="center"/></w:pPr>{run(x, "<w:i/>")}</w:p>'
+                    for x in re.split(r'\n\s*\n', apoio.read_text(encoding='utf-8').strip()) if x.strip()]
+            secoes.append((pag, 'vazio', None, True))
 
     xml = []
     for corpo, tipo, cab, centro in secoes[:-1]:
@@ -321,7 +446,7 @@ def main():
     xml += corpo
     body_sect = sect_pr(tipo, cab, centro)
 
-    name = f"A_Menina_Elefante_V2_Parte_{only}.docx" if only else 'A_Menina_Elefante_V2.docx'
+    name = f"A_Menina_Elefante_{VERSAO}_Parte_{only}.docx" if only else f'A_Menina_Elefante_{VERSAO}.docx'
     out = ROOT / 'saidas' / name
     out.parent.mkdir(exist_ok=True)
     now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
@@ -383,7 +508,7 @@ def main():
             elif item.filename == '_rels/.rels':
                 data = re.sub(r'<Relationship Id="rId2" Type="[^"]*thumbnail"[^>]*/>', '', data.decode('utf-8')).encode('utf-8')
             zout.writestr(item, data)
-    print(f'{out.relative_to(ROOT)}: {count} capítulo(s), {midia.n} página(s) de destaque, {len(secoes)} seções')
+    print(f'{out.relative_to(ROOT)}: {count} capítulo(s), {midia.paginas} página(s) de destaque, {len(secoes)} seções')
     if missing:
         print('ainda não escritos:', ', '.join(map(str, missing)))
 

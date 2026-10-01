@@ -2,30 +2,21 @@
  "_leia": "Páginas de destaque (frase grande em fundo escuro). 'ancora' = trecho do parágrafo onde a frase aparece; a página entra na próxima quebra de cena (*) depois dele, ou no fim do capítulo. [[...]] = palavras em branco (destaque). 'lado' = canto do ornamento; o texto fica alinhado do lado oposto. 'azeitonas' = true põe azeitonas no ramo; false, só folhas. Gere os fundos com tools/ornamentos.py.",
  "destaques": [
   {
-   "capitulo": "prologo",
-   "ancora": "Você está com pressa?",
-   "frase": "Você está com [[pressa]]?",
-   "autor": "A TERAPEUTA",
-   "ornamento": "oliveira_longa",
-   "lado": "esq",
-   "azeitonas": true
-  },
-  {
    "capitulo": 1,
    "ancora": "ninguém vai olhar para a sua franja",
    "frase": "Filha, ninguém vai olhar para a [[sua franja]]. Vão olhar para o vestido.",
    "autor": "MINHA MÃE",
-   "ornamento": "oliveira_coroa",
-   "lado": "dir",
-   "azeitonas": false
+   "ornamento": "oliveira_longa",
+   "lado": "esq",
+   "azeitonas": true
   },
   {
    "capitulo": 3,
    "ancora": "Em cada lugar, eu era um pouco outra.",
    "frase": "Em cada lugar, eu era [[um pouco outra]]. E em cada lugar gostavam de mim.",
    "autor": "",
-   "ornamento": "oliveira_cruzada",
-   "lado": "esq",
+   "ornamento": "oliveira_coroa",
+   "lado": "dir",
    "azeitonas": false
   },
   {
@@ -33,26 +24,26 @@
    "ancora": "Eu só quero dormir sem ninguém perguntar nada",
    "frase": "Eu só quero dormir [[sem ninguém perguntar nada]].",
    "autor": "CARLA",
-   "ornamento": "oliveira_arco",
-   "lado": "dir",
-   "azeitonas": true
+   "ornamento": "oliveira_cruzada",
+   "lado": "esq",
+   "azeitonas": false
   },
   {
    "capitulo": 6,
    "ancora": "do tamanho de uma tarde comum",
    "frase": "Precisava de alguma coisa pequena, [[do tamanho de uma tarde comum]], onde eu pudesse pôr o pé.",
    "autor": "",
-   "ornamento": "oliveira_longa",
-   "lado": "esq",
-   "azeitonas": false
+   "ornamento": "oliveira_arco",
+   "lado": "dir",
+   "azeitonas": true
   },
   {
    "capitulo": 7,
    "ancora": "Deixa ele acordar e eu nunca mais te peço nada",
    "frase": "Deixa ele acordar e eu [[nunca mais te peço nada]].",
    "autor": "",
-   "ornamento": "oliveira_coroa",
-   "lado": "dir",
+   "ornamento": "oliveira_longa",
+   "lado": "esq",
    "azeitonas": false
   },
   {
@@ -60,26 +51,26 @@
    "ancora": "Pode escrever quatro",
    "frase": "[[Pode escrever quatro.]]",
    "autor": "MINHA MÃE",
-   "ornamento": "oliveira_cruzada",
-   "lado": "esq",
-   "azeitonas": true
+   "ornamento": "oliveira_coroa",
+   "lado": "dir",
+   "azeitonas": false
   },
   {
    "capitulo": 9,
    "ancora": "nenhum dos dois desmontasse",
    "frase": "Eu queria que [[nenhum dos dois desmontasse]], e isso ninguém pedia a mim também.",
    "autor": "",
-   "ornamento": "oliveira_arco",
-   "lado": "dir",
-   "azeitonas": false
+   "ornamento": "oliveira_cruzada",
+   "lado": "esq",
+   "azeitonas": true
   },
   {
-   "capitulo": 11,
+   "capitulo": 10,
    "ancora": "Porque é meia-noite e você está andando sozinha",
    "frase": "Porque é meia-noite e você está [[andando sozinha]].",
    "autor": "KOUSUKE",
-   "ornamento": "oliveira_longa",
-   "lado": "esq",
+   "ornamento": "oliveira_arco",
+   "lado": "dir",
    "azeitonas": false
   },
   {
@@ -87,26 +78,26 @@
    "ancora": "Ninguém tinha me pedido para pular",
    "frase": "[[Ninguém tinha me pedido para pular.]] Ninguém precisava que eu pulasse.",
    "autor": "",
-   "ornamento": "oliveira_coroa",
-   "lado": "dir",
-   "azeitonas": true
+   "ornamento": "oliveira_longa",
+   "lado": "esq",
+   "azeitonas": false
   },
   {
    "capitulo": 15,
    "ancora": "ninguém precisava de mim",
    "frase": "Nunca tinha estado num lugar em que [[ninguém precisava de mim]].",
    "autor": "",
-   "ornamento": "oliveira_cruzada",
-   "lado": "esq",
-   "azeitonas": false
+   "ornamento": "oliveira_coroa",
+   "lado": "dir",
+   "azeitonas": true
   },
   {
    "capitulo": 17,
    "ancora": "Ninguém dizia que o Kousuke tinha sorte de ter a mim",
    "frase": "Ninguém dizia que o Kousuke [[tinha sorte de ter a mim]].",
    "autor": "",
-   "ornamento": "oliveira_arco",
-   "lado": "dir",
+   "ornamento": "oliveira_cruzada",
+   "lado": "esq",
    "azeitonas": false
   },
   {
@@ -114,26 +105,26 @@
    "ancora": "Você tem certeza, ou você está cansada?",
    "frase": "Você tem certeza, ou você está [[cansada]]?",
    "autor": "KOUSUKE",
-   "ornamento": "oliveira_longa",
-   "lado": "esq",
-   "azeitonas": true
+   "ornamento": "oliveira_arco",
+   "lado": "dir",
+   "azeitonas": false
   },
   {
    "capitulo": 19,
    "ancora": "Foi tudo ótimo, mãe",
    "frase": "[[Foi tudo ótimo]], mãe.",
    "autor": "",
-   "ornamento": "oliveira_coroa",
-   "lado": "dir",
-   "azeitonas": false
+   "ornamento": "oliveira_longa",
+   "lado": "esq",
+   "azeitonas": true
   },
   {
    "capitulo": 20,
    "ancora": "Não posso olhar minha filha?",
    "frase": "Não posso [[olhar minha filha]]?",
    "autor": "MINHA MÃE",
-   "ornamento": "oliveira_cruzada",
-   "lado": "esq",
+   "ornamento": "oliveira_coroa",
+   "lado": "dir",
    "azeitonas": false
   },
   {
@@ -141,30 +132,39 @@
    "ancora": "consegue ensinar para qualquer um",
    "frase": "Se você conseguir ensinar para mim, [[consegue ensinar para qualquer um]].",
    "autor": "KOUSUKE",
-   "ornamento": "oliveira_arco",
-   "lado": "dir",
-   "azeitonas": true
+   "ornamento": "oliveira_cruzada",
+   "lado": "esq",
+   "azeitonas": false
   },
   {
    "capitulo": 22,
    "ancora": "Para ela não ir embora",
    "frase": "Para ela [[não ir embora]].",
    "autor": "A MITY",
-   "ornamento": "oliveira_longa",
-   "lado": "esq",
-   "azeitonas": false
+   "ornamento": "oliveira_arco",
+   "lado": "dir",
+   "azeitonas": true
   },
   {
    "capitulo": 23,
    "ancora": "Era um misto de paz com medo",
    "frase": "Era um misto de [[paz com medo]]. As duas coisas ao mesmo tempo, sem uma apagar a outra.",
    "autor": "",
+   "ornamento": "oliveira_longa",
+   "lado": "esq",
+   "azeitonas": false
+  },
+  {
+   "capitulo": 26,
+   "ancora": "Você está com pressa?",
+   "frase": "Você está com [[pressa]]?",
+   "autor": "A TERAPEUTA",
    "ornamento": "oliveira_coroa",
    "lado": "dir",
    "azeitonas": false
   },
   {
-   "capitulo": 26,
+   "capitulo": 27,
    "ancora": "Eu posso ser forte e existir também?",
    "frase": "Eu posso ser [[forte e existir]] também?",
    "autor": "",
@@ -173,7 +173,7 @@
    "azeitonas": true
   },
   {
-   "capitulo": 27,
+   "capitulo": 28,
    "ancora": "do tamanho do meu corpo, sem tirar nada",
    "frase": "Eu senti o medo inteiro, [[do tamanho do meu corpo]], sem tirar nada.",
    "autor": "",
@@ -182,7 +182,7 @@
    "azeitonas": false
   },
   {
-   "capitulo": 28,
+   "capitulo": 29,
    "ancora": "Eu queria andar do lado",
    "frase": "Eu cansei de andar atrás. [[Eu queria andar do lado.]]",
    "autor": "KOUSUKE",
@@ -191,7 +191,7 @@
    "azeitonas": false
   },
   {
-   "capitulo": 28,
+   "capitulo": 29,
    "ancora": "só está se escondendo",
    "frase": "Pessoa orgulhosa acha que está se protegendo, e [[só está se escondendo]].",
    "autor": "MINHA MÃE",
@@ -200,13 +200,40 @@
    "azeitonas": true
   },
   {
-   "capitulo": 29,
+   "capitulo": 31,
    "ancora": "não pedia desculpa pelo tamanho",
    "frase": "Uma torre enorme, firme, que [[não pedia desculpa pelo tamanho]].",
    "autor": "",
    "ornamento": "oliveira_cruzada",
    "lado": "esq",
    "azeitonas": false
+  },
+  {
+   "capitulo": 31,
+   "ancora": "Eu sei quem eu sou.",
+   "frase": "[[Eu sei quem eu sou.]]",
+   "autor": "",
+   "ornamento": "oliveira_arco",
+   "azeitonas": false,
+   "lado": "dir"
+  },
+  {
+   "capitulo": 32,
+   "ancora": "Vencer não é chegar sozinha. É chegar do lado.",
+   "frase": "Vencer não é chegar sozinha. [[É chegar do lado.]]",
+   "autor": "",
+   "ornamento": "oliveira_longa",
+   "azeitonas": true,
+   "lado": "esq"
+  },
+  {
+   "capitulo": 33,
+   "ancora": "A vida vale a pena, Lu. Cada pedaço dela. Até os que doem.",
+   "frase": "[[A vida vale a pena.]] Cada pedaço dela. Até os que doem.",
+   "autor": "",
+   "ornamento": "oliveira_coroa",
+   "azeitonas": false,
+   "lado": "dir"
   }
  ]
 }
