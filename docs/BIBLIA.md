@@ -61,3 +61,12 @@
 - A conta da faculdade foi devolvida; a Clara nunca comentou.
 - A Haruka sabe que o pai esconde doenças.
 - A construtora já mandou uma carta (cap. 10); o Mori ainda não respondeu.
+- A Clara disse ao Miguel, numa quinta no kissaten, que ele "nunca pede nada" e que ela se sente reduzida a uma função (cap. 7). Depois disso, o número dela saiu do site da Mirai.
+- A Maya sabe que o elefante e o cavaleiro são do Haidt, não do Taleb (cap. 23). O Miguel confundia os dois.
+- A Maya disse ao pai que estava no sexto degrau, e ele respondeu que ouviu o degrau (cap. 26).
+
+## Acréscimos da atualização pelo dossiê
+- **Miguel:** foi seishain, funcionário efetivo da fábrica, e comprou a CX-5 seminova preta antes de Okinawa. A pergunta "É isso?", feita no estacionamento da fábrica, antecede o food truck (cap. 2). Na infância, no Brasil, era "o japonês da sala" e aprendeu a ficar com o que sobrava sem pedir muito (cap. 7).
+- **Renato:** a conversa sobre a dupla fenda e o Salmo 139 (cap. 11). Diz "Isso vai doer. Mas não vai decidir se você é amado." (cap. 19).
+- **Mori:** "Quem entendia de casamento nesta casa era a Setsuko. Eu entendo de nabo." (cap. 15).
+- **Okinawa:** "Não. Acho que deu errado. E depois a gente fez alguma coisa com o que sobrou." (cap. 26). Não explicar o prejuízo como plano divino.
