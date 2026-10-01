@@ -176,3 +176,15 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - **Cap. 31**: Paris foi **na volta do Mulheres Experience, do Brasil para o Japão**.
 - A autora aceitou capítulos acima da meta de palavras (23 e 29).
 
+## Brigas do casal no auge (01/10/2026, pedido da autora)
+- **Cap. 25**, seção nova (2023, entre o "Tudo tinha dado certo" e o bungee), com cenas inventadas a partir do pedido:
+  - as brigas um dia sim, outro não;
+  - o celular tocando no meio da briga e a voz trocada para o cliente;
+  - a visita a uma família de Minokamo: os dois descem do carro sorrindo, atendem uma hora "como um casal de comercial de margarina" e, de volta ao carro, retomam a briga na mesma palavra;
+  - à noite, "Meninas, para cima", e a briga em voz baixa, achando que a escada dava conta;
+  - a Ayumi sentada no escuro com o fone de ouvido sem estar ligado em nada.
+- **Cap. 25, "Para você"**: ganhou "As crianças escutam."
+- **Cap. 26**: na lista da primeira sessão, ela diz que "briga de vez em quando, como todo casal".
+- **Cap. 12**: tiradas as duas sobras do encontro na ótica ("o outro lado do balcão").
+- **Flanelas**: não aparecem mais em nenhum lugar do manuscrito nem dos .docx deste PR (a carta do cap. 33 fala da lista de física). O livro que está no main ainda é a versão anterior, com as flanelas, até este PR ser mesclado.
+
