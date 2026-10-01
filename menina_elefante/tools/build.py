@@ -3,8 +3,8 @@
 (referencia/modelo_estilos.docx, cópia do .docx de O Jardim).
 
 Uso:
-  python3 tools/build.py              -> saidas/A_Menina_Elefante_V3.docx (livro inteiro, com folha de rosto)
-  python3 tools/build.py --parte IV   -> saidas/A_Menina_Elefante_V3_Parte_IV.docx (só aquela parte)
+  python3 tools/build.py              -> saidas/A_Menina_Elefante_V4.docx (livro inteiro, com folha de rosto)
+  python3 tools/build.py --parte IV   -> saidas/A_Menina_Elefante_V4_Parte_IV.docx (só aquela parte)
 
 Formato dos .txt: parágrafos separados por linha em branco; diálogo começa com "—";
 "*" sozinho numa linha = quebra de cena; "§" abre o "Para você" do fim do capítulo; "? " = pergunta ao leitor;
@@ -25,6 +25,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parents[1]
+VERSAO = 'V4'
 TEMPLATE = ROOT / 'referencia' / 'modelo_estilos.docx'
 FONTES = ROOT / 'referencia' / 'fontes'
 HEADER_MODELO = 'O JARDIM ENTRE O AGORA E O DEPOIS'
@@ -78,12 +79,18 @@ def centrado(t, sz, antes=0, depois=0, rpr_extra='', estilo=None, espaco=0):
             f'<w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr>{run(t, rpr)}</w:p>')
 
 
-def abertura(rotulo, titulo):
-    """Abertura de capítulo: rótulo pequeno espaçado, título grande, respiro."""
+def abertura(rotulo, titulo, vinheta=None, midia=None):
+    """Abertura de capítulo: vinheta em traço (ilustracoes/vinheta_*.png), rótulo pequeno espaçado,
+    título grande, respiro."""
     out = []
+    topo = 1500
+    if vinheta is not None and vinheta.exists() and midia is not None:
+        out.append('<w:p><w:pPr><w:keepNext/><w:spacing w:before="420" w:after="0" w:line="240" w:lineRule="auto"/>'
+                   f'<w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr>{inline_img(midia, vinheta, 2.1)}</w:p>')
+        topo = 160
     if rotulo:
-        out.append(centrado(rotulo, 19, antes=1500, depois=160, espaco=40, rpr_extra='<w:color w:val="555555"/>'))
-    out.append(centrado(titulo, 34, antes=0 if rotulo else 1500, depois=900, espaco=10))
+        out.append(centrado(rotulo, 19, antes=topo, depois=160, espaco=40, rpr_extra='<w:color w:val="555555"/>'))
+    out.append(centrado(titulo, 34, antes=0 if rotulo else topo, depois=760, espaco=10))
     return out
 
 
@@ -94,7 +101,7 @@ def inline_img(midia, png, larg_pol):
     rid, i = midia.rid(png), midia.novo_id()
     return ('<w:r><w:drawing><wp:inline distT="0" distB="0" distL="0" distR="0">'
             f'<wp:extent cx="{cx}" cy="{cy}"/><wp:effectExtent l="0" t="0" r="0" b="0"/>'
-            f'<wp:docPr id="{i}" name="Ramo {i}"/><wp:cNvGraphicFramePr/>'
+            f'<wp:docPr id="{i}" name="Imagem {i}"/><wp:cNvGraphicFramePr/>'
             f'<a:graphic {NS_PIC[0]}><a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">'
             f'<pic:pic {NS_PIC[1]}><pic:nvPicPr><pic:cNvPr id="{i}" name="{png.name}"/><pic:cNvPicPr/></pic:nvPicPr>'
             f'<pic:blipFill><a:blip r:embed="{rid}"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill>'
@@ -372,7 +379,7 @@ def main():
     def capitulo(rotulo, titulo, cabecalho, arquivo, chave):
         cab = partes.cabecalho(cabecalho)
         tipo = 'abre'
-        corpo = abertura(rotulo, titulo)
+        corpo = abertura(rotulo, titulo, ROOT / 'ilustracoes' / f'vinheta_{chave}.png', midia)
         for kind, conteudo in body_from_txt(ROOT / arquivo, [d for d in todos if d['capitulo'] == chave], midia):
             if kind == 'texto':
                 if conteudo:
@@ -439,7 +446,7 @@ def main():
     xml += corpo
     body_sect = sect_pr(tipo, cab, centro)
 
-    name = f"A_Menina_Elefante_V3_Parte_{only}.docx" if only else 'A_Menina_Elefante_V3.docx'
+    name = f"A_Menina_Elefante_{VERSAO}_Parte_{only}.docx" if only else f'A_Menina_Elefante_{VERSAO}.docx'
     out = ROOT / 'saidas' / name
     out.parent.mkdir(exist_ok=True)
     now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')

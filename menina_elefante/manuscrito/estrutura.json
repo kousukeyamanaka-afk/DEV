@@ -2,7 +2,7 @@
   "titulo_livro": "A MENINA ELEFANTE",
   "subtitulo": "Uma história real sobre descobrir quem você é",
   "autora": "LUCIANA LUMI WATANABE YAMANAKA",
-  "titulo_doc": "A Menina Elefante — V3",
+  "titulo_doc": "A Menina Elefante — V4",
   "nota": "manuscrito/nota.txt",
   "abertura": {
     "titulo": "ANTES DE COMEÇAR",
@@ -29,7 +29,7 @@
         {
           "n": 3,
           "titulo": "O CAMALEÃO",
-          "ano": "1996–1998",
+          "ano": "1995–1998",
           "arquivo": "manuscrito/parte1/cap03.txt"
         },
         {
@@ -72,13 +72,13 @@
         {
           "n": 9,
           "titulo": "MEIA-NOITE",
-          "ano": "2006",
+          "ano": "2007",
           "arquivo": "manuscrito/parte2/cap09.txt"
         },
         {
           "n": 10,
           "titulo": "O ÔNIBUS DAS ONZE",
-          "ano": "2006",
+          "ano": "2006–2007",
           "arquivo": "manuscrito/parte2/cap10.txt"
         },
         {

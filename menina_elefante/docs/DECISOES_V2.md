@@ -188,3 +188,29 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - **Cap. 12**: tiradas as duas sobras do encontro na ótica ("o outro lado do balcão").
 - **Flanelas**: não aparecem mais em nenhum lugar do manuscrito nem dos .docx deste PR (a carta do cap. 33 fala da lista de física). O livro que está no main ainda é a versão anterior, com as flanelas, até este PR ser mesclado.
 
+## V4: revisão geral, vinhetas e PDF de leitura (01/10/2026)
+**Revisão de continuidade** (o livro inteiro foi relido depois das correções da família):
+- **Cap. 10**: a Carla "tinha ido morar com a madrinha em outra cidade" (antes: "com uma tia"; o cap. 5 diz madrinha).
+- **Anos dos capítulos**:
+  - cap. 3 passa a 1995–1998, porque a primeira série foi em 1995;
+  - cap. 9 passa a 2007, porque ela está no segundo ano de optometria, aos 18;
+  - cap. 10 passa a 2006–2007.
+- **Conferido sem mudanças**:
+  - as idades (Luciana em 08/09/1988, Kousuke em 27/02/1989, as três filhas);
+  - os "dezessete anos" entre 2009 e 2026 (cap. 32) e os "dezesseis anos" de Paris (cap. 31);
+  - o bungee "dois anos antes" (cap. 29);
+  - a ordem das filhas em todas as cenas;
+  - "Yoshi" na boca da Nair;
+  - nenhuma sobra das flanelas ou da sala alugada.
+- **Fica como a autora escreveu na V1**: "cinco anos" de fábrica (cap. 21), embora a conta de nov. 2017 a 2021 dê uns quatro.
+
+**Vinhetas**:
+- São 35 desenhos em traço, verde-oliva, um por capítulo, mais a abertura e o epílogo. Ficam no alto de cada abertura de capítulo.
+- Os objetos de cada capítulo: tigela e tesoura, navio, camaleão, tênis, lençol de florzinha, xícaras na bandeja, calendário riscado, óculos e o monte, panela, guarda-chuva, telefone, celular com carregador, anel com raminho, bentô, Torre Eiffel na neve, caderno com abas, mamadeira, mala amarrada com fita, pera em espiral, volante, luz de anel, food truck, tigela de canja, porta automática, celular de madrugada, notebook e caneca, elefante e estaca, paraquedas e Fuji, caneca de asa colada, cubo mágico, agenda de duas colunas, ponte, medalha, livro aberto (abertura) e tigela com raminhos (epílogo).
+- A folha de rosto do PDF leva o elefante.
+
+**Arquivos novos**:
+- `saidas/A_Menina_Elefante_V4.docx`: o livro para o Word, agora com as vinhetas.
+- `saidas/A_Menina_Elefante_V4.pdf`: o PDF de leitura, com 238 páginas. Tem sumário, número de página no pé e hifenização por sílabas.
+- Os .docx da V3 saíram de `saidas/` e continuam no histórico do git.
+

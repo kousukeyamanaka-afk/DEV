@@ -3,6 +3,7 @@
 Memória de Luciana Lumi Watanabe Yamanaka, no mesmo modelo de trabalho de *O Jardim Entre o Agora e o Depois* (a pasta-mãe deste repositório). A V1 (66 capítulos curtíssimos, ~6 mil palavras) está em `referencia/`. A V2 reescreve o livro em cenas, em primeira pessoa, seguindo o parecer e o roteiro de `docs/`.
 
 **V3 escrita (30/09/2026), a pedido da autora**: jornada da heroína em ordem cronológica, 7 partes com os anos, 33 capítulos, abertura "Antes de começar", epílogo "A história continua" e página de apoio. Cada capítulo tem a **cena** e, depois do `§`, o **"Para você"**: a Luciana de hoje falando com quem lê, no espírito do *Plenitude*, de Camila Vieira. ~42 mil palavras, ~230 páginas.
+**V4 (01/10/2026)**: correções da família (filhas, cronologia, Kousuke, noivado, Okinawa, brigas do casal), revisão de continuidade, vinhetas em traço na abertura de cada capítulo e PDF de leitura. ~43,6 mil palavras; PDF com 238 páginas.
 **Falta:** a revisão da Luciana (em especial os "Para você", o cap. 31 com a Camila e o Paulo Vieira pelo nome, e as invenções listadas em `docs/DECISOES_V2.md`, seção V3); as respostas às perguntas de `docs/LEITURA_INSTAGRAM.md`.
 
 ## Antes de escrever qualquer coisa
@@ -21,8 +22,10 @@ Memória de Luciana Lumi Watanabe Yamanaka, no mesmo modelo de trabalho de *O Ja
 - Páginas de destaque (pedido da autora, no estilo dos livros de citação): `manuscrito/destaques.json` lista as frases que ganham uma página inteira de fundo escuro com letra grande (Bebas Neue, embutida no .docx a partir de `referencia/fontes/`, licença OFL) e um ramo de oliveira num canto (quatro desenhos: ramo longo, ramos cruzados, ramo em arco e meia coroa; azeitonas em cerca de uma página a cada três, campo "azeitonas" do destaques.json; pedido da autora). `[[...]]` marca as palavras em branco. A página entra na próxima quebra de cena depois da âncora. Os fundos são gerados por `python3 tools/ornamentos.py` em `ilustracoes/`. Frase de destaque só com texto que já está no capítulo (cena ou "Para você"); cada âncora vale uma vez; nunca "menina elefante"; nenhuma no epílogo.
 - Ao terminar uma parte:
   - `python3 tools/metricas.py --parte II` e ajuste o que estiver fora das metas;
-  - `python3 tools/build.py --parte II` gera `saidas/A_Menina_Elefante_V3_Parte_II.docx`;
-  - `python3 tools/build.py` gera o livro inteiro em `saidas/A_Menina_Elefante_V3.docx`.
+  - `python3 tools/build.py --parte II` gera `saidas/A_Menina_Elefante_V4_Parte_II.docx`;
+  - `python3 tools/build.py` gera o livro inteiro em `saidas/A_Menina_Elefante_V4.docx`;
+  - `python3 tools/pdf.py` gera o PDF de leitura `saidas/A_Menina_Elefante_V4.pdf` (mesma diagramação, impresso pelo Chromium do ambiente; número da página no pé, sem cabeçalho corrido; hifenização própria por sílabas).
+- Vinhetas (V4, pedido da autora): `python3 tools/ilustracoes.py` desenha em SVG e renderiza `ilustracoes/vinheta_<capítulo>.png` (uma por capítulo, mais `abertura` e `epilogo`), que entram no alto de cada abertura de capítulo, no .docx e no PDF. Para trocar um desenho, edite o dicionário `D` do script e rode de novo só com a chave (`python3 tools/ilustracoes.py 27`).
 - Só biblioteca padrão do Python. Não instale nada.
 - Escreva uma parte por sessão e pare no fim dela para a autora revisar. Faça commit dos .txt e dos .docx gerados. No PR, liste: o que acontece em cada capítulo, toda decisão nova (nomes, fatos, datas, pseudônimos) e todo detalhe técnico, médico ou jurídico que a autora deve conferir.
 
