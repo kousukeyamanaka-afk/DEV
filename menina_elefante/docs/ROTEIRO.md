@@ -211,12 +211,12 @@ Arco: casada, mãe, forte. As vozes de fora viram voz de dentro. A primeira vira
 
 **16 — Tudo do meu jeito** · 2011–2014 · ~1.400 · V1 30–31; IG 53, 54, 61, 7
 - Ela quer: controle. Todo mundo quer dar opinião no casamento.
-- Noivado longo; casamento em 2013, na igreja, tudo do jeito dela; o mesmo prato em todo restaurante; o apartamento; a gravidez da Mity, rápido demais; "habilitada para dirigir, sem saber fazer a baliza".
+- Noivado longo; casamento em 2013, na igreja, tudo do jeito dela; o mesmo prato em todo restaurante; o apartamento; a gravidez da Ayumi, rápido demais; "habilitada para dirigir, sem saber fazer a baliza".
 - **Final:** ela no carro com a bebê, o cinto conferido três vezes, sem ligar o motor.
 
 **17 — Todo mundo sabia** · 2014–2016 · ~1.400 · V1 21, 32–34; IG 44, 13
 - Ela quer: ser boa o bastante. Todos sabem como ela deveria criar.
-- Opiniões, comparações ("Fulana fala japonês fluente"), e a que fica: "Você tem sorte de ter seu esposo". A Ayumi; as brigas; os hormônios como desculpa. A "super cama" no carro, que ele monta.
+- Opiniões, comparações ("Fulana fala japonês fluente"), e a que fica: "Você tem sorte de ter seu esposo". A Mity; as brigas; os hormônios como desculpa. A "super cama" no carro, que ele monta.
 - **Final:** ela repetindo, sozinha, para o espelho ou para a bebê, a frase "você tem sorte", como quem decora.
 
 **18 — Longe das vozes** · ~2017 · ~1.300 · V1 35–37

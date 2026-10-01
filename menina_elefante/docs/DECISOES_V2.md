@@ -16,7 +16,7 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - **Cap. 10**: quem ligou (o síndico), onde ela estava (na ótica), **ela sabia exatamente os remédios porque era ela que separava**; a mãe que não veio ao hospital; o Kousuke que chega com um pacote de bolacha. Tudo a confirmar. O capítulo não descreve método além de "os remédios".
 
 ## Parte III (2005–2010)
-- **Cap. 11**: como se conheceram ("de vista, como todo descendente conhecia todo descendente"); **as onze flanelas de lente** compradas na ótica; o Kousuke andando dez passos atrás até a quitinete; o guarda-chuva.
+- **Cap. 11**: como se conheceram ("de vista, como todo descendente conhecia todo descendente"); ~~as onze flanelas de lente compradas na ótica~~ (removidas em 01/10/2026: não aconteceu); o Kousuke andando dez passos atrás até a quitinete; o guarda-chuva.
 - **Cap. 12**: o recado no Orkut da "Tatiane da estatística" (pseudônimo); o aniversário de 90 anos da avó dele; "então escolhe"; o carregador no portão.
 - **Cap. 13**: o almoço de despedida na casa dos pais dele, com yakisoba; os pais dela na mesma mesa pela primeira vez; o discurso dobrado no bolso; **o anel grande demais**.
 - **Cap. 14**: fábrica de peças de carro; empreiteira; apartamento de tatami; apontar para a comida de plástico na vitrine; a conta no Banco de Nagoya (o hanko esquecido, o gerente que deixa assinar); o primeiro paraquedas aos 20, num campo de pouso a duas horas de trem (local a confirmar).
@@ -93,7 +93,7 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - o lugar do evento não é dito; ela senta entre **uma senhora com uma Bíblia** e **uma moça de tênis branco** (as duas, inventadas);
 - **a Camila Vieira e o Paulo Vieira aparecem pelo nome**, falando de identidade de forma genérica, **sem nenhuma fala atribuída a eles**; conferir se a autora está confortável com isso;
 - **a página de duas colunas na agenda**: as oito frases riscadas e as verdades ao lado são uma invenção a partir do post "Identidade" e do "vivi uma identidade baseada em mentiras" (IG 8, 9, 13);
-- **a resposta do Kousuke**: "Essa da direita eu conheço desde a primeira flanela."
+- **a resposta do Kousuke**: "Essa da direita eu conheço desde a maquete de geografia." (até 01/10/2026: "desde a primeira flanela")
 - **Paris** foi posta "semanas depois" do evento (os dois são do começo de 2026; a ordem real, a confirmar).
 
 **Cap. 32**: a **carta ao Kousuke** na noite da volta do Legendários usa as palavras do post dela (IG 10); **a folha dobrada no bolso da camisa** é invenção.
@@ -106,3 +106,28 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 **Epílogo**: o fim novo ("não existe final… a sua história também continua") é da V3.
 
 **Datas que continuam em aberto**: o batismo (o cap. 30 o põe depois do Natal de 2025, sem data); o Mulheres Experience e Paris (começo de 2026).
+
+## Correções da família (01/10/2026)
+**Fatos confirmados**
+- **As filhas, na ordem**: **Ayumi** (Rafaela Ayumi Watanabe Yamanaka, 20/05/2014), **Mity** (Fernanda Mity Watanabe Yamanaka, 17/05/2016), **Tiemi** (Larissa Tiemi Watanabe Yamanaka, 14/10/2022). A V2/V3 tinha a Mity como primogênita.
+- **A Nair chama o Yoshinori de "Yoshi"**: caps. 1, 2 e 13 corrigidos. (O "Yoshinori" que fica é o da baleia no cap. 5 e o dos médicos.)
+- **O Kousuke e as flanelas**: não aconteceu. Ele tentava namorar a Luciana desde os 16 anos, ia muitas vezes à casa dela conversar e ajudava nos trabalhos da escola.
+
+**O que mudou no texto**
+- **Cap. 5 (2003)**: o Kousuke entra em cena pela primeira vez: terças e quintas, a mesa da cozinha, a química com a Carla ("Ele vem por causa da química?" / "Vem." / "Sei.").
+- **Cap. 10**: a abertura das flanelas foi reescrita: quatro anos de visitas e trabalhos de escola; a mãe pergunta "Esse menino vem estudar ou vem te ver?"; os convites recusados; "Eu não vou parar de vir." O "Para você" troca "onze flanelas" por "quatro anos de trabalhos de escola".
+- **Caps. 21, 31 e 33**: as referências às flanelas viraram "a maquete de geografia".
+- **Caps. 16–17**: a Ayumi nasce primeiro (maio de 2014); a Mity "veio dois anos depois, também em maio". Ano do cap. 17: 2014–2016.
+- **Cap. 18**: na volta ao Japão (2017), a Ayumi tem três anos e a Mity um; a moça do supermercado já não pergunta se são gêmeas; é a Ayumi quem segura o papel VOVÓ.
+- **Cap. 20**: a Ayumi segura a mão da Mity no banco de trás.
+- **Cap. 22**: a mala rosa é da Mity; o cartão de embarque fica com a Ayumi.
+- **Cap. 24**: a gravidez da Tiemi é descoberta **três semanas depois da volta da Alemanha** (mar. 2022): "ela tinha vindo com a gente do Brasil". A Tiemi nasce **em outubro** (2022, não 2023). A primeira venda acontece com a barriga crescendo; as "duas, três casas no mesmo mês" passam para o ano seguinte. No hospital, o Kousuke "tinha ido buscar as irmãs na escola" (sem visita de irmãos no berçário, por causa das restrições de 2022). Ano do cap. 24: 2022; Parte V: 2020–2022.
+- **Cap. 25**: é a Ayumi, com nove anos, que responde com monossílabos; a Mity chora por coisas pequenas. O sky coaster continua como no post (a Mity vai de cara, a Ayumi hesita).
+- **Cap. 30**: a Tiemi tem três anos no fim de 2025.
+
+**A conferir**
+- A idade do Kousuke: a V3 diz que ele tinha 16 quando ela tinha 14 ("dois a mais do que eu").
+- Se ele estudava na mesma escola; a V3 diz só que era "filho de uma família que a minha mãe conhecia da associação".
+- A "maquete de geografia" como o primeiro pretexto (inventado).
+- Se a gravidez da Tiemi foi descoberta já no Japão, em março de 2022, ou ainda no Brasil.
+

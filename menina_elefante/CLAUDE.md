@@ -47,7 +47,7 @@ Memória de Luciana Lumi Watanabe Yamanaka, no mesmo modelo de trabalho de *O Ja
 
 ## Pendências que só a autora decide (sinalize, não resolva sozinho)
 - Aprovar ou ajustar o roteiro (`docs/ROTEIRO.md`) e o tom da Parte I.
-- Nomes: irmãos (Marcos é irmão; Simone e Xavier?), a ordem e o nome da terceira filha (Mity e Tiemi já aparecem), o cachorro, os tios padrinhos; o marido aparece como **Kousuke** na voz dela (confirmar); se a empresa aparece como Easy House.
+- Nomes: irmãos (Marcos é irmão; Simone e Xavier?), o cachorro, os tios padrinhos; o marido aparece como **Kousuke** na voz dela (confirmar); se a empresa aparece como Easy House.
 - Batismo (data, lugar, presentes), primeiro salto (onde), Banco de Nagoya (cidade/ano), mural da vida extraordinária: perguntas em `docs/LEITURA_INSTAGRAM.md`.
 - Cidade da infância no Brasil; cidade(s) no Japão (provável: região de Minokamo/Gifu); ramo do trabalho da mãe.
 - O pai veio de navio criança ou adulto, e com quem.
