@@ -290,4 +290,4 @@ Arco: o sucesso quase desfaz a casa; a terapia não resolve tudo; ela para de ca
 - **Final:** ela saindo da água, ou atrás das filhas levantando o cartaz, sem precisar ser vista.
 
 ## Epílogo · set. 2026 · ~500 · IG 2, 4, 6, 7, 14
-Uma noite comum. A Ayumi no teclado no quarto (a avó que tocava tudo). A Mity lendo. A Tiemi com a franja nos olhos. Na parede, o mural com os checks. A tesoura errada, a tigela; a franja curta demais. "Encolhe quando seca." Fim.
+Uma noite comum. A Ayumi ensaiando a coreografia no quarto. A Mity com o cubo embaixo da mesa. A Tiemi com a franja nos olhos. Na parede, o mural com os checks. A tesoura errada, a tigela; a franja curta demais. "Encolhe quando seca." Fim.

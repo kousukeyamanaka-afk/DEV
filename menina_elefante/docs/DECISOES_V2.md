@@ -31,7 +31,7 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 
 ## Parte V (2020–2023)
 - **Cap. 21**: o despertador de xilofone; os sapatos de Franca; o curso de R$ 8 mil comprado às 2h; o curso de investimentos do Kousuke (perfil com trocadilho de "economia"); **o bilhete ao "Momo" colado com durex**; os 40 dias com luz de anel; o primeiro bungee (nov. 2020); **o zeimusho de Kariya em 24/6/2021**.
-- **Cap. 22**: o food truck **de pastel** (o que vendiam: a confirmar), com toldo verde e amarelo; o empréstimo de mais de um milhão de ienes; o stand-up; o feriado perdido; o aniversário em Minna; **as filhas enterrando os pés dela na areia**.
+- **Cap. 22**: o food truck (~~de pastel~~; **Surf and Turf**, confirmado em 01/10/2026), com toldo verde e amarelo; o empréstimo de mais de um milhão de ienes; o stand-up; o feriado perdido; o aniversário em Minna; **as filhas enterrando os pés dela na areia**.
 - **Cap. 23**: o arubaito numa fábrica de marmitas (o omelete); o Kousuke no depósito; a COVID com o hokenjo, a caixa de comida e o oxímetro; **a mãe que chega depois de uma quarentena num hotel e faz canja**; a asa-delta na Pedra Bonita no 1º de janeiro; a Bahia; **presos na Alemanha**.
 - **Cap. 24**: a porta automática da loja brasileira; panfletos, igrejas, vídeos; a primeira venda (três bancos); o "pânico" com a terceira gravidez e a foto do bungee; a Tiemi recém-nascida e o celular vibrando.
 
@@ -93,7 +93,7 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - o lugar do evento não é dito; ela senta entre **uma senhora com uma Bíblia** e **uma moça de tênis branco** (as duas, inventadas);
 - **a Camila Vieira e o Paulo Vieira aparecem pelo nome**, falando de identidade de forma genérica, **sem nenhuma fala atribuída a eles**; conferir se a autora está confortável com isso;
 - **a página de duas colunas na agenda**: as oito frases riscadas e as verdades ao lado são uma invenção a partir do post "Identidade" e do "vivi uma identidade baseada em mentiras" (IG 8, 9, 13);
-- **a resposta do Kousuke**: "Essa da direita eu conheço desde a maquete de geografia." (até 01/10/2026: "desde a primeira flanela")
+- **a resposta do Kousuke**: "Essa da direita eu conheço desde a maquete de geografia." (antes: "desde a primeira flanela", depois "desde a maquete de geografia"; agora "desde a lista de física")
 - **Paris** foi posta "semanas depois" do evento (os dois são do começo de 2026; a ordem real, a confirmar).
 
 **Cap. 32**: a **carta ao Kousuke** na noite da volta do Legendários usa as palavras do post dela (IG 10); **a folha dobrada no bolso da camisa** é invenção.
@@ -130,4 +130,41 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - Se ele estudava na mesma escola; a V3 diz só que era "filho de uma família que a minha mãe conhecia da associação".
 - A "maquete de geografia" como o primeiro pretexto (inventado).
 - Se a gravidez da Tiemi foi descoberta já no Japão, em março de 2022, ou ainda no Brasil.
+
+## Correções da família, segunda rodada (01/10/2026)
+**Fatos confirmados**
+- **Kousuke**: nascido em 27/02/1989, **um ano mais novo** que a Luciana (08/09/1988); ajudava em **exatas, matemática e física**.
+- **Namoro**: idas e vindas a partir dos 15 anos dela; de verdade aos 17–18.
+- **Noivado**: antes da ida ao Japão, **no sítio dos avós do Kousuke**; a avó tinha 75 anos.
+- **Primeira ida ao Japão**: como noivos, **um ano e meio**.
+- **Volta ao Japão**: a Ayumi com 3 anos, a Mity com 1 ano e meio.
+- **Food truck em Okinawa**: **Surf and Turf**, uma tigela de arroz com alho, frutos do mar fritos (peixe, lula e camarão) e torresmo a pururuca, com vinagrete de cebola roxa apimentada.
+- **Depois de Okinawa**: voltaram com COVID; os amigos ajudaram; a mãe veio cuidar das meninas. Depois, o Brasil (um mês que virou três, com os aeroportos fechados) e um ou dois dias na Alemanha. **O ramo imobiliário começa na volta ao Japão.**
+- **Tiemi**: a gravidez foi descoberta no Japão, logo na chegada.
+- **Mity**: é ela que toca teclado e faz o cubo mágico.
+- **Ayumi**: a Tiemi a chama de "Juju"; é ela que respondia com monossílabos.
+- **2025**: viagens ao Brasil para imersões em junho e em novembro, de um mês cada. **Mulheres Experience**: março de 2026, no Brasil, a Luciana sozinha. **Legendários**: maio de 2026.
+
+**O que mudou no texto**
+- **Caps. 5 e 10**: o Kousuke é um ano mais novo; explica equação de segundo grau à Luciana e à Carla ("Ele vem por causa da matemática?"); a mãe: "Ele é mais novo que você, filha. Quem devia estar ensinando era você." O cap. 10 conta o namoro de idas e vindas a partir dos 15 e o "dessa vez de verdade" aos 18. As pistas (caps. 21, 31, 33) viraram "a lista de física".
+- **Cap. 12**: a festa da avó passa a ser de 73 anos (antes, 90).
+- **Cap. 13**: o almoço de despedida e o pedido acontecem **no sítio dos avós**, debaixo da mangueira; a avó com 75 anos; ele se ajoelha na terra.
+- **Cap. 15**: "um ano e quatro meses de fábrica" em outubro de 2010 (um ano e meio no total, com a volta em dezembro).
+- **Cap. 18**: a Mity com um ano e meio.
+- **Cap. 22**: o pastel virou o Surf and Turf (o alho no óleo, a pele de porco secando para a pururuca, o vinagrete que as meninas provam com o dedo).
+- **Cap. 23**: nova ordem: a COVID na volta de Okinawa → os amigos (comida no genkan, compras, um saco de laranjas) → a mãe vem cuidar das meninas → o bico na fábrica de marmitas (o Kousuke só **estuda** o mercado imobiliário) → o Brasil, um mês que vira três com os aeroportos fechando → **dois dias na Alemanha**: a noite no aeroporto e, no dia seguinte, um passeio pela cidade (salsicha, pombos, a foto das meninas diante de uma igreja).
+- **Cap. 24**: o ramo imobiliário começa na volta; a gravidez é descoberta "logo que chegamos".
+- **Cap. 25**: a Tiemi, quando caía, corria chorando para a Ayumi, chamando "Juju", e não para a mãe.
+- **Cap. 29**: junho de 2025, um mês no Brasil numa imersão; em novembro, outra imersão de um mês (antes: "curso de uma semana em São Paulo").
+- **Cap. 31**: março de 2026, no Brasil, ela sozinha; a resposta do Kousuke chega de madrugada no Japão.
+- **Cap. 33 e epílogo**: a Mity toca teclado (o parabéns) e monta o cubo embaixo da mesa; a Ayumi entrega o bilhete e, no epílogo, ensaia uma coreografia diante do espelho, com a mãe sentada na cama, atrás dela.
+
+**A conferir**
+- "Tentava namorar desde os 16" (primeira mensagem) e "namoro de idas e vindas aos 15" (segunda): a V3 lê as idades como as **dela** (ele começa a aparecer quando ela tem 14; namoram de idas e vindas a partir dos 15).
+- **Cap. 25, "Juju"**: entendi que era para a Ayumi que a Tiemi corria. Se a Tiemi chamou a Ayumi de "mamãe" por engano, ajusto.
+- **Batismo**: o cap. 30 ainda o põe depois do Natal de 2025, no Brasil, na casa da mãe. Com as datas novas, cairia na viagem de março de 2026 (a do Mulheres Experience) ou em uma das de 2025.
+- **Paris (cap. 31)**: "semanas depois" do Mulheres Experience; de onde ela foi (Brasil ou Japão), a confirmar.
+- **Os aeroportos fechados (dez. 2021–mar. 2022)**: o texto fala de "variante nova", fronteiras e voos cancelados, sem detalhar regras.
+- **A cidade na Alemanha**: não é nomeada.
+- **A ajuda dos amigos** (o saco de laranjas, as compras): inventada.
 
