@@ -11,6 +11,7 @@ Romance de Alan Yamanaka (o dono deste repositório). A V1 (17 mil palavras, 48 
 3. `docs/ROTEIRO_V2.md` — o que acontece em cada capítulo, com as fontes na V1.
 4. Leia inteiros pelo menos `manuscrito/parte1/cap03.txt` e `manuscrito/parte3/cap11.txt`: são a referência de voz e de nível. De preferência, leia os 11 capítulos antes de começar a Parte IV.
 5. Para reaproveitar falas da V1, procure em `referencia/O_Jardim_V1.txt` (o roteiro indica os capítulos de origem).
+6. `docs/DOSSIE_CONTENTAMENTO_DINAMICO.md` — dossiê-mestre do autor com as teses, os relatos e os cuidados científicos e teológicos. Ele vale como contexto; em caso de conflito, prevalecem as regras deste arquivo. `docs/ATUALIZACAO_DOSSIE.md` registra como o dossiê já foi integrado.
 
 ## Fluxo de trabalho
 - Um capítulo por arquivo, nos caminhos já definidos em `manuscrito/estrutura.json` (ex.: `manuscrito/parte4/cap12.txt`).
@@ -25,6 +26,7 @@ Romance de Alan Yamanaka (o dono deste repositório). A V1 (17 mil palavras, 48 
 ## Regras que não se negociam
 - Nenhum capítulo termina em moral ou frase que explica a lição. Termine em imagem, gesto ou fala.
 - "Contentamento Dinâmico" é nomeado e definido uma única vez, no cap. 23, pela Maya, com deboche ("parece nome de palestra de coach"). Em nenhum outro lugar.
+- As `NOTAS DO AUTOR` (`manuscrito/notas_autor.txt`, depois do epílogo) explicam fontes e limites sem nomear o conceito; não as transforme em palestra nem cite autores com aspas sem edição e página conferidas.
 - As placas não voltam em negrito. No cap. 26 aparecem em prosa. Epílogo sem palestra, sem placas, sem definição.
 - O William não fracassa para provar que o Miguel estava certo. O Kuroda não é vilão. A Haruka não é vilã.
 - Os mentores não dão palestra. Em cada cena, alguém quer algo diferente do que o Miguel quer.

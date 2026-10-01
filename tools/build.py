@@ -87,6 +87,9 @@ def main():
     ep = ROOT / est['epilogo']['arquivo']
     if not only and ep.exists():
         xml.append(title(est['epilogo']['titulo'], before=1100)); xml += body_from_txt(ep)
+    notas = ROOT / est['notas']['arquivo'] if 'notas' in est else None
+    if not only and notas and notas.exists():
+        xml.append(PB); xml.append(title(est['notas']['titulo'], before=1100)); xml += body_from_txt(notas)
     while xml and xml[-1] == PB:
         xml.pop()
     name = f"O_Jardim_V2_Parte_{only}.docx" if only else 'O_Jardim_V2.docx'

@@ -36,5 +36,6 @@
       {"n": 25, "titulo": "A CARTA", "arquivo": "manuscrito/parte6/cap25.txt"},
       {"n": 26, "titulo": "A CASA ACESA", "arquivo": "manuscrito/parte6/cap26.txt"}]}
   ],
-  "epilogo": {"titulo": "EPÍLOGO — O JARDIM NÃO TERMINA", "arquivo": "manuscrito/epilogo.txt"}
+  "epilogo": {"titulo": "EPÍLOGO — O JARDIM NÃO TERMINA", "arquivo": "manuscrito/epilogo.txt"},
+  "notas": {"titulo": "NOTAS DO AUTOR", "arquivo": "manuscrito/notas_autor.txt"}
 }
