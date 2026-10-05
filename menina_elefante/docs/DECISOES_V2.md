@@ -242,3 +242,13 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - **A COVID**: a nova cronologia a põe depois de uma segunda ida a Okinawa, em set. 2021. A data vem do post do aniversário em Minna Island, em 07/09/2021, e do "COVID de novo em menos de 6 meses", em fev. 2022. Se a COVID foi na volta do food truck, em 2020, é preciso rever a viagem ao Brasil e a Alemanha (dez. 2021–mar. 2022).
 - **O ponto de vista**: o capítulo dela comenta bastante como adulta ("Hoje...") dentro da cena. Mantive como ela escreveu.
 
+### Datas corrigidas pela família (05/10/2026)
+- **Food truck em Okinawa**: agosto de **2021**. COVID na volta (setembro de 2021). Brasil do fim de 2021 a março de 2022.
+- **Cap. 22**: no texto da Luciana, as idades passam para 7 e 5 anos ("A Ayumi tinha sete anos. A Mity, cinco." / "Tinham cinco e sete anos."). Ano do capítulo: 2021.
+- **Caps. 21 e 23**: voltam à ordem anterior.
+  - Cap. 21 (2020–2021): o curso, a saída da fábrica no segundo semestre de 2020, o lançamento, o bungee (nov. 2020) e a Lumi Digital (jun. 2021).
+  - Cap. 23 (2021–2022): a COVID na volta de Okinawa, a mãe, o bico ("mais de um ano" fora da fábrica), o Brasil e a Alemanha.
+- **Parte V**: 2020–2022.
+- **Fica sem efeito** a "segunda ida a Okinawa" que eu tinha proposto.
+- **Ainda a conferir**: quem é a madrasta.
+

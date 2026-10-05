@@ -3,7 +3,13 @@
 Tudo o que está marcado **(V2)** foi criado na reescrita e precisa ser confirmado pela Luciana. Tudo o que está marcado **(?)** é dedução. Marcado **(IG)**: vem das postagens e textos dela (`referencia/instagram_luciana.md`; leitura em `docs/LEITURA_INSTAGRAM.md`).
 
 ## Linha do tempo
-> **Okinawa reescrito pela Luciana (05/10/2026)**: o food truck foi em **agosto de 2020**. Antes disso: saída da fábrica no fim de 2019 e lançamento do curso de finanças no começo de 2020, sem retorno. A ideia veio de um jantar com **a madrasta dela**, que queria abrir um restaurante em Okinawa e já tinha algumas licenças. O prato era o Surf and Turf. Houve um prato vendido em três dias, o feriado de agosto sob restrições e previsão de tufão, uma hospedagem de quase dois meses, o Kousuke "sem chão" no quarto escuro e o "Acorda" dela. Depois disso, nov. 2020: o primeiro bungee; jun. 2021: Lumi Digital; **set. 2021: volta a Okinawa a passeio** (aniversário em Minna Island), de onde voltam com COVID; a mãe vem; Brasil dez. 2021–mar. 2022; Alemanha.
+> **Okinawa (confirmado pela família, 05/10/2026)**:
+> - O food truck foi em **agosto de 2021**. O texto da Luciana dizia 2020; a data foi corrigida a pedido da família.
+> - Antes: em 2020, o curso de marketing e a saída da fábrica no segundo semestre ("quase um ano" antes de Okinawa); o lançamento, sem retorno; nov. 2020, o primeiro bungee; jun. 2021, a Lumi Digital.
+> - A ideia veio de um jantar com **a madrasta dela**, que queria abrir um restaurante em Okinawa e já tinha algumas licenças.
+> - Em Okinawa: um prato vendido em três dias, o Kousuke "sem chão", o "Acorda" dela. A Ayumi tinha 7 anos e a Mity 5.
+> - Na volta, **COVID** (set. 2021); os amigos ajudam e a mãe vem.
+> - Brasil do fim de 2021 a **março de 2022**; Alemanha na volta.
 
 > **Cronologia confirmada pela família (01/10/2026)**: namoro de idas e vindas (ela com 16, ele com 15) → namoro de verdade aos 17–18 → noivado no sítio dos avós do Kousuke (avó com 75 anos) → Japão como noivos, um ano e meio → Brasil: nascem a Ayumi e a Mity → volta ao Japão com a Ayumi de 3 anos e a Mity de 1 ano e meio (~fim de 2017) → saem dos empregos para empreender: o lançamento digital, depois o food truck em Okinawa (Surf and Turf) → voltam de Okinawa com COVID; amigos ajudam; a mãe vem cuidar das meninas → viagem ao Brasil de um mês que vira três (aeroportos fechados) → um ou dois dias presos na Alemanha (sem o teste) → volta ao Japão; começa o trabalho no ramo imobiliário (e a gravidez da Tiemi, descoberta logo na chegada) → jun. e nov. de 2025: viagens ao Brasil para imersões, um mês cada → nov. 2025: batismo no Brasil, depois da imersão do Pablo Marçal → mar. 2026: Mulheres Experience, no Brasil, ela sozinha; Paris na volta para o Japão → maio 2026: o Kousuke no Legendários.
 
