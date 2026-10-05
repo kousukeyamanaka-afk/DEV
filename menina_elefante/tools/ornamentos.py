@@ -3,7 +3,7 @@
 e um ramo de oliveira claro num canto (folhas lanceoladas com nervura, azeitonas), no estilo das
 páginas de citação de livros de negócios. Só usa a biblioteca padrão do Python.
 
-Uso: python3 tools/ornamentos.py   -> ilustracoes/destaque_<desenho>_<lado>[_azeitonas].png
+Uso: python3 tools/ornamentos.py   -> ilustracoes/destaque_<desenho>_<lado>[_azeitonas].png e ilustracoes/ramo_reflexao.png
 (1100 x 1700 px, 200 dpi, 5,5 x 8,5 pol.). Cada desenho sai com e sem azeitonas; manuscrito/destaques.json
 escolhe qual versão cada página usa.
 """
@@ -288,7 +288,28 @@ def gerar(nome, lado, frutos, seed=7):
     return p
 
 
+def ramo_reflexao():
+    """Divisor pequeno (fundo branco, tinta cinza) que abre o 'Para você': dois raminhos saindo do centro."""
+    global W, H, S, K, ANCORA, FUNDO, TINTA
+    salvo = (W, H, S, K, ANCORA, FUNDO, TINTA)
+    W, H = 900, 250
+    S, K, ANCORA = W / 1000, 1.0, (0, 0)
+    FUNDO, TINTA = (255, 255, 255), (105, 105, 100)
+    t = Tela()
+    esq = bezier((500, 150), (400, 170), (260, 150), (110, 105), 80)
+    dir_ = bezier((500, 150), (600, 170), (740, 150), (890, 105), 80)
+    galho(t, esq, 3.4, 1.4, 58, 72, 52, 12, 9, azeitonas=(2,), seed=4, abertura=0.7)
+    galho(t, dir_, 3.4, 1.4, 58, 72, 52, 12, 9, azeitonas=(3,), seed=9, abertura=0.7)
+    t.ponto(500, 152, 6)
+    OUT.mkdir(exist_ok=True)
+    p = OUT / 'ramo_reflexao.png'
+    t.png(p)
+    W, H, S, K, ANCORA, FUNDO, TINTA = salvo
+    return p
+
+
 def main():
+    print(ramo_reflexao().relative_to(ROOT))
     for nome in DESENHOS:
         for lado in ('esq', 'dir'):
             for frutos in (False, True):

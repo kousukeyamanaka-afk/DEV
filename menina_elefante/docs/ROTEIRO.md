@@ -1,4 +1,98 @@
-# Roteiro definitivo da V2
+# Roteiro V3: a jornada da heroína (30/09/2026)
+
+Pedido da autora: história real em linha cronológica, com estrutura de heroína (luta, sofre, acha que perdeu, se levanta, descobre sua identidade, vence, e a história continua), e no fim de cada capítulo uma conversa com quem lê ("Para você"), no espírito do *Plenitude*, de Camila Vieira. Substitui o roteiro da V2 (mantido abaixo como histórico).
+
+**Abertura**: "Antes de começar" (a Luciana de hoje). **Fim**: epílogo "A história continua" + página de apoio (CVV 188).
+
+**A espinha em uma frase**: uma menina que era grande e achava que era pequena passa trinta anos acreditando em frases sobre si; no cap. 31 ela as escreve numa coluna, risca uma por uma e escreve ao lado quem ela é.
+
+## PARTE I — A MENINA DA FRANJA (1994–2003)
+*Etapa da heroína*: O mundo comum: a menina aprende a caber.
+
+| Cap. | Título | Ano | A mentira da cena | A verdade no "Para você" |
+|---|---|---|---|---|
+| 1 | A FRANJINHA | 1994 | Se eu sorrir, todo mundo fica bem | Posso sorrir quando estou bem |
+| 2 | O NAVIO E OS DOZE | 1996 | Dor não se fala: se enxuga a louça | Honrar quem veio antes é ficar com a coragem, não com o silêncio |
+| 3 | O CAMALEÃO | 1996–1998 | "Essa não dá trabalho nenhum" / "Tanto faz" | Dá para ser gentil sem desaparecer |
+| 4 | O PREÇO DE PERTENCER | 2003 | Pertencer vale qualquer preço | Reconhecer que eu também feri liberta (humildade) |
+| 5 | O LADO DE DENTRO DA PORTA | 2003 | "O meu não é nada" | A minha dor conta |
+
+## PARTE II — A PRIMEIRA QUEDA (2004–2007)
+*Etapa da heroína*: A primeira queda: o pai cai, ela segura todo mundo; o amor chega no meio.
+
+| Cap. | Título | Ano | A mentira da cena | A verdade no "Para você" |
+|---|---|---|---|---|
+| 6 | A SALA | 2004 | Estar ocupada é estar bem | Servir não pode virar esconderijo |
+| 7 | TRINTA DIAS | 2004 | "Eu nunca mais te peço nada" | Posso pedir; Deus não é balcão de trocas |
+| 8 | O MONTE | 2004 | Para amar alguém, é preciso apagar o que ele fez | Dá para amar sem apagar o erro, nem o bem |
+| 9 | MEIA-NOITE | 2006 | Eu preciso segurar todo mundo | Quem sustenta a vida de alguém não sou eu |
+| 10 | O ÔNIBUS DAS ONZE | 2006 | Quem é gentil comigo vai cobrar depois | O amor que fica não cobra a sobra |
+| 11 | A LIGAÇÃO | 2007 | "Está tudo sob controle" | A vida vale a pena; pedir ajuda (CVV 188) |
+
+## PARTE III — A TRAVESSIA (2007–2010)
+*Etapa da heroína*: A travessia: o amor testado, o Japão, a primeira coisa só dela.
+
+| Cap. | Título | Ano | A mentira da cena | A verdade no "Para você" |
+|---|---|---|---|---|
+| 12 | TESTES | 2007 | Todo mundo vai embora; melhor que vá logo | Olhar embaixo da raiva: do que eu tenho medo? |
+| 13 | O ALMOÇO DE DESPEDIDA | 2009 | "Como assim, eu?" (não mereço ser escolhida) | O amor que vale a pena é escolha, não prêmio |
+| 14 | CATORZE HORAS | 2009 | Eu só faço o que precisam de mim | Querer não é egoísmo |
+| 15 | NEVE | 2010 | Plano que dá errado é perda | Plano que dá errado também abre porta |
+
+## PARTE IV — A RÉGUA DOS OUTROS (2011–2020)
+*Etapa da heroína*: As provações: a régua dos outros, a fuga, o câncer da mãe, o corpo que grita.
+
+| Cap. | Título | Ano | A mentira da cena | A verdade no "Para você" |
+|---|---|---|---|---|
+| 16 | TUDO DO MEU JEITO | 2011–2014 | Se eu controlar tudo, nada dá errado | Tudo bem aprender dirigindo |
+| 17 | TODO MUNDO SABIA | 2014–2015 | "Você tem sorte" | O que eu tenho, eu também construí |
+| 18 | LONGE DAS VOZES | 2017 | Longe, ninguém me compara | Mudar de lugar não muda o que se carrega |
+| 19 | FOI TUDO ÓTIMO | 2019 | "Foi tudo ótimo" / "Eu dou conta" | Posso dizer "não estou dando conta" |
+| 20 | O OLHAR DELA | 2019–2020 | Não sei receber um olhar de admiração | Ansiedade é o corpo falando; deixe alguém olhar para você |
+
+## PARTE V — O DESERTO (2020–2023)
+*Etapa da heroína*: O deserto: arrisca, acha que perdeu tudo (Okinawa), se levanta (a porta automática).
+
+| Cap. | Título | Ano | A mentira da cena | A verdade no "Para você" |
+|---|---|---|---|---|
+| 21 | OITO MIL REAIS | 2020–2021 | Preciso provar que não sou só a moça da esteira | Toda decisão grande tem um custo para quem está do lado |
+| 22 | OKINAWA | 2021 | Fracassar é o fim | O deserto ensina a andar |
+| 23 | ARUBAITO | 2021–2022 | Não sei receber cuidado | Receber também se aprende |
+| 24 | A PORTA AUTOMÁTICA | 2022–2023 | Esperar um sinal confortável para entrar | Porta automática responde a movimento |
+
+## PARTE VI — A MENINA ELEFANTE (2023–2025)
+*Etapa da heroína*: A descoberta: o auge vazio, a terapia, o nome (menina elefante), o salto, o recomeço.
+
+| Cap. | Título | Ano | A mentira da cena | A verdade no "Para você" |
+|---|---|---|---|---|
+| 25 | O AUGE | 2023 | Se a linha está preta, está tudo bem | O sucesso não ocupa o lugar do que é prioridade |
+| 26 | A PRIMEIRA SESSÃO | 2024 | "Minha vida é comum" | Pedir ajuda foi o primeiro ato de coragem |
+| 27 | A HISTÓRIA DO ELEFANTE | 2024 | A estaca ainda segura (a força que derruba) | A estaca é pequena; você é que cresceu. Posso ser forte e existir |
+| 28 | O SALTO | 2025 | Coragem é não ter medo | Coragem é ir com o medo inteiro |
+| 29 | RECOMEÇO | 2025 | Recomeçar é admitir que perdeu (o orgulho como capa) | Recomeçar é vencer; um casamento se salva com dois |
+
+## PARTE VII — QUEM EU SOU (2025–2026)
+*Etapa da heroína*: A vitória: identidade, fé, a ponte, a vida vale a pena; e a história continua.
+
+| Cap. | Título | Ano | A mentira da cena | A verdade no "Para você" |
+|---|---|---|---|---|
+| 30 | AS ÁGUAS | 2025–2026 | Identidade é o que disseram sobre mim | Minha identidade começou em Deus |
+| 31 | UMA NOVA VERSÃO | 2026 | (a lista das mentiras, riscada) | "Eu sei quem eu sou" |
+| 32 | A PONTE | 2026 | Minhas dores foram desperdiçadas | Toda dor pode virar ponte |
+| 33 | A VIDA VALE A PENA | 2026 | Minha vida é comum demais para ser contada | A vida vale a pena, até os pedaços que doem |
+
+## Epílogo: A história continua (2026)
+A franja da Tiemi; o último "Para você": não existe final, a menina elefante sabe quem é, a história dela continua, e a de quem lê também.
+
+## O que mudou de lugar em relação à V2
+- O antigo prólogo (primeira sessão e a foto) virou o cap. 26, em 2024, junto com o amuleto do dragão e a Ayumi na porta.
+- "O ônibus das onze" (o Kousuke) veio antes de "A ligação": ele aparece no pronto-socorro já apresentado.
+- O cubo e o batismo ficaram no cap. 30; Paris foi para o cap. 31 (depois do Mulheres Experience); o Legendários e a casa no Banco de Nagoya, para o cap. 32.
+- Novos: abertura, caps. 31 (Mulheres Experience e Paris), 32 (a carta ao Kousuke; o bolso da camisa), 33 (a corrida de Minokamo, os 38 anos, a carta à menina da franja), o fim do epílogo e a página de apoio.
+
+---
+
+# Roteiro da V2 (histórico; substituído pelo V3 acima)
 
 Consolidado depois da leitura da V1 e dos 77 posts e textos da Luciana (`referencia/instagram_luciana.md`, leitura em `docs/LEITURA_INSTAGRAM.md`). Substitui as versões anteriores (ver histórico do git).
 29 capítulos, prólogo e epílogo, ~34 mil palavras, em ordem cronológica, com moldura em 2024.
@@ -117,12 +211,12 @@ Arco: casada, mãe, forte. As vozes de fora viram voz de dentro. A primeira vira
 
 **16 — Tudo do meu jeito** · 2011–2014 · ~1.400 · V1 30–31; IG 53, 54, 61, 7
 - Ela quer: controle. Todo mundo quer dar opinião no casamento.
-- Noivado longo; casamento em 2013, na igreja, tudo do jeito dela; o mesmo prato em todo restaurante; o apartamento; a gravidez da Mity, rápido demais; "habilitada para dirigir, sem saber fazer a baliza".
+- Noivado longo; casamento em 2013, na igreja, tudo do jeito dela; o mesmo prato em todo restaurante; o apartamento; a gravidez da Ayumi, rápido demais; "habilitada para dirigir, sem saber fazer a baliza".
 - **Final:** ela no carro com a bebê, o cinto conferido três vezes, sem ligar o motor.
 
 **17 — Todo mundo sabia** · 2014–2016 · ~1.400 · V1 21, 32–34; IG 44, 13
 - Ela quer: ser boa o bastante. Todos sabem como ela deveria criar.
-- Opiniões, comparações ("Fulana fala japonês fluente"), e a que fica: "Você tem sorte de ter seu esposo". A Ayumi; as brigas; os hormônios como desculpa. A "super cama" no carro, que ele monta.
+- Opiniões, comparações ("Fulana fala japonês fluente"), e a que fica: "Você tem sorte de ter seu esposo". A Mity; as brigas; os hormônios como desculpa. A "super cama" no carro, que ele monta.
 - **Final:** ela repetindo, sozinha, para o espelho ou para a bebê, a frase "você tem sorte", como quem decora.
 
 **18 — Longe das vozes** · ~2017 · ~1.300 · V1 35–37
@@ -196,4 +290,4 @@ Arco: o sucesso quase desfaz a casa; a terapia não resolve tudo; ela para de ca
 - **Final:** ela saindo da água, ou atrás das filhas levantando o cartaz, sem precisar ser vista.
 
 ## Epílogo · set. 2026 · ~500 · IG 2, 4, 6, 7, 14
-Uma noite comum. A Ayumi no teclado no quarto (a avó que tocava tudo). A Mity lendo. A Tiemi com a franja nos olhos. Na parede, o mural com os checks. A tesoura errada, a tigela; a franja curta demais. "Encolhe quando seca." Fim.
+Uma noite comum. A Ayumi ensaiando a coreografia no quarto. A Mity com o cubo embaixo da mesa. A Tiemi com a franja nos olhos. Na parede, o mural com os checks. A tesoura errada, a tigela; a franja curta demais. "Encolhe quando seca." Fim.

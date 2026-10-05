@@ -59,10 +59,10 @@ Tensão de 1 (repouso) a 5 (pico). "Modo" = cena (C) ou resumo (R) predominante.
 | Epíl. | 1 | 1 | Três filhas, três gestos. |
 
 ## 4. Arcos secundários (resumo)
-- **Kousuke**: flanelas (11) → dez passos atrás (11) → não escolhe (12) → a super cama (17) → o sonhador que ela põe no curso (21) → o sócio cansado (25, 27) → **o limite** (28) → a montanha (29) → lado a lado (28 final, 29).
+- **Kousuke**: visitas e trabalhos de escola desde os 16 (5, 10) → dez passos atrás (11) → não escolhe (12) → a super cama (17) → o sonhador que ela põe no curso (21) → o sócio cansado (25, 27) → **o limite** (28) → a montanha (29) → lado a lado (28 final, 29).
 - **O pai (Yoshinori)**: herói de óculos escuros (1) → a baleia (2, 5) → o monte e o quarto filho (8) → o sofá-cama (9) → os remédios (10) → o copo levantado (13) → **a caneca de asa colada na estante, o vídeo do bungee: "Puxou a minha mãe"** (28).
 - **A mãe (Nair)**: a franja e a foto (1) → a louça e as perdas (2) → "Pode escrever quatro" (8) → o feijão congelado (9) → a solidão da cozinha (18) → o olhar no hospital (20) → a canja (23) → **"Mãe sabe"; "Você é orgulhosa"** (28) → a primeira fila do batismo (29).
-- **A Ayumi**: a que hesita e vai (25) → a porta da cozinha às 2h (25) → o motivo da terapia (26) → **a mãe senta ao lado dela no banco do teclado e fica** (epílogo).
+- **A Ayumi**: a que hesita e vai (25) → a porta da cozinha às 2h (25) → o motivo da terapia (26) → **a mãe senta na cama, atrás dela, enquanto ela dança, e fica** (epílogo).
 - **A Mity**: o cubo que ela joga nas almofadas e depois monta (29, depois que a mãe monta às 3h) → o livro no epílogo.
 - **A Tiemi**: o pontinho rosa (27) → a franja (epílogo).
 
