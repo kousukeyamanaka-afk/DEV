@@ -214,3 +214,31 @@ O livro inteiro está escrito (prólogo, 29 capítulos e epílogo, ~34.300 palav
 - `saidas/A_Menina_Elefante_V4.pdf`: o PDF de leitura, com 238 páginas. Tem sumário, número de página no pé e hifenização por sílabas.
 - Os .docx da V3 saíram de `saidas/` e continuam no histórico do git.
 
+## Okinawa reescrito pela Luciana (05/10/2026)
+- **Cap. 22**:
+  - agora é o texto dela, "O que sobrou quando deu errado" (agosto de 2020);
+  - foi adaptado só em três pontos: "o Kousuke" no lugar de "meu marido", o artigo antes dos nomes das filhas e o "Para você" no formato do livro, terminando nas perguntas dela;
+  - saíram o pastel, o stand-up, o aniversário e as meninas enterrando os pés (eram da V2/V3);
+  - a página de destaque do capítulo agora é "Quando o plano acabou, continuamos escolhendo ficar."
+- **Cap. 21** (agora 2019–2020):
+  - o curso de marketing é comprado em 2019, com a mãe ainda em casa, em remissão;
+  - os dois saem da fábrica no fim de 2019;
+  - o lançamento acontece no começo de 2020 e não sustenta a casa;
+  - o capítulo termina no Kousuke diante da última linha da planilha, sem abrir aba nova;
+  - o bungee e a Lumi Digital saíram daqui e foram para o cap. 23;
+  - o "Para você" troca o "o que é isso, filha?" pela pergunta do refeitório ("se era pirâmide").
+- **Cap. 23** (agora 2020–2022), na nova ordem:
+  - a volta de Okinawa em 2020 e o bico na fábrica de marmitas, "quase um ano" fora da fábrica;
+  - o primeiro bungee, em novembro de 2020;
+  - a Lumi Digital, em junho de 2021, com o "O que é isso, filha?";
+  - **setembro de 2021**: a volta a Okinawa a passeio, para o aniversário de 33 anos na ilhazinha;
+  - a COVID na volta;
+  - a mãe vem cuidar das meninas;
+  - o Brasil e a Alemanha.
+- **Parte V**: passa a 2019–2022.
+
+**A conferir**
+- **A madrasta**: quem é? A esposa do Yoshinori? Mora no Japão ou em Okinawa? Até aqui, o livro não a apresenta (a "outra família" do pai só aparece no cap. 8). Ela entra só neste capítulo.
+- **A COVID**: a nova cronologia a põe depois de uma segunda ida a Okinawa, em set. 2021. A data vem do post do aniversário em Minna Island, em 07/09/2021, e do "COVID de novo em menos de 6 meses", em fev. 2022. Se a COVID foi na volta do food truck, em 2020, é preciso rever a viagem ao Brasil e a Alemanha (dez. 2021–mar. 2022).
+- **O ponto de vista**: o capítulo dela comenta bastante como adulta ("Hoje...") dentro da cena. Mantive como ela escreveu.
+
