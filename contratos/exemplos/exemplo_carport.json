@@ -1,0 +1,32 @@
+{
+  "contrato": {"numero": "2026-001", "data": "2026-12-01", "responsavel": "山中"},
+  "cliente": {
+    "furigana": "ヤマダ　タロウ",
+    "nome": "山田　太郎",
+    "cep": "000-0000",
+    "endereco": "愛知県○○市○○町1丁目1番地",
+    "tel": "090-0000-0000"
+  },
+  "local_obra": {"mesmo_endereco": true, "endereco": ""},
+  "valor_total_com_imposto": 1100000,
+  "pagamento": {"metodo": ["振込"], "condicao": ["完了時"], "vencimento": "2027-01-31"},
+  "garantia": {"tipo": ["メーカー"], "periodo": "1年"},
+  "obra": {
+    "nome": "カーポート設置工事",
+    "especificacao": [
+      "① 製品：LIXIL カーポート 2台用　色：ナチュラルシルバー",
+      "② 工事内容：柱基礎工事、本体組立、屋根材取付、雨樋・排水処理",
+      "③ 付帯作業：資材の運搬・搬入、残土・梱包材の処分、清掃"
+    ],
+    "inicio": "2026-12-10",
+    "entrega": "2026-12-25"
+  },
+  "itens": [
+    {"nome": "カーポート本体", "spec": "LIXIL 2台用／ナチュラルシルバー", "qtd": "1式", "valor": 800000},
+    {"nome": "取付工事", "spec": "基礎・組立・据付・残土処分", "qtd": "1式", "valor": 300000}
+  ],
+  "observacoes": [
+    "・金額は消費税込み（税率10%）です。詳細は見積書・図面のとおりとします。",
+    "・追加・変更工事が必要な場合は約款第4条により協議します。"
+  ]
+}
